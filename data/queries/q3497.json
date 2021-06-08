@@ -1,0 +1,1 @@
+{"QuestionId":"q3497","Parse":{"TopicEntityName":"Erica Frank ","TopicEntityMid":"<http://dbpedia.org/resource/Erica_Frank>","InferentialChain":["common","institute","robert","hall","erica","frank"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Stanford_University>","EntityName":"Stanford University"}]}}

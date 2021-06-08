@@ -1,0 +1,1 @@
+{"QuestionId":"q4749","Parse":{"TopicEntityName":"Don Ashby ","TopicEntityMid":"<http://dbpedia.org/resource/Don_Ashby>","InferentialChain":["team","dan","daoust","don","ashby","play"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Toronto_Maple_Leafs>","EntityName":"Toronto Maple Leafs"}]}}

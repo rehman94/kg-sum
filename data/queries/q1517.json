@@ -1,0 +1,1 @@
+{"QuestionId":"q1517","Parse":{"TopicEntityName":"Brower s Spring ","TopicEntityMid":"<http://dbpedia.org/resource/Brower's_Spring>","InferentialChain":["rivers","start","brower","s","spring"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Missouri_River>","EntityName":"Missouri River"}]}}

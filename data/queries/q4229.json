@@ -1,0 +1,1 @@
+{"QuestionId":"q4229","Parse":{"TopicEntityName":"1999 San Marino Grand Prix ","TopicEntityMid":"<http://dbpedia.org/resource/1999_San_Marino_Grand_Prix>","InferentialChain":["driver","1999","san","marino","grand","prix"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Michael_Schumacher>","EntityName":"Michael Schumacher"}]}}

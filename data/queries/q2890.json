@@ -1,0 +1,1 @@
+{"QuestionId":"q2890","Parse":{"TopicEntityName":"Alvin Bell ","TopicEntityMid":"<http://dbpedia.org/resource/Alvin_Bell>","InferentialChain":["college","attended","mr","","hubert","wiggs","mr","","alvin","bell"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Vanderbilt_University>","EntityName":"Vanderbilt University"}]}}

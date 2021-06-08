@@ -1,0 +1,1 @@
+{"QuestionId":"q4830","Parse":{"TopicEntityName":"Halloween  poem  ","TopicEntityMid":"<http://dbpedia.org/resource/Halloween_(poem)>","InferentialChain":["renowned","ae","fond","kiss","poem","halloween"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Robert_Burns>","EntityName":"Robert Burns"}]}}

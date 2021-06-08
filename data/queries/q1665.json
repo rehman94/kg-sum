@@ -1,0 +1,1 @@
+{"QuestionId":"q1665","Parse":{"TopicEntityName":"Giannis Alafouzos ","TopicEntityMid":"<http://dbpedia.org/resource/Giannis_Alafouzos>","InferentialChain":["giannis","alafouzos","originate"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Greece>","EntityName":"Greece"}]}}

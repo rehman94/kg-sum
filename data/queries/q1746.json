@@ -1,0 +1,1 @@
+{"QuestionId":"q1746","Parse":{"TopicEntityName":"Moondog Matinee ","TopicEntityMid":"<http://dbpedia.org/resource/Moondog_Matinee>","InferentialChain":["composer","subsequent","work","moondog","matinee","composed","times","changin"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Bob_Dylan>","EntityName":"Bob Dylan"}]}}

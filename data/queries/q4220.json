@@ -1,0 +1,1 @@
+{"QuestionId":"q4220","Parse":{"TopicEntityName":"The Prodigal Son  play  ","TopicEntityMid":"<http://dbpedia.org/resource/The_Prodigal_Son_(play)>","InferentialChain":["meaning","the","isa","of","the","subject","of","play","the","prodigal","son"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Jesus>","EntityName":"Jesus"}]}}

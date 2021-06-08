@@ -1,0 +1,1 @@
+{"QuestionId":"q3668","Parse":{"TopicEntityName":"Saint Petersburg ","TopicEntityMid":"<http://dbpedia.org/resource/Saint_Petersburg>","InferentialChain":["list","authors","education","place","saint","petersburg"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Fyodor_Dostoyevsky>","EntityName":"Fyodor Dostoyevsky"}]}}

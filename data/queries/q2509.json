@@ -1,0 +1,1 @@
+{"QuestionId":"q2509","Parse":{"TopicEntityName":"Wizard rock ","TopicEntityMid":"<http://dbpedia.org/resource/Wizard_rock>","InferentialChain":["stylistic","origin","wizard","rock"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Harry_Potter>","EntityName":"Harry Potter"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q693","Parse":{"TopicEntityName":"Mind sport ","TopicEntityMid":"<http://dbpedia.org/resource/Mind_sport>","InferentialChain":["board","game","mind","based","game"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Chess>","EntityName":"Chess"}]}}

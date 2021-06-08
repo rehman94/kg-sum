@@ -1,0 +1,1 @@
+{"QuestionId":"q2140","Parse":{"TopicEntityName":"OneDrive ","TopicEntityMid":"<http://dbpedia.org/resource/OneDrive>","InferentialChain":["mexico","company","drive","service"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Microsoft>","EntityName":"Microsoft"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q486","Parse":{"TopicEntityName":"Chordate ","TopicEntityMid":"<http://dbpedia.org/resource/Chordate>","InferentialChain":["mammals","chordate","phylum"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"8969","EntityName":""}]}}

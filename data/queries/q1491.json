@@ -1,0 +1,1 @@
+{"QuestionId":"q1491","Parse":{"TopicEntityName":"Germany ","TopicEntityMid":"<http://dbpedia.org/resource/Germany>","InferentialChain":["relatives","people","died","germany"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"32","EntityName":""}]}}

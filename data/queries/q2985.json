@@ -1,0 +1,1 @@
+{"QuestionId":"q2985","Parse":{"TopicEntityName":"Chandra Shekhar ","TopicEntityMid":"<http://dbpedia.org/resource/Chandra_Shekhar>","InferentialChain":["leading","party","baraily","chandra","shekhar","is"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Indian_National_Congress>","EntityName":"Indian National Congress"}]}}

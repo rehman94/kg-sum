@@ -1,0 +1,1 @@
+{"QuestionId":"q2929","Parse":{"TopicEntityName":"John Roeslein ","TopicEntityMid":"<http://dbpedia.org/resource/John_Roeslein>","InferentialChain":["state","team","","which","john","roeslein"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Missouri>","EntityName":"Missouri"}]}}

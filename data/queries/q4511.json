@@ -1,0 +1,1 @@
+{"QuestionId":"q4511","Parse":{"TopicEntityName":"Katima Mulilo Bridge ","TopicEntityMid":"<http://dbpedia.org/resource/Katima_Mulilo_Bridge>","InferentialChain":["river","katima","mulilo","bridge","cross"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Zambezi>","EntityName":"Zambezi"}]}}

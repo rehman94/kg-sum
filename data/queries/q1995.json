@@ -1,0 +1,1 @@
+{"QuestionId":"q1995","Parse":{"TopicEntityName":"Daewoo Tico ","TopicEntityMid":"<http://dbpedia.org/resource/Daewoo_Tico>","InferentialChain":["company","produced","car","which","version","daewoo","s","tico"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/General_Motors>","EntityName":"General Motors"}]}}

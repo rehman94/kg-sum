@@ -1,0 +1,1 @@
+{"QuestionId":"q4939","Parse":{"TopicEntityName":"Seattle Great Wheel ","TopicEntityMid":"<http://dbpedia.org/resource/Seattle_Great_Wheel>","InferentialChain":["location","town","seattle","great","wheel"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Seattle>","EntityName":"Seattle"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q3883","Parse":{"TopicEntityName":"Carroll E  Lanier ","TopicEntityMid":"<http://dbpedia.org/resource/Carroll_E._Lanier>","InferentialChain":["branch","carroll","e","","lanier"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/United_States_Navy>","EntityName":"United States Navy"}]}}

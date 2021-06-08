@@ -1,0 +1,1 @@
+{"QuestionId":"q4388","Parse":{"TopicEntityName":"Heathsville  Virginia ","TopicEntityMid":"<http://dbpedia.org/resource/Heathsville,_Virginia>","InferentialChain":["river","starts","county","seat","heathsville","","virginia"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Potomac_River>","EntityName":"Potomac River"}]}}

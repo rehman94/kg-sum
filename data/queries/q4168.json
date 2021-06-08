@@ -1,0 +1,1 @@
+{"QuestionId":"q4168","Parse":{"TopicEntityName":"Lori Black ","TopicEntityMid":"<http://dbpedia.org/resource/Lori_Black>","InferentialChain":["office","holder","s","successor","adrian","","basora","child","named","lori","black"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Shirley_Temple>","EntityName":"Shirley Temple"}]}}

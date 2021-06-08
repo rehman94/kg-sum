@@ -1,0 +1,1 @@
+{"QuestionId":"q112","Parse":{"TopicEntityName":"Rouen Business School ","TopicEntityMid":"<http://dbpedia.org/resource/Rouen_Business_School>","InferentialChain":["province","rouen","business","school"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Normandy>","EntityName":"Normandy"}]}}

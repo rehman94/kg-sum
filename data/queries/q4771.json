@@ -1,0 +1,1 @@
+{"QuestionId":"q4771","Parse":{"TopicEntityName":"Joseph Story ","TopicEntityMid":"<http://dbpedia.org/resource/Joseph_Story>","InferentialChain":["district","fort","heath","radar","station","state","of","joesph","story"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Massachusetts>","EntityName":"Massachusetts"}]}}

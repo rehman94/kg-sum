@@ -1,0 +1,1 @@
+{"QuestionId":"q703","Parse":{"TopicEntityName":"The Frost King ","TopicEntityMid":"<http://dbpedia.org/resource/The_Frost_King>","InferentialChain":["wrote","frost","king"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Helen_Keller>","EntityName":"Helen Keller"}]}}

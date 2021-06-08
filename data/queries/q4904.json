@@ -1,0 +1,1 @@
+{"QuestionId":"q4904","Parse":{"TopicEntityName":"Sierra Madre de Chiapas ","TopicEntityMid":"<http://dbpedia.org/resource/Sierra_Madre_de_Chiapas>","InferentialChain":["river","flow","","starts","the","sierra","madre","de","chiapas"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/El_Salvador>","EntityName":"El Salvador"}]}}

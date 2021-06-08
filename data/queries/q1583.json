@@ -1,0 +1,1 @@
+{"QuestionId":"q1583","Parse":{"TopicEntityName":"Grand Forks Air Force Base ","TopicEntityMid":"<http://dbpedia.org/resource/Grand_Forks_Air_Force_Base>","InferentialChain":["list","total","number","regions","of","the","building","located","grand","forks","air","force","base"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"19","EntityName":""}]}}

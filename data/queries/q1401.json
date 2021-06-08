@@ -1,0 +1,1 @@
+{"QuestionId":"q1401","Parse":{"TopicEntityName":"Old Saybrook  Connecticut ","TopicEntityMid":"<http://dbpedia.org/resource/Old_Saybrook,_Connecticut>","InferentialChain":["rivers","end","saybrook","","connecticut"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Connecticut_River>","EntityName":"Connecticut River"}]}}

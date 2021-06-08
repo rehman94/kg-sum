@@ -1,0 +1,1 @@
+{"QuestionId":"q897","Parse":{"TopicEntityName":"Ordnungspolizei ","TopicEntityMid":"<http://dbpedia.org/resource/Ordnungspolizei>","InferentialChain":["leader","the","kriminalpolizei","ordnungspolizei"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Heinrich_Himmler>","EntityName":"Heinrich Himmler"}]}}

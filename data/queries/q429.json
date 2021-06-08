@@ -1,0 +1,1 @@
+{"QuestionId":"q429","Parse":{"TopicEntityName":"Carmel Winery ","TopicEntityMid":"<http://dbpedia.org/resource/Carmel_Winery>","InferentialChain":["carmel","winery"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Israel>","EntityName":"Israel"}]}}

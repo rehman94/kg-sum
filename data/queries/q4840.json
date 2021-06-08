@@ -1,0 +1,1 @@
+{"QuestionId":"q4840","Parse":{"TopicEntityName":"Twin Cities 400 ","TopicEntityMid":"<http://dbpedia.org/resource/Twin_Cities_400>","InferentialChain":["south","side","elevated","railroad","twin","cities","400","operated","city"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Chicago>","EntityName":"Chicago"}]}}

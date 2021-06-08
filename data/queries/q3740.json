@@ -1,0 +1,1 @@
+{"QuestionId":"q3740","Parse":{"TopicEntityName":"If We Were a Movie ","TopicEntityMid":"<http://dbpedia.org/resource/If_We_Were_a_Movie>","InferentialChain":["shows","","opening","themes","make","movie"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Hannah_Montana>","EntityName":"Hannah Montana"}]}}

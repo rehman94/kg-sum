@@ -1,0 +1,1 @@
+{"QuestionId":"q1258","Parse":{"TopicEntityName":"Entronque de Herradura ","TopicEntityMid":"<http://dbpedia.org/resource/Entronque_de_Herradura>","InferentialChain":["cities","american","mediterranean","sea","nickname","entronque","de","herradura"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Miami>","EntityName":"Miami"}]}}

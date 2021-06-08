@@ -1,0 +1,19 @@
+ {
+      "QuestionId": "WebQTrn-1722",
+     "Parse": 
+        {
+          "TopicEntityName": "Bahamas",
+          "TopicEntityMid": "m.0160w",
+          "InferentialChain": [
+            "base.locations.countries.continent"
+          ],
+          "Constraints": [],
+          "Answers": [
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.059g4",
+              "EntityName": "North America"
+            }
+          ]
+        }
+}

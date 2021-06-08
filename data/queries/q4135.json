@@ -1,0 +1,1 @@
+{"QuestionId":"q4135","Parse":{"TopicEntityName":"Alana Stewart ","TopicEntityMid":"<http://dbpedia.org/resource/Alana_Stewart>","InferentialChain":["musician","gave","the","music","tonight","s","the","night","wedded","alana","stewart"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Rod_Stewart>","EntityName":"Rod Stewart"}]}}

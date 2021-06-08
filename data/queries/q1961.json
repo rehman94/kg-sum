@@ -1,0 +1,1 @@
+{"QuestionId":"q1961","Parse":{"TopicEntityName":"New York City FC ","TopicEntityMid":"<http://dbpedia.org/resource/New_York_City_FC>","InferentialChain":["people","play","nyc","fc"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"27","EntityName":""}]}}

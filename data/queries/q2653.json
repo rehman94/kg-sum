@@ -1,0 +1,1 @@
+{"QuestionId":"q2653","Parse":{"TopicEntityName":"Dead Sea ","TopicEntityMid":"<http://dbpedia.org/resource/Dead_Sea>","InferentialChain":["river","mouth","is","deadsea"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Jordan_River>","EntityName":"Jordan River"}]}}

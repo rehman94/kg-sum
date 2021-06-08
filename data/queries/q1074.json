@@ -1,0 +1,1 @@
+{"QuestionId":"q1074","Parse":{"TopicEntityName":"McDonnell Douglas ","TopicEntityMid":"<http://dbpedia.org/resource/McDonnell_Douglas>","InferentialChain":["successor","mcdonnell","douglas"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Boeing>","EntityName":"Boeing"}]}}

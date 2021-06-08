@@ -1,0 +1,1 @@
+{"QuestionId":"q4572","Parse":{"TopicEntityName":"Chicago ","TopicEntityMid":"<http://dbpedia.org/resource/Chicago>","InferentialChain":["give","magazines","editors","live","chicago"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Playboy>","EntityName":"Playboy"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q2173","Parse":{"TopicEntityName":"Indian Ocean ","TopicEntityMid":"<http://dbpedia.org/resource/Indian_Ocean>","InferentialChain":["rivers","end","indian","ocean"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"73","EntityName":""}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q2414","Parse":{"TopicEntityName":"Eristoff ","TopicEntityMid":"<http://dbpedia.org/resource/Eristoff>","InferentialChain":["things","built","eristoff"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Bacardi>","EntityName":"Bacardi"}]}}

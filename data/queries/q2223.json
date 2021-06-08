@@ -1,0 +1,1 @@
+{"QuestionId":"q2223","Parse":{"TopicEntityName":"England ","TopicEntityMid":"<http://dbpedia.org/resource/England>","InferentialChain":["count","drinks","originated","england"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"18","EntityName":""}]}}

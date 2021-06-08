@@ -1,0 +1,1 @@
+{"QuestionId":"q3310","Parse":{"TopicEntityName":"Bocas Town  Bocas del Toro ","TopicEntityMid":"<http://dbpedia.org/resource/Bocas_Town,_Bocas_del_Toro>","InferentialChain":["country","bocas","del","toro","capital","region"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Panama>","EntityName":"Panama"}]}}

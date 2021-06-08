@@ -1,0 +1,1 @@
+{"QuestionId":"q1487","Parse":{"TopicEntityName":"John Tortorella ","TopicEntityMid":"<http://dbpedia.org/resource/John_Tortorella>","InferentialChain":["give","count","ice","hockey","players","teams","headcoached","john","tortorella"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"42","EntityName":""}]}}

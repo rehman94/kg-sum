@@ -1,0 +1,1 @@
+{"QuestionId":"q573","Parse":{"TopicEntityName":"Jeff Conaway ","TopicEntityMid":"<http://dbpedia.org/resource/Jeff_Conaway>","InferentialChain":["sitcom","jeff","conaway","acted","tnt","network"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Babylon_5>","EntityName":"Babylon 5"}]}}

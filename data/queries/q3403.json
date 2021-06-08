@@ -1,0 +1,1 @@
+{"QuestionId":"q3403","Parse":{"TopicEntityName":"Association football ","TopicEntityMid":"<http://dbpedia.org/resource/Association_football>","InferentialChain":["count","number","sport","played","the","school","plays","association","football"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"1988","EntityName":""}]}}

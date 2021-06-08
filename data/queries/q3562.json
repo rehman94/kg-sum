@@ -1,0 +1,1 @@
+{"QuestionId":"q3562","Parse":{"TopicEntityName":"CNN ","TopicEntityMid":"<http://dbpedia.org/resource/CNN>","InferentialChain":["owns","broadcast","network","founded","cnn"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Time_Warner>","EntityName":"Time Warner"}]}}

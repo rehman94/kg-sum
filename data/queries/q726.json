@@ -1,0 +1,1 @@
+{"QuestionId":"q726","Parse":{"TopicEntityName":"Juhu Aerodrome ","TopicEntityMid":"<http://dbpedia.org/resource/Juhu_Aerodrome>","InferentialChain":["city","served","juhu","aerodrome"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Mumbai>","EntityName":"Mumbai"}]}}

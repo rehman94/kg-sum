@@ -1,0 +1,1 @@
+{"QuestionId":"q1454","Parse":{"TopicEntityName":"Edwin Catmull ","TopicEntityMid":"<http://dbpedia.org/resource/Edwin_Catmull>","InferentialChain":["company","produces","marionette","key","person","edwin","catmull"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Pixar>","EntityName":"Pixar"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q2789","Parse":{"TopicEntityName":"Ford SHO V8 engine ","TopicEntityMid":"<http://dbpedia.org/resource/Ford_SHO_V8_engine>","InferentialChain":["made","y","block","engine","the","sho","v8","engine"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Ford_Motor_Company>","EntityName":"Ford Motor Company"}]}}

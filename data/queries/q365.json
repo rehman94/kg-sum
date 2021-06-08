@@ -1,0 +1,1 @@
+{"QuestionId":"q365","Parse":{"TopicEntityName":"NUbuntu ","TopicEntityMid":"<http://dbpedia.org/resource/NUbuntu>","InferentialChain":["common","licence","the","frontaccounting","nubuntu"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/GNU>","EntityName":"GNU"}]}}

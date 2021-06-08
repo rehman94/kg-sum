@@ -1,0 +1,1 @@
+{"QuestionId":"q4467","Parse":{"TopicEntityName":"John Steed ","TopicEntityMid":"<http://dbpedia.org/resource/John_Steed>","InferentialChain":["nationality","the","david","king","wood","john","steed"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Great_Britain>","EntityName":"Great Britain"}]}}

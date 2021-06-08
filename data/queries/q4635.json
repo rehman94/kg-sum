@@ -1,0 +1,1 @@
+{"QuestionId":"q4635","Parse":{"TopicEntityName":"Karen Grigorian ","TopicEntityMid":"<http://dbpedia.org/resource/Karen_Grigorian>","InferentialChain":["occupation","the","irving","chernev","karen","grigorian"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Chess>","EntityName":"Chess"}]}}

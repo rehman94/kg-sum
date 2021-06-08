@@ -1,0 +1,1 @@
+{"QuestionId":"q2657","Parse":{"TopicEntityName":"Gredelj ","TopicEntityMid":"<http://dbpedia.org/resource/Gredelj>","InferentialChain":["river","flows","","starts","gredelj"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Adriatic_Sea>","EntityName":"Adriatic Sea"}]}}

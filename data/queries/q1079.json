@@ -1,0 +1,1 @@
+{"QuestionId":"q1079","Parse":{"TopicEntityName":"Cahora Bassa ","TopicEntityMid":"<http://dbpedia.org/resource/Cahora_Bassa>","InferentialChain":["cahora","bassa","flow"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Zambezi>","EntityName":"Zambezi"}]}}

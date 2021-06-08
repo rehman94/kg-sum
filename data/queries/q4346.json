@@ -1,0 +1,1 @@
+{"QuestionId":"q4346","Parse":{"TopicEntityName":"Kang Young hoon ","TopicEntityMid":"<http://dbpedia.org/resource/Kang_Young-hoon>","InferentialChain":["religion","president","follow","served","kang","young","hoon"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Buddhism>","EntityName":"Buddhism"}]}}

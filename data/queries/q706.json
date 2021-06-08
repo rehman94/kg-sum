@@ -1,0 +1,1 @@
+{"QuestionId":"q706","Parse":{"TopicEntityName":"Daniel Gibson ","TopicEntityMid":"<http://dbpedia.org/resource/Daniel_Gibson>","InferentialChain":["spouse","daniel","gibson"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Keyshia_Cole>","EntityName":"Keyshia Cole"}]}}

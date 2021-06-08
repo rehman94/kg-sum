@@ -1,0 +1,1 @@
+{"QuestionId":"q2164","Parse":{"TopicEntityName":"Tommy Tucker s Tooth ","TopicEntityMid":"<http://dbpedia.org/resource/Tommy_Tucker's_Tooth>","InferentialChain":["animator","tommy","tucker","s","tooth"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Walt_Disney>","EntityName":"Walt Disney"}]}}

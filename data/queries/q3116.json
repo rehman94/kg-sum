@@ -1,0 +1,1 @@
+{"QuestionId":"q3116","Parse":{"TopicEntityName":"Seneca Academy and Circle School ","TopicEntityMid":"<http://dbpedia.org/resource/Seneca_Academy_and_Circle_School>","InferentialChain":["kmascot","od","seneca","academy","species","the","fox","the","cat"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Fox>","EntityName":"Fox"}]}}

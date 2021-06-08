@@ -1,0 +1,1 @@
+{"QuestionId":"q3706","Parse":{"TopicEntityName":"Mark Middleton ","TopicEntityMid":"<http://dbpedia.org/resource/Mark_Middleton>","InferentialChain":["band","band","member","is","mark","middleton"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Blackstreet>","EntityName":"Blackstreet"}]}}

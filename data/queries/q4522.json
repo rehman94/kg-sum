@@ -1,0 +1,1 @@
+{"QuestionId":"q4522","Parse":{"TopicEntityName":"Latvian Wikipedia ","TopicEntityMid":"<http://dbpedia.org/resource/Latvian_Wikipedia>","InferentialChain":["board","memeber","jimmy","wales","owns","latvian","wikipedia"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Wikimedia_Foundation>","EntityName":"Wikimedia Foundation"}]}}

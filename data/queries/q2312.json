@@ -1,0 +1,1 @@
+{"QuestionId":"q2312","Parse":{"TopicEntityName":"Seni Pramoj ","TopicEntityMid":"<http://dbpedia.org/resource/Seni_Pramoj>","InferentialChain":["country","citizenship","newin","chidchob","seni","pramoj"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Thailand>","EntityName":"Thailand"}]}}

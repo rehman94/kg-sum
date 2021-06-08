@@ -1,0 +1,1 @@
+{"QuestionId":"q221","Parse":{"TopicEntityName":"Helena of Moscow ","TopicEntityMid":"<http://dbpedia.org/resource/Helena_of_Moscow>","InferentialChain":["hometown","pavel","moroz","palace","of","birthplace","of","helena","of","moscow"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Moscow>","EntityName":"Moscow"}]}}

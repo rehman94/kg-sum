@@ -1,0 +1,1 @@
+{"QuestionId":"q4623","Parse":{"TopicEntityName":"The American Magazine ","TopicEntityMid":"<http://dbpedia.org/resource/The_American_Magazine>","InferentialChain":["person","works","american","magazine"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Lincoln_Steffens>","EntityName":"Lincoln Steffens"}]}}

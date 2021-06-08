@@ -1,0 +1,1 @@
+{"QuestionId":"q704","Parse":{"TopicEntityName":"Hillary Clinton ","TopicEntityMid":"<http://dbpedia.org/resource/Hillary_Clinton>","InferentialChain":["key","people","profit","organisations","key","people","hillary","clinton"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"8","EntityName":""}]}}

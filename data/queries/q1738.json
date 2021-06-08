@@ -1,0 +1,1 @@
+{"QuestionId":"q1738","Parse":{"TopicEntityName":"Greenpeace Nordic ","TopicEntityMid":"<http://dbpedia.org/resource/Greenpeace_Nordic>","InferentialChain":["organization","parent","greenpeace","nordic"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Greenpeace>","EntityName":"Greenpeace"}]}}

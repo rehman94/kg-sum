@@ -1,0 +1,1 @@
+{"QuestionId":"q1767","Parse":{"TopicEntityName":"Joseph Stiglitz ","TopicEntityMid":"<http://dbpedia.org/resource/Joseph_Stiglitz>","InferentialChain":["president","served","joseph","stiglitz"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Bill_Clinton>","EntityName":"Bill Clinton"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q4172","Parse":{"TopicEntityName":"Waitakere United ","TopicEntityMid":"<http://dbpedia.org/resource/Waitakere_United>","InferentialChain":["country","players","waitakere","united","belong"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/New_Zealand>","EntityName":"New Zealand"}]}}

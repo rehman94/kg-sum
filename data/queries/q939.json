@@ -1,0 +1,1 @@
+{"QuestionId":"q939","Parse":{"TopicEntityName":"Ekstraliga  speedway  ","TopicEntityMid":"<http://dbpedia.org/resource/Ekstraliga_(speedway)>","InferentialChain":["nicknames","the","people","are","ekstraliga"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Sparta>","EntityName":"Sparta"}]}}

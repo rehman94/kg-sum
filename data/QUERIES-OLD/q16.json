@@ -1,0 +1,19 @@
+{
+	"QuestionId": "WebQTest-16",
+	"RawQuestion": "Who wrote the book Les Piliers de la terre?",
+	"ProcessedQuestion": "Who wrote the book Les Piliers de la terre?",
+	"Parse": {
+		"PotentialTopicEntityMention": "wrote, book, The pillars of the Earth",
+		"TopicEntityName": "The pillars of the Earth",  
+		"TopicEntityMid": "<http://dbpedia.org/resource/Autism>",
+		"InferentialChain": ["The_Pillars_of_the_Earth.author"],
+		"Constraints": [],
+		"Time": null,
+		"Order": null,
+		"Answers": [{
+			"AnswerType": "Entity",
+			"AnswerArgument": "m.0hpgm",
+			"EntityName": "Ken Follett"
+		}]
+	}
+}

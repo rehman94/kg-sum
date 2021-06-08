@@ -1,0 +1,1 @@
+{"QuestionId":"q1222","Parse":{"TopicEntityName":"Operation Autumn Clouds ","TopicEntityMid":"<http://dbpedia.org/resource/Operation_Autumn_Clouds>","InferentialChain":["result","operation","autumn","clouds"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Gaza_Strip>","EntityName":"Gaza Strip"}]}}

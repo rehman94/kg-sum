@@ -1,0 +1,1 @@
+{"QuestionId":"q2316","Parse":{"TopicEntityName":"Pulau Ujong ","TopicEntityMid":"<http://dbpedia.org/resource/Pulau_Ujong>","InferentialChain":["admin","center","pulau","ujong","largest","city","of","pulau","ubin"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Singapore>","EntityName":"Singapore"}]}}

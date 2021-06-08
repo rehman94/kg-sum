@@ -1,0 +1,1 @@
+{"QuestionId":"q3396","Parse":{"TopicEntityName":"Grasim Bhiwani Textiles ","TopicEntityMid":"<http://dbpedia.org/resource/Grasim_Bhiwani_Textiles>","InferentialChain":["city","company","founded","","","which","owns","grasim","bhiwani","textiles"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Mumbai>","EntityName":"Mumbai"}]}}

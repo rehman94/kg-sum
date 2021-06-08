@@ -1,0 +1,1 @@
+{"QuestionId":"q641","Parse":{"TopicEntityName":"Manu Cornet ","TopicEntityMid":"<http://dbpedia.org/resource/Manu_Cornet>","InferentialChain":["operating","system","provider","lg","optimus","vu","employer","of","manu","cornet"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Google>","EntityName":"Google"}]}}

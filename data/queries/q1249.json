@@ -1,0 +1,1 @@
+{"QuestionId":"q1249","Parse":{"TopicEntityName":"Benjamin Spock ","TopicEntityMid":"<http://dbpedia.org/resource/Benjamin_Spock>","InferentialChain":["president","the","time","the","opponent","benjamin","spock","held","office"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Richard_Nixon>","EntityName":"Richard Nixon"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q239","Parse":{"TopicEntityName":"Lucy Sullivan Is Getting Married ","TopicEntityMid":"<http://dbpedia.org/resource/Lucy_Sullivan_Is_Getting_Married>","InferentialChain":["count","number","actors","lucy","sullivan","married"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"8","EntityName":""}]}}

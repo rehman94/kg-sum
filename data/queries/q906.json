@@ -1,0 +1,1 @@
+{"QuestionId":"q906","Parse":{"TopicEntityName":"Tony Romo ","TopicEntityMid":"<http://dbpedia.org/resource/Tony_Romo>","InferentialChain":["married","tony","ramo"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Jessica_Simpson>","EntityName":"Jessica Simpson"}]}}

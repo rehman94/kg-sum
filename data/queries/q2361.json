@@ -1,0 +1,1 @@
+{"QuestionId":"q2361","Parse":{"TopicEntityName":"Toluca ","TopicEntityMid":"<http://dbpedia.org/resource/Toluca>","InferentialChain":["enumerate","cars","related","the","assembled","toluca"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"62","EntityName":""}]}}

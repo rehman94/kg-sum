@@ -1,0 +1,1 @@
+{"QuestionId":"q3076","Parse":{"TopicEntityName":"Connecticut Lakes ","TopicEntityMid":"<http://dbpedia.org/resource/Connecticut_Lakes>","InferentialChain":["river","originates","connecticut","lakes"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Connecticut_River>","EntityName":"Connecticut River"}]}}

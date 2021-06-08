@@ -1,0 +1,1 @@
+{"QuestionId":"q4533","Parse":{"TopicEntityName":"Arabic ","TopicEntityMid":"<http://dbpedia.org/resource/Arabic>","InferentialChain":["river","left","tributary","s","native","is","arabic"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Jordan_River>","EntityName":"Jordan River"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q1104","Parse":{"TopicEntityName":"National Basketball Association ","TopicEntityMid":"<http://dbpedia.org/resource/National_Basketball_Association>","InferentialChain":["count","participants","the","nba"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"620","EntityName":""}]}}

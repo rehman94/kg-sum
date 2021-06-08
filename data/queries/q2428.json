@@ -1,0 +1,1 @@
+{"QuestionId":"q2428","Parse":{"TopicEntityName":"People s Bank  Sri Lanka  ","TopicEntityMid":"<http://dbpedia.org/resource/People's_Bank_(Sri_Lanka)>","InferentialChain":["state","religion","the","person","people","s","bank","","sri","lanka"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Buddhism>","EntityName":"Buddhism"}]}}

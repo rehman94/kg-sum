@@ -1,0 +1,1 @@
+{"QuestionId":"q3416","Parse":{"TopicEntityName":"Brent Darby ","TopicEntityMid":"<http://dbpedia.org/resource/Brent_Darby>","InferentialChain":["region","english","american","palce","of","death","of","brent","darby"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Michigan>","EntityName":"Michigan"}]}}

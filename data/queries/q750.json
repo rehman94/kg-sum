@@ -1,0 +1,1 @@
+{"QuestionId":"q750","Parse":{"TopicEntityName":"Semnani languages ","TopicEntityMid":"<http://dbpedia.org/resource/Semnani_languages>","InferentialChain":["semani","languages","spoken","countries"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Iran>","EntityName":"Iran"}]}}

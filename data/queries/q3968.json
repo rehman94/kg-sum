@@ -1,0 +1,1 @@
+{"QuestionId":"q3968","Parse":{"TopicEntityName":"WTA Tour Championships ","TopicEntityMid":"<http://dbpedia.org/resource/WTA_Tour_Championships>","InferentialChain":["nation","hosts","wta","tour","championships"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Singapore>","EntityName":"Singapore"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q1737","Parse":{"TopicEntityName":"Balaton wine region ","TopicEntityMid":"<http://dbpedia.org/resource/Balaton_wine_region>","InferentialChain":["common","country","ganz","uv","balaton","wine","region"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Hungary>","EntityName":"Hungary"}]}}

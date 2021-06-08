@@ -1,0 +1,1 @@
+{"QuestionId":"q1884","Parse":{"TopicEntityName":"Snake Island  Black Sea  ","TopicEntityMid":"<http://dbpedia.org/resource/Snake_Island_(Black_Sea)>","InferentialChain":["snake","island","located"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Ukraine>","EntityName":"Ukraine"}]}}

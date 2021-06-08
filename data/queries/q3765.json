@@ -1,0 +1,1 @@
+{"QuestionId":"q3765","Parse":{"TopicEntityName":"Martino Martini ","TopicEntityMid":"<http://dbpedia.org/resource/Martino_Martini>","InferentialChain":["death","of","martino","martini"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Cholera>","EntityName":"Cholera"}]}}

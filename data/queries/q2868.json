@@ -1,0 +1,1 @@
+{"QuestionId":"q2868","Parse":{"TopicEntityName":"Toronto Furies ","TopicEntityMid":"<http://dbpedia.org/resource/Toronto_Furies>","InferentialChain":["give","count","tenants","of","the","stadia","of","the","tenants","toronto","furies"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"11","EntityName":""}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q2876","Parse":{"TopicEntityName":"George Madison ","TopicEntityMid":"<http://dbpedia.org/resource/George_Madison>","InferentialChain":["relative","george","madison","appointer","of","john","drayton"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/James_Madison>","EntityName":"James Madison"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q931","Parse":{"TopicEntityName":"Lima ","TopicEntityMid":"<http://dbpedia.org/resource/Lima>","InferentialChain":["country","s","largest","city","lima"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Peru>","EntityName":"Peru"}]}}

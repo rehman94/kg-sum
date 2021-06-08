@@ -1,0 +1,1 @@
+{"QuestionId":"q4915","Parse":{"TopicEntityName":"Primate ","TopicEntityMid":"<http://dbpedia.org/resource/Primate>","InferentialChain":["give","count","mammals","order","primate"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"631","EntityName":""}]}}

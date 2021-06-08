@@ -1,0 +1,1 @@
+{"QuestionId":"q1467","Parse":{"TopicEntityName":"Walter Scharf ","TopicEntityMid":"<http://dbpedia.org/resource/Walter_Scharf>","InferentialChain":["acted","movies","music","composed","walter","scharf"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Elvis_Presley>","EntityName":"Elvis Presley"}]}}

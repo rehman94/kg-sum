@@ -1,0 +1,1 @@
+{"QuestionId":"q421","Parse":{"TopicEntityName":"Bengali in Platforms ","TopicEntityMid":"<http://dbpedia.org/resource/Bengali_in_Platforms>","InferentialChain":["performer","bengali","platforms"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Morrissey>","EntityName":"Morrissey"}]}}

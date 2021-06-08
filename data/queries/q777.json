@@ -1,0 +1,1 @@
+{"QuestionId":"q777","Parse":{"TopicEntityName":"Nathaniel P  Hill ","TopicEntityMid":"<http://dbpedia.org/resource/Nathaniel_P._Hill>","InferentialChain":["state","the","senator","successor","is","nathaniel","p","","hill"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Colorado>","EntityName":"Colorado"}]}}

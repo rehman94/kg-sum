@@ -1,0 +1,1 @@
+{"QuestionId":"q4118","Parse":{"TopicEntityName":"Philadelphia Rage ","TopicEntityMid":"<http://dbpedia.org/resource/Philadelphia_Rage>","InferentialChain":["stadium","philadelphia","rage"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Philadelphia>","EntityName":"Philadelphia"}]}}

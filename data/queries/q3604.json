@@ -1,0 +1,1 @@
+{"QuestionId":"q3604","Parse":{"TopicEntityName":"Conowingo Dam ","TopicEntityMid":"<http://dbpedia.org/resource/Conowingo_Dam>","InferentialChain":["river","start","","flows","the","conowingo","dam"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Pennsylvania>","EntityName":"Pennsylvania"}]}}

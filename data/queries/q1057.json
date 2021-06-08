@@ -1,0 +1,1 @@
+{"QuestionId":"q1057","Parse":{"TopicEntityName":"Govinda  actor  ","TopicEntityMid":"<http://dbpedia.org/resource/Govinda_(actor)>","InferentialChain":["common","party","chandra","shekhar","govinda"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Indian_National_Congress>","EntityName":"Indian National Congress"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q3950","Parse":{"TopicEntityName":"Martin Molony ","TopicEntityMid":"<http://dbpedia.org/resource/Martin_Molony>","InferentialChain":["race","mate","is","the","race","the","martin","molony"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Cheltenham_Gold_Cup>","EntityName":"Cheltenham Gold Cup"}]}}

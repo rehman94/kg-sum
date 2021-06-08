@@ -1,0 +1,1 @@
+{"QuestionId":"q3749","Parse":{"TopicEntityName":"Lumbini Bauddha University ","TopicEntityMid":"<http://dbpedia.org/resource/Lumbini_Bauddha_University>","InferentialChain":["affiliation","lumbini","bauddha","university"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Buddhism>","EntityName":"Buddhism"}]}}

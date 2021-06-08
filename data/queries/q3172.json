@@ -1,0 +1,1 @@
+{"QuestionId":"q3172","Parse":{"TopicEntityName":"Jean Fran ois Cot  ","TopicEntityMid":"<http://dbpedia.org/resource/Jean-François_Coté>","InferentialChain":["give","count","artist","the","company","artist","jean","","fran","ois","cot"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"0","EntityName":""}]}}

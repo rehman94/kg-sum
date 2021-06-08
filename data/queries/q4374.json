@@ -1,0 +1,1 @@
+{"QuestionId":"q4374","Parse":{"TopicEntityName":"City of Miami Cemetery ","TopicEntityMid":"<http://dbpedia.org/resource/City_of_Miami_Cemetery>","InferentialChain":["city","miami","cemetery","governing","body","of","city"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Miami>","EntityName":"Miami"}]}}

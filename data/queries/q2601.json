@@ -1,0 +1,1 @@
+{"QuestionId":"q2601","Parse":{"TopicEntityName":"Madrid ","TopicEntityMid":"<http://dbpedia.org/resource/Madrid>","InferentialChain":["books","author","s","tomb","madrid"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"4","EntityName":""}]}}

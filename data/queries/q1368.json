@@ -1,0 +1,1 @@
+{"QuestionId":"q1368","Parse":{"TopicEntityName":"University of Edinburgh ","TopicEntityMid":"<http://dbpedia.org/resource/University_of_Edinburgh>","InferentialChain":["count","number","places","alumini","of","edinburgh","university","died"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"46","EntityName":""}]}}

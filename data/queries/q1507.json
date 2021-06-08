@@ -1,0 +1,1 @@
+{"QuestionId":"q1507","Parse":{"TopicEntityName":"Dean Ambrose ","TopicEntityMid":"<http://dbpedia.org/resource/Dean_Ambrose>","InferentialChain":["musicians","worked","dean","ambrose"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Lenny_Kravitz>","EntityName":"Lenny Kravitz"}]}}

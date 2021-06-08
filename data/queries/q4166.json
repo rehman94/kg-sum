@@ -1,0 +1,1 @@
+{"QuestionId":"q4166","Parse":{"TopicEntityName":"Torrey Pines Gliderport ","TopicEntityMid":"<http://dbpedia.org/resource/Torrey_Pines_Gliderport>","InferentialChain":["owns","torrey","pines","gliderport"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/San_Diego>","EntityName":"San Diego"}]}}

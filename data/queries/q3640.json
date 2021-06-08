@@ -1,0 +1,1 @@
+{"QuestionId":"q3640","Parse":{"TopicEntityName":"Nhiek Tioulong ","TopicEntityMid":"<http://dbpedia.org/resource/Nhiek_Tioulong>","InferentialChain":["religion","roshan","ranasinghe","nhiek","tioulong","follow"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Buddhism>","EntityName":"Buddhism"}]}}

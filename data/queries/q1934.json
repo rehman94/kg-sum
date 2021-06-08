@@ -1,0 +1,1 @@
+{"QuestionId":"q1934","Parse":{"TopicEntityName":"Ellei Johndro ","TopicEntityMid":"<http://dbpedia.org/resource/Ellei_Johndro>","InferentialChain":["place","founded","penobscot","island","air","location","fo","ellei","johndro"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Maine>","EntityName":"Maine"}]}}

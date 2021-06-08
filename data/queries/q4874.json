@@ -1,0 +1,1 @@
+{"QuestionId":"q4874","Parse":{"TopicEntityName":"Supachai Somcharoen ","TopicEntityMid":"<http://dbpedia.org/resource/Supachai_Somcharoen>","InferentialChain":["government","agency","run","supachai","somcharoen"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Thailand>","EntityName":"Thailand"}]}}

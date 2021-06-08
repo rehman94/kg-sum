@@ -1,0 +1,1 @@
+{"QuestionId":"q1518","Parse":{"TopicEntityName":"Edinburgh ","TopicEntityMid":"<http://dbpedia.org/resource/Edinburgh>","InferentialChain":["reasons","born","edinburgh","","died"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Cholera>","EntityName":"Cholera"}]}}

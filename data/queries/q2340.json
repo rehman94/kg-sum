@@ -1,0 +1,1 @@
+{"QuestionId":"q2340","Parse":{"TopicEntityName":"Wringer  novel  ","TopicEntityMid":"<http://dbpedia.org/resource/Wringer_(novel)>","InferentialChain":["famous","works","maniac","magee","wringer"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Jerry_Spinelli>","EntityName":"Jerry Spinelli"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q3184","Parse":{"TopicEntityName":"Michael Dell ","TopicEntityMid":"<http://dbpedia.org/resource/Michael_Dell>","InferentialChain":["company","michael","dell","father","company"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Dell>","EntityName":"Dell"}]}}

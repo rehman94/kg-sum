@@ -1,0 +1,1 @@
+{"QuestionId":"q3083","Parse":{"TopicEntityName":"John Speraw ","TopicEntityMid":"<http://dbpedia.org/resource/John_Speraw>","InferentialChain":["hometown","john","speraw"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/California>","EntityName":"California"}]}}

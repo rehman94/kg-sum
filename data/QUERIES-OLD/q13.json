@@ -1,0 +1,23 @@
+{
+	"QuestionId": "WebQTest-13",
+	"RawQuestion": "Which books by Kerouac were published by Viking Press?",
+	"ProcessedQuestion": "Which books by Kerouac were published by Viking Press?",
+	"Parse": {
+		"PotentialTopicEntityMention": "book, Kerouac, publish, Viking Press",
+		"TopicEntityName": "Kerouac",  
+		"TopicEntityMid": "<http://dbpedia.org/resource/Autism>",
+		"InferentialChain": ["Book.publisher.Viking_Press.author.Jack_Kerouac"],
+		"Constraints": [],
+		"Time": null,
+		"Order": null,
+		"Answers": [{
+			"AnswerType": "Entity",
+			"AnswerArgument": "m.01y1kt",
+			"EntityName": "On the Road"
+		}, {
+			"AnswerType": "Entity",
+			"AnswerArgument": "m.0fy4d8",
+			"EntityName": "Door Wide Open"
+		}]
+	}
+}

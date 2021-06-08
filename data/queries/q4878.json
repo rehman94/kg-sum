@@ -1,0 +1,1 @@
+{"QuestionId":"q4878","Parse":{"TopicEntityName":"Colonel  United States  ","TopicEntityMid":"<http://dbpedia.org/resource/Colonel_(United_States)>","InferentialChain":["colonel","allegiance","colony","virginia"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/James_Madison>","EntityName":"James Madison"}]}}

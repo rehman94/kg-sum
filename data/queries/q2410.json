@@ -1,0 +1,1 @@
+{"QuestionId":"q2410","Parse":{"TopicEntityName":"Fabio Mercurio ","TopicEntityMid":"<http://dbpedia.org/resource/Fabio_Mercurio>","InferentialChain":["owns","bank","fabio","mercurio","works"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Michael_Bloomberg>","EntityName":"Michael Bloomberg"}]}}

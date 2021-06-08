@@ -1,0 +1,1 @@
+{"QuestionId":"q2548","Parse":{"TopicEntityName":"Soylent Green ","TopicEntityMid":"<http://dbpedia.org/resource/Soylent_Green>","InferentialChain":["actor","soylent","green","lydia","clarke","married"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Charlton_Heston>","EntityName":"Charlton Heston"}]}}

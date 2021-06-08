@@ -1,0 +1,1 @@
+{"QuestionId":"q4534","Parse":{"TopicEntityName":"Militia ","TopicEntityMid":"<http://dbpedia.org/resource/Militia>","InferentialChain":["office","holder","spouse","dolley","madison","belongs","militia","branch"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/James_Madison>","EntityName":"James Madison"}]}}

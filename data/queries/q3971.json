@@ -1,0 +1,1 @@
+{"QuestionId":"q3971","Parse":{"TopicEntityName":"Metro North Railroad ","TopicEntityMid":"<http://dbpedia.org/resource/Metro-North_Railroad>","InferentialChain":["give","total","number","lines","owned","owner","of","mwtro","noth","railroad"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"17","EntityName":""}]}}

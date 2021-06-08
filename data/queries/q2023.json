@@ -1,0 +1,1 @@
+{"QuestionId":"q2023","Parse":{"TopicEntityName":"Jason Carter  actor  ","TopicEntityMid":"<http://dbpedia.org/resource/Jason_Carter_(actor)>","InferentialChain":["television","show","cast","members","jeff","conaway","jason","carter"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Babylon_5>","EntityName":"Babylon 5"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q2448","Parse":{"TopicEntityName":"Pulau Ujong ","TopicEntityMid":"<http://dbpedia.org/resource/Pulau_Ujong>","InferentialChain":["administrative","headquarters","pulau","ujong"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Singapore>","EntityName":"Singapore"}]}}

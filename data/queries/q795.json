@@ -1,0 +1,1 @@
+{"QuestionId":"q795","Parse":{"TopicEntityName":"A  James Clark ","TopicEntityMid":"<http://dbpedia.org/resource/A._James_Clark>","InferentialChain":["football","team","city","a","j","clark","a","builder"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Washington_Redskins>","EntityName":"Washington Redskins"}]}}

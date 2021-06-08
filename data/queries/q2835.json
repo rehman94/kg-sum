@@ -1,0 +1,1 @@
+{"QuestionId":"q2835","Parse":{"TopicEntityName":"Lars Pearson ","TopicEntityMid":"<http://dbpedia.org/resource/Lars_Pearson>","InferentialChain":["work","neil","cross","lars","pearson","both"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Doctor_Who>","EntityName":"Doctor Who"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q2111","Parse":{"TopicEntityName":"Front Row  software  ","TopicEntityMid":"<http://dbpedia.org/resource/Front_Row_(software)>","InferentialChain":["company","made","front","row","distributed","big","top","ballet"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Apple_Inc.>","EntityName":"Apple Inc."}]}}

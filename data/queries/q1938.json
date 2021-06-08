@@ -1,0 +1,1 @@
+{"QuestionId":"q1938","Parse":{"TopicEntityName":"Dorchester Bay  Boston Harbor  ","TopicEntityMid":"<http://dbpedia.org/resource/Dorchester_Bay_(Boston_Harbor)>","InferentialChain":["state","dorchester","bay","","boston","harbor"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Massachusetts>","EntityName":"Massachusetts"}]}}

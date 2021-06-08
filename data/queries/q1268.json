@@ -1,0 +1,1 @@
+{"QuestionId":"q1268","Parse":{"TopicEntityName":"Jon Curran ","TopicEntityMid":"<http://dbpedia.org/resource/Jon_Curran>","InferentialChain":["college","jon","curran"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Vanderbilt_University>","EntityName":"Vanderbilt University"}]}}

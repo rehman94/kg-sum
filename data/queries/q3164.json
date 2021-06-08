@@ -1,0 +1,1 @@
+{"QuestionId":"q3164","Parse":{"TopicEntityName":"Dschinghis Khan  song  ","TopicEntityMid":"<http://dbpedia.org/resource/Dschinghis_Khan_(song)>","InferentialChain":["track","list","dschinghis","khan","","song"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Israel>","EntityName":"Israel"}]}}

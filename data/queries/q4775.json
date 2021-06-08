@@ -1,0 +1,1 @@
+{"QuestionId":"q4775","Parse":{"TopicEntityName":"Simon Fuller ","TopicEntityMid":"<http://dbpedia.org/resource/Simon_Fuller>","InferentialChain":["show","judge","randy","jackson","sculptors","simon","fuller"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/American_Idol>","EntityName":"American Idol"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q2144","Parse":{"TopicEntityName":"The Kentucky Cycle ","TopicEntityMid":"<http://dbpedia.org/resource/The_Kentucky_Cycle>","InferentialChain":["city","geography","club","played","kenticky","cycle"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Seattle>","EntityName":"Seattle"}]}}

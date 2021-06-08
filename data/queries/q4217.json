@@ -1,0 +1,1 @@
+{"QuestionId":"q4217","Parse":{"TopicEntityName":"Writing ","TopicEntityMid":"<http://dbpedia.org/resource/Writing>","InferentialChain":["count","number","artist","pone","of","the","field","writing"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"164","EntityName":""}]}}

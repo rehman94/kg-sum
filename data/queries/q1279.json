@@ -1,0 +1,1 @@
+{"QuestionId":"q1279","Parse":{"TopicEntityName":"Primus  band  ","TopicEntityMid":"<http://dbpedia.org/resource/Primus_(band)>","InferentialChain":["tv","show","theme","music","primus","broadcasted","comedy","central"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/South_Park>","EntityName":"South Park"}]}}

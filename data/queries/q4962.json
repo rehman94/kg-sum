@@ -1,0 +1,1 @@
+{"QuestionId":"q4962","Parse":{"TopicEntityName":"Charles Gordon  artist  ","TopicEntityMid":"<http://dbpedia.org/resource/Charles_Gordon_(artist)>","InferentialChain":["place","death","of","charles","gordon","","artist"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Los_Angeles>","EntityName":"Los Angeles"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q553","Parse":{"TopicEntityName":"Frasier ","TopicEntityMid":"<http://dbpedia.org/resource/Frasier>","InferentialChain":["tv","show","opening","theme","gary","portnoy","the","subsequent","work","is","frasier"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Cheers>","EntityName":"Cheers"}]}}

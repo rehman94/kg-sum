@@ -1,0 +1,1 @@
+{"QuestionId":"q1307","Parse":{"TopicEntityName":"Cervelle de canut ","TopicEntityMid":"<http://dbpedia.org/resource/Cervelle_de_canut>","InferentialChain":["citizenship","the","sarah","kazemy","land","of","the","cervelle","de","canut"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/France>","EntityName":"France"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q4648","Parse":{"TopicEntityName":"Dallas Cowboys ","TopicEntityMid":"<http://dbpedia.org/resource/Dallas_Cowboys>","InferentialChain":["people","play","dallas","cowboys"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"264","EntityName":""}]}}

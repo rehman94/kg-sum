@@ -1,0 +1,1 @@
+{"QuestionId":"q2477","Parse":{"TopicEntityName":"Tim Burton ","TopicEntityMid":"<http://dbpedia.org/resource/Tim_Burton>","InferentialChain":["count","movies","directed","tim","burton","music","composer","danny","elfman"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"15","EntityName":""}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q4441","Parse":{"TopicEntityName":"Andrew W  Lewis ","TopicEntityMid":"<http://dbpedia.org/resource/Andrew_W._Lewis>","InferentialChain":["alma","mater","andrew","w","","lewis"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Dartmouth_College>","EntityName":"Dartmouth College"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q4085","Parse":{"TopicEntityName":"Timothy J  Roemer ","TopicEntityMid":"<http://dbpedia.org/resource/Timothy_J._Roemer>","InferentialChain":["state","timothy","j","","roemer"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Indiana>","EntityName":"Indiana"}]}}

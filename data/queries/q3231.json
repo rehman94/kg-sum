@@ -1,0 +1,1 @@
+{"QuestionId":"q3231","Parse":{"TopicEntityName":"Google Web Toolkit ","TopicEntityMid":"<http://dbpedia.org/resource/Google_Web_Toolkit>","InferentialChain":["emplyer","whihc","manu","cornet","worked","written","google","web","toolkit"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Google>","EntityName":"Google"}]}}

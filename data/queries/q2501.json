@@ -1,0 +1,1 @@
+{"QuestionId":"q2501","Parse":{"TopicEntityName":"Defenceman ","TopicEntityMid":"<http://dbpedia.org/resource/Defenceman>","InferentialChain":["teams","playing","defenceman","position"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"2115","EntityName":""}]}}

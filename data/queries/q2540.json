@@ -1,0 +1,1 @@
+{"QuestionId":"q2540","Parse":{"TopicEntityName":"Dave Hollister ","TopicEntityMid":"<http://dbpedia.org/resource/Dave_Hollister>","InferentialChain":["band","dave","hollister","perform","past"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Blackstreet>","EntityName":"Blackstreet"}]}}

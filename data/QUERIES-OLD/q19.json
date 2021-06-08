@@ -1,0 +1,19 @@
+{
+	"QuestionId": "WebQTest-19",
+	"RawQuestion": "Which river does the Brooklyn Bridge cross?",
+	"ProcessedQuestion": "Which river does the Brooklyn Bridge cross?",
+	"Parse":{
+		"PotentialTopicEntityMention": "river, cross, Brooklyn Bridge",
+		"TopicEntityName": "Brooklyn Bridge",  
+		"TopicEntityMid": "<http://dbpedia.org/resource/Autism>",
+		"InferentialChain": ["Brooklyn_Bridge.crosses"],
+		"Constraints": [],
+		"Time": null,
+		"Order": null,
+		"Answers": [{
+			"AnswerType": "Entity",
+			"AnswerArgument": "m.02m4d",
+			"EntityName": "East River"
+		}]
+	}
+}

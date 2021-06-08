@@ -1,0 +1,1 @@
+{"QuestionId":"q2184","Parse":{"TopicEntityName":"Stan Van Gundy ","TopicEntityMid":"<http://dbpedia.org/resource/Stan_Van_Gundy>","InferentialChain":["stan","van","gundy","serves","head","coach","president","basketball","team"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Detroit_Pistons>","EntityName":"Detroit Pistons"}]}}

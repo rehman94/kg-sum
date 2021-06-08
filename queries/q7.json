@@ -1,0 +1,20 @@
+ {
+      "QuestionId": "WebQTrn-4",
+      "Parse": 
+        {
+          "TopicEntityName": "Bahamas",
+          "TopicEntityMid": "m.0160w",
+          "InferentialChain": [
+            "location.country.currency_used"
+          ],
+          "Constraints": [],
+          "Answers": [
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.01l6dm",
+              "EntityName": "Bahamian dollar"
+            }
+          ]
+        }
+      
+    }

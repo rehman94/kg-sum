@@ -1,0 +1,1 @@
+{"QuestionId":"q437","Parse":{"TopicEntityName":"Mary Poppins ","TopicEntityMid":"<http://dbpedia.org/resource/Mary_Poppins>","InferentialChain":["wrote","musical","based","mary","poppins"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Julian_Fellowes>","EntityName":"Julian Fellowes"}]}}

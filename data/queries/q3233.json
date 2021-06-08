@@ -1,0 +1,1 @@
+{"QuestionId":"q3233","Parse":{"TopicEntityName":"Tony Award ","TopicEntityMid":"<http://dbpedia.org/resource/Tony_Award>","InferentialChain":["list","total","number","awards","of","the","musicals","won","tony","award"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"81","EntityName":""}]}}

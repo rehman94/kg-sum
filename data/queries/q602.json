@@ -1,0 +1,1 @@
+{"QuestionId":"q602","Parse":{"TopicEntityName":"President of Ghana ","TopicEntityMid":"<http://dbpedia.org/resource/President_of_Ghana>","InferentialChain":["president","ghana","leader","title","of","country"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Ghana>","EntityName":"Ghana"}]}}

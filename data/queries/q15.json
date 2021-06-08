@@ -1,0 +1,1 @@
+{"QuestionId":"q15","Parse":{"TopicEntityName":"HBO ","TopicEntityMid":"<http://dbpedia.org/resource/HBO>","InferentialChain":["shows","hbo"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"38","EntityName":""}]}}

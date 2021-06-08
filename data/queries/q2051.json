@@ -1,0 +1,1 @@
+{"QuestionId":"q2051","Parse":{"TopicEntityName":"Pina Records ","TopicEntityMid":"<http://dbpedia.org/resource/Pina_Records>","InferentialChain":["founded","pina","records","geography","of","puerto","rico"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Puerto_Rico>","EntityName":"Puerto Rico"}]}}

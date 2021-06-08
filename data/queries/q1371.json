@@ -1,0 +1,1 @@
+{"QuestionId":"q1371","Parse":{"TopicEntityName":"Dane County  Wisconsin ","TopicEntityMid":"<http://dbpedia.org/resource/Dane_County,_Wisconsin>","InferentialChain":["tomb","cities","dane","county","wisconsin"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Chris_Farley>","EntityName":"Chris Farley"}]}}

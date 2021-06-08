@@ -1,0 +1,1 @@
+{"QuestionId":"q1096","Parse":{"TopicEntityName":"Bacilli ","TopicEntityMid":"<http://dbpedia.org/resource/Bacilli>","InferentialChain":["give","count","bacterias","belongs","bacilli","class"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"57","EntityName":""}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q2589","Parse":{"TopicEntityName":"Los Angeles Clippers ","TopicEntityMid":"<http://dbpedia.org/resource/Los_Angeles_Clippers>","InferentialChain":["people","drafted","la","clippers"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"88","EntityName":""}]}}

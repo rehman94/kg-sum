@@ -1,0 +1,1 @@
+{"QuestionId":"q4479","Parse":{"TopicEntityName":"Heydar ","TopicEntityMid":"<http://dbpedia.org/resource/Heydar>","InferentialChain":["meaning","heydar"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Lion>","EntityName":"Lion"}]}}

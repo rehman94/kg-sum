@@ -1,0 +1,1 @@
+{"QuestionId":"q1004","Parse":{"TopicEntityName":"Classic rock ","TopicEntityMid":"<http://dbpedia.org/resource/Classic_rock>","InferentialChain":["genere","radio","stations","of","the","genre","classic","rock"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"680","EntityName":""}]}}

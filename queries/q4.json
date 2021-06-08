@@ -1,0 +1,27 @@
+{
+      "QuestionId": "WebQTrn-1",
+      "Parse": {
+          "TopicEntityName": "Natalie Portman",
+          "TopicEntityMid": "m.09l3p",
+          "InferentialChain": [
+            "film.actor.film",
+            "film.performance.character"
+          ],
+          "Constraints": [
+            {
+              "EntityName": "Star Wars Episode I: The Phantom Menace",
+              "SourceNodeIndex": 0,
+              "NodePredicate": "film.performance.film",
+              "ValueType": "String"
+            }
+          ],
+          "Answers": [
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.0drf_",
+              "EntityName": "Padmé Amidala"
+            }
+          ]
+        }
+      
+    }

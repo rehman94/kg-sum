@@ -1,0 +1,1 @@
+{"QuestionId":"q3989","Parse":{"TopicEntityName":"Lower Manhattan ","TopicEntityMid":"<http://dbpedia.org/resource/Lower_Manhattan>","InferentialChain":["rivers","flow","lower","manhatten"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Hudson_River>","EntityName":"Hudson River"}]}}

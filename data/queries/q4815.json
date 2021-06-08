@@ -1,0 +1,1 @@
+{"QuestionId":"q4815","Parse":{"TopicEntityName":"Cookie ","TopicEntityMid":"<http://dbpedia.org/resource/Cookie>","InferentialChain":["created","kinds","cookies"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/George_Washington_Carver>","EntityName":"George Washington Carver"}]}}

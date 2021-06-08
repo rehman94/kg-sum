@@ -1,0 +1,1 @@
+{"QuestionId":"q2202","Parse":{"TopicEntityName":"Mike Babcock ","TopicEntityMid":"<http://dbpedia.org/resource/Mike_Babcock>","InferentialChain":["hockey","team","coached","mike","babcock"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Toronto_Maple_Leafs>","EntityName":"Toronto Maple Leafs"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q4556","Parse":{"TopicEntityName":"Purnima Banerjee ","TopicEntityMid":"<http://dbpedia.org/resource/Purnima_Banerjee>","InferentialChain":["political","party","purnima","banerjee","is","member"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Indian_National_Congress>","EntityName":"Indian National Congress"}]}}

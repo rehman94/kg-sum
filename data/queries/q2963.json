@@ -1,0 +1,1 @@
+{"QuestionId":"q2963","Parse":{"TopicEntityName":"Gary Portnoy ","TopicEntityMid":"<http://dbpedia.org/resource/Gary_Portnoy>","InferentialChain":["sitcoms","which","theme","music","composed","gary","portnoy","is","located","in","massachusetts"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Cheers>","EntityName":"Cheers"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q4180","Parse":{"TopicEntityName":"Cape Canaveral Air Force Station ","TopicEntityMid":"<http://dbpedia.org/resource/Cape_Canaveral_Air_Force_Station>","InferentialChain":["companies","manufactured","rockets","launched","the","cape","canaveral","air","force","station"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"60","EntityName":""}]}}

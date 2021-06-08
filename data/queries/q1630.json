@@ -1,0 +1,1 @@
+{"QuestionId":"q1630","Parse":{"TopicEntityName":"Yes  band  ","TopicEntityMid":"<http://dbpedia.org/resource/Yes_(band)>","InferentialChain":["movies","music","composer","composed","music","","have","collaborated"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"25","EntityName":""}]}}

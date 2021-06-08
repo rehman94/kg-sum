@@ -1,0 +1,1 @@
+{"QuestionId":"q711","Parse":{"TopicEntityName":"B  Shiva Rao ","TopicEntityMid":"<http://dbpedia.org/resource/B._Shiva_Rao>","InferentialChain":["party","iqbal","singh","b","shiva","rao","belong"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Indian_National_Congress>","EntityName":"Indian National Congress"}]}}

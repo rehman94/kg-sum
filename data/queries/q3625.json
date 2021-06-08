@@ -1,0 +1,1 @@
+{"QuestionId":"q3625","Parse":{"TopicEntityName":"Foxconn ","TopicEntityMid":"<http://dbpedia.org/resource/Foxconn>","InferentialChain":["information","appliance","successor","is","playstation","4","maker","is","foxconn"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/PlayStation_3>","EntityName":"PlayStation 3"}]}}

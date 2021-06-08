@@ -1,0 +1,1 @@
+{"QuestionId":"q1277","Parse":{"TopicEntityName":"William Cushing ","TopicEntityMid":"<http://dbpedia.org/resource/William_Cushing>","InferentialChain":["appointer","william","cushing"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/George_Washington>","EntityName":"George Washington"}]}}

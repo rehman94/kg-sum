@@ -1,0 +1,1 @@
+{"QuestionId":"q1466","Parse":{"TopicEntityName":"Londo Mollari ","TopicEntityMid":"<http://dbpedia.org/resource/Londo_Mollari>","InferentialChain":["series","lennier","londo","mollari"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Babylon_5>","EntityName":"Babylon 5"}]}}

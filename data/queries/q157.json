@@ -1,0 +1,1 @@
+{"QuestionId":"q157","Parse":{"TopicEntityName":"Hockey ","TopicEntityMid":"<http://dbpedia.org/resource/Hockey>","InferentialChain":["count","number","sports","played","schools","play","hockey"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"289","EntityName":""}]}}

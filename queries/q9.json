@@ -1,0 +1,25 @@
+{
+      "QuestionId": "WebQTrn-1332",
+      "Parse": 
+        {
+          "TopicEntityName": "Bahamas",
+          "TopicEntityMid": "m.0160w",
+          "InferentialChain": [
+            "location.location.time_zones"
+          ],
+          "Constraints": [],
+          "Answers": [
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.02_37z",
+              "EntityName": "UTC−05:00"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.02hcv8",
+              "EntityName": "Eastern Time Zone"
+            }
+          ]
+        }
+      
+    }

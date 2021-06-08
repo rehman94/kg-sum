@@ -1,0 +1,1 @@
+{"QuestionId":"q307","Parse":{"TopicEntityName":"Cheryl Tiegs ","TopicEntityMid":"<http://dbpedia.org/resource/Cheryl_Tiegs>","InferentialChain":["city","residence","cheryl","teigs"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Los_Angeles>","EntityName":"Los Angeles"}]}}

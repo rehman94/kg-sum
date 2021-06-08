@@ -1,0 +1,1 @@
+{"QuestionId":"q905","Parse":{"TopicEntityName":"Edward Niesen ","TopicEntityMid":"<http://dbpedia.org/resource/Edward_Niesen>","InferentialChain":["city","arthur","ross","edward","niesen"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Chicago>","EntityName":"Chicago"}]}}

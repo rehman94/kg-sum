@@ -1,0 +1,1 @@
+{"QuestionId":"q1129","Parse":{"TopicEntityName":"Patterson Houses ","TopicEntityMid":"<http://dbpedia.org/resource/Patterson_Houses>","InferentialChain":["municipality","patterson","houses"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/The_Bronx>","EntityName":"The Bronx"}]}}

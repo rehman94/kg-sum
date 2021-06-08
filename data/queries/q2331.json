@@ -1,0 +1,1 @@
+{"QuestionId":"q2331","Parse":{"TopicEntityName":"Nina Vislova ","TopicEntityMid":"<http://dbpedia.org/resource/Nina_Vislova>","InferentialChain":["whihc","place","birth","of","union","state","the","largest","city","of","union","staete"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Moscow>","EntityName":"Moscow"}]}}

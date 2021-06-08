@@ -1,0 +1,1 @@
+{"QuestionId":"q1999","Parse":{"TopicEntityName":"Galatasaray Handball Team ","TopicEntityMid":"<http://dbpedia.org/resource/Galatasaray_Handball_Team>","InferentialChain":["mascot","galatasaray","handball","team"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Lion>","EntityName":"Lion"}]}}

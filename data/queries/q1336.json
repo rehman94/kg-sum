@@ -1,0 +1,1 @@
+{"QuestionId":"q1336","Parse":{"TopicEntityName":"Probus  journal  ","TopicEntityMid":"<http://dbpedia.org/resource/Probus_(journal)>","InferentialChain":["moto","american","classical","league","academic","discipline","of","probus"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Latin>","EntityName":"Latin"}]}}

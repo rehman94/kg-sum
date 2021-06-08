@@ -1,0 +1,20 @@
+{
+      "QuestionId": "WebQTrn-8",
+      "Parse": 
+        {
+          "TopicEntityName": "Saki",
+          "TopicEntityMid": "m.07484",
+          "InferentialChain": [
+            "people.person.place_of_birth"
+          ],
+          "Constraints": [],
+          "Answers": [
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.05ql8_",
+              "EntityName": "Sittwe"
+            }
+          ]
+        }
+      
+    }

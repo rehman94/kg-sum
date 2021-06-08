@@ -1,0 +1,1 @@
+{"QuestionId":"q3085","Parse":{"TopicEntityName":"Geoffrey Rush ","TopicEntityMid":"<http://dbpedia.org/resource/Geoffrey_Rush>","InferentialChain":["awards","michel","hazanavicius","geoffrey","rush"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Academy_Awards>","EntityName":"Academy Awards"}]}}

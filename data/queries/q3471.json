@@ -1,0 +1,1 @@
+{"QuestionId":"q3471","Parse":{"TopicEntityName":"Peter Bergman  comedian  ","TopicEntityMid":"<http://dbpedia.org/resource/Peter_Bergman_(comedian)>","InferentialChain":["magazine","published","allal","employer","peter","bergman"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Rolling_Stone>","EntityName":"Rolling Stone"}]}}

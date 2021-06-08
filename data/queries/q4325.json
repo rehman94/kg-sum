@@ -1,0 +1,1 @@
+{"QuestionId":"q4325","Parse":{"TopicEntityName":"Cape Town ","TopicEntityMid":"<http://dbpedia.org/resource/Cape_Town>","InferentialChain":["politicians","reside","cape","town"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"2","EntityName":""}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q1870","Parse":{"TopicEntityName":"Islam ","TopicEntityMid":"<http://dbpedia.org/resource/Islam>","InferentialChain":["list","saints","venerated","islam","major","shrine","tomb","joshua"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Joshua>","EntityName":"Joshua"}]}}

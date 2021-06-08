@@ -1,0 +1,1 @@
+{"QuestionId":"q3547","Parse":{"TopicEntityName":"Fox Broadcasting Company ","TopicEntityMid":"<http://dbpedia.org/resource/Fox_Broadcasting_Company>","InferentialChain":["tv","show","simon","fuller","artist","fox","the","channel"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/American_Idol>","EntityName":"American Idol"}]}}

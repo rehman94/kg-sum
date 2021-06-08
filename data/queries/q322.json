@@ -1,0 +1,1 @@
+{"QuestionId":"q322","Parse":{"TopicEntityName":"Philosophy ","TopicEntityMid":"<http://dbpedia.org/resource/Philosophy>","InferentialChain":["philosophy","journal","compiler","stephen","law"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Think_(journal)>","EntityName":"Think "}]}}

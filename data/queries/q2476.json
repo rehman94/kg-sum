@@ -1,0 +1,1 @@
+{"QuestionId":"q2476","Parse":{"TopicEntityName":"Nandurbar ","TopicEntityMid":"<http://dbpedia.org/resource/Nandurbar>","InferentialChain":["party","politician","belong","","born","nandurbar"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Indian_National_Congress>","EntityName":"Indian National Congress"}]}}

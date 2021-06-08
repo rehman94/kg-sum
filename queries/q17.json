@@ -1,0 +1,21 @@
+  {
+      "QuestionId": "WebQTrn-440",
+      "Parse": 
+        {
+          
+          "TopicEntityName": "Washington Redskins",
+          "TopicEntityMid": "m.084l5",
+          "InferentialChain": [
+            "sports.sports_team.previously_known_as"
+          ],
+          "Constraints": [],
+          "Answers": [
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.06mp_z5",
+              "EntityName": "Boston Redskins"
+            }
+          ]
+        }
+      
+    }

@@ -1,0 +1,1 @@
+{"QuestionId":"q4758","Parse":{"TopicEntityName":"Arkansas wine ","TopicEntityMid":"<http://dbpedia.org/resource/Arkansas_wine>","InferentialChain":["official","arkansas","wine"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Arkansas>","EntityName":"Arkansas"}]}}

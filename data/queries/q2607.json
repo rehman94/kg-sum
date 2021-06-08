@@ -1,0 +1,1 @@
+{"QuestionId":"q2607","Parse":{"TopicEntityName":"Texas ","TopicEntityMid":"<http://dbpedia.org/resource/Texas>","InferentialChain":["give","count","companies","located","texas"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"151","EntityName":""}]}}

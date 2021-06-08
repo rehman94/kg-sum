@@ -1,0 +1,1 @@
+{"QuestionId":"q3399","Parse":{"TopicEntityName":"Kamaloohua ","TopicEntityMid":"<http://dbpedia.org/resource/Kamaloohua>","InferentialChain":["district","robert","william","wilcox","os","place","of","birth","of","kamaloohua"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Maui>","EntityName":"Maui"}]}}

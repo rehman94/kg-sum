@@ -1,0 +1,1 @@
+{"QuestionId":"q426","Parse":{"TopicEntityName":"2001 Speedway Ekstraliga ","TopicEntityMid":"<http://dbpedia.org/resource/2001_Speedway_Ekstraliga>","InferentialChain":["country","title","2001","speedway","ekstraliga"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Poland>","EntityName":"Poland"}]}}

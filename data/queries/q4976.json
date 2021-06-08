@@ -1,0 +1,1 @@
+{"QuestionId":"q4976","Parse":{"TopicEntityName":"Primate ","TopicEntityMid":"<http://dbpedia.org/resource/Primate>","InferentialChain":["family","ape","order","","taxonomy","","primate"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"41","EntityName":""}]}}

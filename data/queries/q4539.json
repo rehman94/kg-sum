@@ -1,0 +1,1 @@
+{"QuestionId":"q4539","Parse":{"TopicEntityName":"Charles Goodell ","TopicEntityMid":"<http://dbpedia.org/resource/Charles_Goodell>","InferentialChain":["appointer","charles","goodell"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Nelson_Rockefeller>","EntityName":"Nelson Rockefeller"}]}}

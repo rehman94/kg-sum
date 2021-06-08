@@ -1,0 +1,1 @@
+{"QuestionId":"q1515","Parse":{"TopicEntityName":"Fort Gadsden ","TopicEntityMid":"<http://dbpedia.org/resource/Fort_Gadsden>","InferentialChain":["military","commander","fought","battle","fort","gadsen"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Andrew_Jackson>","EntityName":"Andrew Jackson"}]}}

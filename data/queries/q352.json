@@ -1,0 +1,1 @@
+{"QuestionId":"q352","Parse":{"TopicEntityName":"Jim Harris  entrepreneur  ","TopicEntityMid":"<http://dbpedia.org/resource/Jim_Harris_(entrepreneur)>","InferentialChain":["company","s","founder","jim","harris"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Compaq>","EntityName":"Compaq"}]}}

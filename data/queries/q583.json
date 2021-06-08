@@ -1,0 +1,1 @@
+{"QuestionId":"q583","Parse":{"TopicEntityName":"BBC HD ","TopicEntityMid":"<http://dbpedia.org/resource/BBC_HD>","InferentialChain":["televion","show","s","theme","music","ron","grainer","broadcasted","by","bbc","hd"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Doctor_Who>","EntityName":"Doctor Who"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q511","Parse":{"TopicEntityName":"MTR ","TopicEntityMid":"<http://dbpedia.org/resource/MTR>","InferentialChain":["give","estimate","number","of","manufacturers","products","managed","mtr"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"12","EntityName":""}]}}

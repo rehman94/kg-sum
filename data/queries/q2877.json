@@ -1,0 +1,1 @@
+{"QuestionId":"q2877","Parse":{"TopicEntityName":"Delta III ","TopicEntityMid":"<http://dbpedia.org/resource/Delta_III>","InferentialChain":["company","manufactured","delta","iii"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Boeing>","EntityName":"Boeing"}]}}

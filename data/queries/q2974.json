@@ -1,0 +1,1 @@
+{"QuestionId":"q2974","Parse":{"TopicEntityName":"Potato ","TopicEntityMid":"<http://dbpedia.org/resource/Potato>","InferentialChain":["ingredient","foods","whihh","the","ingredient","potato"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"894","EntityName":""}]}}

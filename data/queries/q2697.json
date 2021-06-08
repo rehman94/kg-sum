@@ -1,0 +1,1 @@
+{"QuestionId":"q2697","Parse":{"TopicEntityName":"Wallace Dollase ","TopicEntityMid":"<http://dbpedia.org/resource/Wallace_Dollase>","InferentialChain":["wallace","dollase","die"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Kentucky>","EntityName":"Kentucky"}]}}

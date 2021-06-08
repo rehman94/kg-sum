@@ -1,0 +1,1 @@
+{"QuestionId":"q718","Parse":{"TopicEntityName":"Blytheville School District ","TopicEntityMid":"<http://dbpedia.org/resource/Blytheville_School_District>","InferentialChain":["school","mascots","blytheville","school","district"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Chickasaw>","EntityName":"Chickasaw"}]}}

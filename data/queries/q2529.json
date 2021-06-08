@@ -1,0 +1,1 @@
+{"QuestionId":"q2529","Parse":{"TopicEntityName":"Groove Thang ","TopicEntityMid":"<http://dbpedia.org/resource/Groove_Thang>","InferentialChain":["artist","musical","artist","groove","thang","collaborated"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Queen_Latifah>","EntityName":"Queen Latifah"}]}}

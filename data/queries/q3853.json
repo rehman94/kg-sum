@@ -1,0 +1,1 @@
+{"QuestionId":"q3853","Parse":{"TopicEntityName":"HBO ","TopicEntityMid":"<http://dbpedia.org/resource/HBO>","InferentialChain":["company","owns","hbo","division"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Time_Warner>","EntityName":"Time Warner"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q2163","Parse":{"TopicEntityName":"Baku Olympic Stadium  BOS  ","TopicEntityMid":"<http://dbpedia.org/resource/Baku_Olympic_Stadium_(BOS)>","InferentialChain":["hte","builder","baku","olympic","stadium"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Turkey>","EntityName":"Turkey"}]}}

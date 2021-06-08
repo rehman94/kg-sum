@@ -1,0 +1,1 @@
+{"QuestionId":"q982","Parse":{"TopicEntityName":"Chatumongol Sonakul ","TopicEntityMid":"<http://dbpedia.org/resource/Chatumongol_Sonakul>","InferentialChain":["religion","the","successor","of","chatumongol","sonakul"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Buddhism>","EntityName":"Buddhism"}]}}

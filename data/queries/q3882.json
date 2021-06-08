@@ -1,0 +1,1 @@
+{"QuestionId":"q3882","Parse":{"TopicEntityName":"Walt Disney ","TopicEntityMid":"<http://dbpedia.org/resource/Walt_Disney>","InferentialChain":["award","roy","walker","walt","disney"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Academy_Awards>","EntityName":"Academy Awards"}]}}

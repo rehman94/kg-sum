@@ -1,0 +1,1 @@
+{"QuestionId":"q1712","Parse":{"TopicEntityName":"Harold Lloyd ","TopicEntityMid":"<http://dbpedia.org/resource/Harold_Lloyd>","InferentialChain":["state","gave","us","brian","deegan","harold","lyold"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Nebraska>","EntityName":"Nebraska"}]}}

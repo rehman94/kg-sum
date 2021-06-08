@@ -1,0 +1,1 @@
+{"QuestionId":"q1677","Parse":{"TopicEntityName":"Ptolemy XIV of Egypt ","TopicEntityMid":"<http://dbpedia.org/resource/Ptolemy_XIV_of_Egypt>","InferentialChain":["spouse","ptolemy","xiv","mother","named","ptolemy","xii","auletes"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Cleopatra>","EntityName":"Cleopatra"}]}}

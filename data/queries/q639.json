@@ -1,0 +1,1 @@
+{"QuestionId":"q639","Parse":{"TopicEntityName":"Mount Hoffmann ","TopicEntityMid":"<http://dbpedia.org/resource/Mount_Hoffmann>","InferentialChain":["ascented","mountain","mount","hoffmann"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/John_Muir>","EntityName":"John Muir"}]}}

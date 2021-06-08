@@ -1,0 +1,1 @@
+{"QuestionId":"q3806","Parse":{"TopicEntityName":"Dundas Castle  Roscoe  New York  ","TopicEntityMid":"<http://dbpedia.org/resource/Dundas_Castle_(Roscoe,_New_York)>","InferentialChain":["places","find","people","architects","the","dundas","castle"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"11","EntityName":""}]}}

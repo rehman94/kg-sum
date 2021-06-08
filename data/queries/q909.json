@@ -1,0 +1,1 @@
+{"QuestionId":"q909","Parse":{"TopicEntityName":"Heroman ","TopicEntityMid":"<http://dbpedia.org/resource/Heroman>","InferentialChain":["wrote","heroman"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Stan_Lee>","EntityName":"Stan Lee"}]}}

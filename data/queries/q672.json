@@ -1,0 +1,1 @@
+{"QuestionId":"q672","Parse":{"TopicEntityName":"Comedy Central ","TopicEntityMid":"<http://dbpedia.org/resource/Comedy_Central>","InferentialChain":["tv","show","distributed","broadcast","syndication","broadcasted","by","comedy","central"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/South_Park>","EntityName":"South Park"}]}}

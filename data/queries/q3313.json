@@ -1,0 +1,1 @@
+{"QuestionId":"q3313","Parse":{"TopicEntityName":"European Americans ","TopicEntityMid":"<http://dbpedia.org/resource/European_Americans>","InferentialChain":["death","of","european","americans"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Cholera>","EntityName":"Cholera"}]}}

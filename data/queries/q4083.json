@@ -1,0 +1,1 @@
+{"QuestionId":"q4083","Parse":{"TopicEntityName":"Phoenix Suns ","TopicEntityMid":"<http://dbpedia.org/resource/Phoenix_Suns>","InferentialChain":["basketball","player","teams","chicago","bulls","phoenix","suns"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Tyson_Chandler>","EntityName":"Tyson Chandler"}]}}

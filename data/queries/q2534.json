@@ -1,0 +1,1 @@
+{"QuestionId":"q2534","Parse":{"TopicEntityName":"Wilfred McDonald ","TopicEntityMid":"<http://dbpedia.org/resource/Wilfred_McDonald>","InferentialChain":["team","wolfred","mcdonald","prospect","team","milkhail","pashnin"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/New_York_Rangers>","EntityName":"New York Rangers"}]}}

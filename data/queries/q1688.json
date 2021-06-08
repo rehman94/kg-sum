@@ -1,0 +1,1 @@
+{"QuestionId":"q1688","Parse":{"TopicEntityName":"Ontario ","TopicEntityMid":"<http://dbpedia.org/resource/Ontario>","InferentialChain":["count","places","companies","located","ontario","operate"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"29","EntityName":""}]}}

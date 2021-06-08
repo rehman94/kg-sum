@@ -1,0 +1,1 @@
+{"QuestionId":"q4094","Parse":{"TopicEntityName":"Allen Boyd ","TopicEntityMid":"<http://dbpedia.org/resource/Allen_Boyd>","InferentialChain":["battle","jim","jones","which","allen","boyd","is","associated"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Vietnam_War>","EntityName":"Vietnam War"}]}}

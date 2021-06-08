@@ -1,0 +1,1 @@
+{"QuestionId":"q1035","Parse":{"TopicEntityName":"Urban area ","TopicEntityMid":"<http://dbpedia.org/resource/Urban_area>","InferentialChain":["count","sports","played","universities","located","urban","areas"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"310","EntityName":""}]}}

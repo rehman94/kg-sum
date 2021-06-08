@@ -1,0 +1,1 @@
+{"QuestionId":"q2486","Parse":{"TopicEntityName":"Michael Springer ","TopicEntityMid":"<http://dbpedia.org/resource/Michael_Springer>","InferentialChain":["team","michael","springer"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Syracuse_University>","EntityName":"Syracuse University"}]}}

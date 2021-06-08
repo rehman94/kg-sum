@@ -1,0 +1,1 @@
+{"QuestionId":"q3333","Parse":{"TopicEntityName":"Mumbai Suburban district ","TopicEntityMid":"<http://dbpedia.org/resource/Mumbai_Suburban_district>","InferentialChain":["city","schools","district","mumbai","suburban"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Mumbai>","EntityName":"Mumbai"}]}}

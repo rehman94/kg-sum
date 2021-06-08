@@ -1,0 +1,1 @@
+{"QuestionId":"q1650","Parse":{"TopicEntityName":"Club One Air ","TopicEntityMid":"<http://dbpedia.org/resource/Club_One_Air>","InferentialChain":["city","hub","airport","club","air"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Mumbai>","EntityName":"Mumbai"}]}}

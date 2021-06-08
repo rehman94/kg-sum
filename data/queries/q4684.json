@@ -1,0 +1,1 @@
+{"QuestionId":"q4684","Parse":{"TopicEntityName":"Monument to Salavat Yulaev ","TopicEntityMid":"<http://dbpedia.org/resource/Monument_to_Salavat_Yulaev>","InferentialChain":["designer","monument","salavat","yulaev","die"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Moscow>","EntityName":"Moscow"}]}}

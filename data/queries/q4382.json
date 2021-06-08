@@ -1,0 +1,1 @@
+{"QuestionId":"q4382","Parse":{"TopicEntityName":"Harry Harlow ","TopicEntityMid":"<http://dbpedia.org/resource/Harry_Harlow>","InferentialChain":["people","phd","advisor","harry","harlow"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Abraham_Maslow>","EntityName":"Abraham Maslow"}]}}

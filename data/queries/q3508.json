@@ -1,0 +1,1 @@
+{"QuestionId":"q3508","Parse":{"TopicEntityName":"Comedy Central ","TopicEntityMid":"<http://dbpedia.org/resource/Comedy_Central>","InferentialChain":["shows","aired","comedy","central"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"73","EntityName":""}]}}

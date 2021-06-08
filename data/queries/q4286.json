@@ -1,0 +1,1 @@
+{"QuestionId":"q4286","Parse":{"TopicEntityName":"Dan Mica ","TopicEntityMid":"<http://dbpedia.org/resource/Dan_Mica>","InferentialChain":["predecessor","dan","mica"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Marco_Rubio>","EntityName":"Marco Rubio"}]}}

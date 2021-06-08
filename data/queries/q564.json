@@ -1,0 +1,1 @@
+{"QuestionId":"q564","Parse":{"TopicEntityName":"Alabama ","TopicEntityMid":"<http://dbpedia.org/resource/Alabama>","InferentialChain":["owners","things","located","alabama"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"27","EntityName":""}]}}

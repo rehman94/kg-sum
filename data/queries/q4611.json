@@ -1,0 +1,1 @@
+{"QuestionId":"q4611","Parse":{"TopicEntityName":"Instagram ","TopicEntityMid":"<http://dbpedia.org/resource/Instagram>","InferentialChain":["company","owns","instagram"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Facebook>","EntityName":"Facebook"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q4141","Parse":{"TopicEntityName":"CFRX ","TopicEntityMid":"<http://dbpedia.org/resource/CFRX>","InferentialChain":["broadcast","area","cfrx"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/North_America>","EntityName":"North America"}]}}

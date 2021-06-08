@@ -1,0 +1,1 @@
+{"QuestionId":"q1562","Parse":{"TopicEntityName":"Iran ","TopicEntityMid":"<http://dbpedia.org/resource/Iran>","InferentialChain":["company","s","cars","assembled","iran"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/General_Motors>","EntityName":"General Motors"}]}}

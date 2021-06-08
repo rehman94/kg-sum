@@ -1,0 +1,1 @@
+{"QuestionId":"q4049","Parse":{"TopicEntityName":"Pointe d Aveneyre ","TopicEntityMid":"<http://dbpedia.org/resource/Pointe_d'Aveneyre>","InferentialChain":["pointe","d","aveneyre","belongs","mountain","range"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Swiss_Alps>","EntityName":"Swiss Alps"}]}}

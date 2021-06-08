@@ -1,0 +1,1 @@
+{"QuestionId":"q1935","Parse":{"TopicEntityName":"European route E8 ","TopicEntityMid":"<http://dbpedia.org/resource/European_route_E8>","InferentialChain":["list","countries","european","rout","e39","e8","passes"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Norway>","EntityName":"Norway"}]}}

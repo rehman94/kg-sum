@@ -1,0 +1,1 @@
+{"QuestionId":"q4255","Parse":{"TopicEntityName":"Chuck Connors ","TopicEntityMid":"<http://dbpedia.org/resource/Chuck_Connors>","InferentialChain":["city","resting","place","the","martin","ragaway","chuck","connors"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Los_Angeles>","EntityName":"Los Angeles"}]}}

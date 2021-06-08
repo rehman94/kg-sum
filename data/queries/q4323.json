@@ -1,0 +1,1 @@
+{"QuestionId":"q4323","Parse":{"TopicEntityName":"Hugh Scott ","TopicEntityMid":"<http://dbpedia.org/resource/Hugh_Scott>","InferentialChain":["official","residence","hugh","scott","origin","of","long","rifle"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Pennsylvania>","EntityName":"Pennsylvania"}]}}

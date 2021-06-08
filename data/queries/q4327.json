@@ -1,0 +1,1 @@
+{"QuestionId":"q4327","Parse":{"TopicEntityName":"Colonial troops ","TopicEntityMid":"<http://dbpedia.org/resource/Colonial_troops>","InferentialChain":["political","figure","military","branch","is","colonial","troops"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/George_Washington>","EntityName":"George Washington"}]}}

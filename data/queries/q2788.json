@@ -1,0 +1,1 @@
+{"QuestionId":"q2788","Parse":{"TopicEntityName":"Capitol 400 ","TopicEntityMid":"<http://dbpedia.org/resource/Capitol_400>","InferentialChain":["route","start","capitol","400"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Chicago>","EntityName":"Chicago"}]}}

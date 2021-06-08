@@ -1,0 +1,1 @@
+{"QuestionId":"q835","Parse":{"TopicEntityName":"Willard Fiske ","TopicEntityMid":"<http://dbpedia.org/resource/Willard_Fiske>","InferentialChain":["domain","s","journals","willard","fiske","edit"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Chess>","EntityName":"Chess"}]}}

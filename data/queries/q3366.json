@@ -1,0 +1,1 @@
+{"QuestionId":"q3366","Parse":{"TopicEntityName":"Harihar Airport ","TopicEntityMid":"<http://dbpedia.org/resource/Harihar_Airport>","InferentialChain":["company","the","operator","harihar","airport","founded"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Mumbai>","EntityName":"Mumbai"}]}}

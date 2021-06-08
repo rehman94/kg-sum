@@ -1,0 +1,1 @@
+{"QuestionId":"q3185","Parse":{"TopicEntityName":"Cadillac Fleetwood ","TopicEntityMid":"<http://dbpedia.org/resource/Cadillac_Fleetwood>","InferentialChain":["cars","succeeded","cars","similar","cadillac","fleetwood"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"12","EntityName":""}]}}

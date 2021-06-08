@@ -1,0 +1,1 @@
+{"QuestionId":"q4310","Parse":{"TopicEntityName":"Africa  70  band  ","TopicEntityMid":"<http://dbpedia.org/resource/Africa_'70_(band)>","InferentialChain":["musician","label","celluloid","records","africa","70"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Fela_Kuti>","EntityName":"Fela Kuti"}]}}

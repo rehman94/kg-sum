@@ -1,0 +1,1 @@
+{"QuestionId":"q1617","Parse":{"TopicEntityName":"Catch My Soul  UK stage version  ","TopicEntityMid":"<http://dbpedia.org/resource/Catch_My_Soul_(UK_stage_version)>","InferentialChain":["wrote","catch","soul"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/William_Shakespeare>","EntityName":"William Shakespeare"}]}}

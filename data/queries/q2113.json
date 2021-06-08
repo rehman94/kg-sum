@@ -1,0 +1,1 @@
+{"QuestionId":"q2113","Parse":{"TopicEntityName":"Harris County  Texas ","TopicEntityMid":"<http://dbpedia.org/resource/Harris_County,_Texas>","InferentialChain":["company","located","harris","county","","texas"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Compaq>","EntityName":"Compaq"}]}}

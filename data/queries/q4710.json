@@ -1,0 +1,1 @@
+{"QuestionId":"q4710","Parse":{"TopicEntityName":"Dick Lundy  animator  ","TopicEntityMid":"<http://dbpedia.org/resource/Dick_Lundy_(animator)>","InferentialChain":["fictional","character","voice","is","the","animator","dick","lundy"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Mickey_Mouse>","EntityName":"Mickey Mouse"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q3433","Parse":{"TopicEntityName":"Fleisher Yarn ","TopicEntityMid":"<http://dbpedia.org/resource/Fleisher_Yarn>","InferentialChain":["team","players","start","careers","","play","fleisher","yarn"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Philadelphia_Phillies>","EntityName":"Philadelphia Phillies"}]}}

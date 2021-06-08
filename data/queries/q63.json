@@ -1,0 +1,1 @@
+{"QuestionId":"q63","Parse":{"TopicEntityName":"Newin Chidchob ","TopicEntityMid":"<http://dbpedia.org/resource/Newin_Chidchob>","InferentialChain":["nationality","newin","chidchob"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Thailand>","EntityName":"Thailand"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q4973","Parse":{"TopicEntityName":"RENFE Class 333 ","TopicEntityMid":"<http://dbpedia.org/resource/RENFE_Class_333>","InferentialChain":["company","designer","south","african","class","11e","renfe","class","333"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/General_Motors>","EntityName":"General Motors"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q952","Parse":{"TopicEntityName":"Le Gibloux ","TopicEntityMid":"<http://dbpedia.org/resource/Le_Gibloux>","InferentialChain":["mountain","range","ponte","d","aveneyre","le","gibloux"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Swiss_Alps>","EntityName":"Swiss Alps"}]}}

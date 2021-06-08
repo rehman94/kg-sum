@@ -1,0 +1,1 @@
+{"QuestionId":"q2108","Parse":{"TopicEntityName":"William Luther Hill ","TopicEntityMid":"<http://dbpedia.org/resource/William_Luther_Hill>","InferentialChain":["profession","william","luther","hill"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/United_States_Senate>","EntityName":"United States Senate"}]}}

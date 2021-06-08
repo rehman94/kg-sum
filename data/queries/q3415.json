@@ -1,0 +1,1 @@
+{"QuestionId":"q3415","Parse":{"TopicEntityName":"Cheasty Boulevard South ","TopicEntityMid":"<http://dbpedia.org/resource/Cheasty_Boulevard_South>","InferentialChain":["city","s","landmark","cheasty","boulevard","south"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Seattle>","EntityName":"Seattle"}]}}

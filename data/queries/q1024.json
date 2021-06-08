@@ -1,0 +1,1 @@
+{"QuestionId":"q1024","Parse":{"TopicEntityName":"Pope Benedict XVI ","TopicEntityMid":"<http://dbpedia.org/resource/Pope_Benedict_XVI>","InferentialChain":["saint","major","shrine","canada","canonized","pope","benedict","xvi"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Kateri_Tekakwitha>","EntityName":"Kateri Tekakwitha"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q806","Parse":{"TopicEntityName":"Cheers Beacon Hill ","TopicEntityMid":"<http://dbpedia.org/resource/Cheers_Beacon_Hill>","InferentialChain":["sitcom","s","company","paramount","television","is","located","cheers","beacon","hill"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Cheers>","EntityName":"Cheers"}]}}

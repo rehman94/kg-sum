@@ -1,0 +1,1 @@
+{"QuestionId":"q4860","Parse":{"TopicEntityName":"Leuven ","TopicEntityMid":"<http://dbpedia.org/resource/Leuven>","InferentialChain":["beverages","originate","leuven"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Stella_Artois>","EntityName":"Stella Artois"}]}}

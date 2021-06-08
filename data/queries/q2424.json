@@ -1,0 +1,1 @@
+{"QuestionId":"q2424","Parse":{"TopicEntityName":"Albertin Montoya ","TopicEntityMid":"<http://dbpedia.org/resource/Albertin_Montoya>","InferentialChain":["university","teams","managed","albertin","montoya"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Stanford_University>","EntityName":"Stanford University"}]}}

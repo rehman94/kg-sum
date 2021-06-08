@@ -1,0 +1,1 @@
+{"QuestionId":"q215","Parse":{"TopicEntityName":"He s a Pirate ","TopicEntityMid":"<http://dbpedia.org/resource/He's_a_Pirate>","InferentialChain":["artist","madagascar","","operation","penguin","writer","of","s","pirate"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Hans_Zimmer>","EntityName":"Hans Zimmer"}]}}

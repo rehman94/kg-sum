@@ -1,0 +1,1 @@
+{"QuestionId":"q1315","Parse":{"TopicEntityName":"Susanna Clarke ","TopicEntityMid":"<http://dbpedia.org/resource/Susanna_Clarke>","InferentialChain":["author","inspired","susanna","clarke","","wrote","northanger","abbey"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Jane_Austen>","EntityName":"Jane Austen"}]}}

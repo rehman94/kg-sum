@@ -1,0 +1,1 @@
+{"QuestionId":"q4814","Parse":{"TopicEntityName":"Michael Jackson ","TopicEntityMid":"<http://dbpedia.org/resource/Michael_Jackson>","InferentialChain":["producers","casted","michael","jackson"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"22","EntityName":""}]}}

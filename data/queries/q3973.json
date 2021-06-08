@@ -1,0 +1,1 @@
+{"QuestionId":"q3973","Parse":{"TopicEntityName":"Argentina ","TopicEntityMid":"<http://dbpedia.org/resource/Argentina>","InferentialChain":["count","genres","music","made","argentinian","bands"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"425","EntityName":""}]}}

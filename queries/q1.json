@@ -1,0 +1,28 @@
+{
+      "QuestionId": "WebQTrn-0",
+      "Parse": {
+          "TopicEntityMid": "m.06w2sn5",
+          "TopicEntityName": "Justin Bieber",
+          "InferentialChain": [
+            "people.person.sibling_s",
+            "people.sibling_relationship.sibling"
+          ],
+          "Constraints": [
+            {
+              "EntityName": "Male",
+              "SourceNodeIndex": 1,
+              "NodePredicate": "people.person.gender",
+              "ValueType": "String"
+            }
+          ],
+          "Answers": [
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.0gxnnwq",
+              "EntityName": "Jaxon Bieber"
+            }
+          ]
+        }
+      }
+    
+

@@ -1,0 +1,1 @@
+{"QuestionId":"q286","Parse":{"TopicEntityName":"Vagif Aliyev ","TopicEntityMid":"<http://dbpedia.org/resource/Vagif_Aliyev>","InferentialChain":["religious","affiliation","vagif","aliyev"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Islam>","EntityName":"Islam"}]}}

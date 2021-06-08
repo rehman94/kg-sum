@@ -1,0 +1,1 @@
+{"QuestionId":"q1845","Parse":{"TopicEntityName":"Feras Saied ","TopicEntityMid":"<http://dbpedia.org/resource/Feras_Saied>","InferentialChain":["city","headquarters","orient","news","feras","saied","died"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Dubai>","EntityName":"Dubai"}]}}

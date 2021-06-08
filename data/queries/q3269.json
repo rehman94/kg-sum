@@ -1,0 +1,1 @@
+{"QuestionId":"q3269","Parse":{"TopicEntityName":"Paphos International Airport ","TopicEntityMid":"<http://dbpedia.org/resource/Paphos_International_Airport>","InferentialChain":["stockholder","paphos","international","airport"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Cyprus>","EntityName":"Cyprus"}]}}

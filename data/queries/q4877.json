@@ -1,0 +1,1 @@
+{"QuestionId":"q4877","Parse":{"TopicEntityName":"Battle Chess ","TopicEntityMid":"<http://dbpedia.org/resource/Battle_Chess>","InferentialChain":["genre","battle","chess"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Chess>","EntityName":"Chess"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q3043","Parse":{"TopicEntityName":"Celluloid Records ","TopicEntityMid":"<http://dbpedia.org/resource/Celluloid_Records>","InferentialChain":["musical","artist","tony","allen","label","with","celluloid","records"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Fela_Kuti>","EntityName":"Fela Kuti"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q1422","Parse":{"TopicEntityName":"Soares da Costa ","TopicEntityMid":"<http://dbpedia.org/resource/Soares_da_Costa>","InferentialChain":["saores","de","costa","built","bridge","river"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Zambezi>","EntityName":"Zambezi"}]}}

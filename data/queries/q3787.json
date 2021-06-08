@@ -1,0 +1,1 @@
+{"QuestionId":"q3787","Parse":{"TopicEntityName":"Allama Matthews ","TopicEntityMid":"<http://dbpedia.org/resource/Allama_Matthews>","InferentialChain":["allama","matthews","study"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Vanderbilt_University>","EntityName":"Vanderbilt University"}]}}

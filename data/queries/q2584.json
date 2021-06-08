@@ -1,0 +1,1 @@
+{"QuestionId":"q2584","Parse":{"TopicEntityName":"Oscoda  Michigan ","TopicEntityMid":"<http://dbpedia.org/resource/Oscoda,_Michigan>","InferentialChain":["state","the","administrative","region","oscoda","","michigan","is","located"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Michigan>","EntityName":"Michigan"}]}}

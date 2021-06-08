@@ -1,0 +1,1 @@
+{"QuestionId":"q309","Parse":{"TopicEntityName":"Papeete ","TopicEntityMid":"<http://dbpedia.org/resource/Papeete>","InferentialChain":["give","count","archipelago","","papeete","the","biggest","town"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"14","EntityName":""}]}}

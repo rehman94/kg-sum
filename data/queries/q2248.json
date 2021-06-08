@@ -1,0 +1,1 @@
+{"QuestionId":"q2248","Parse":{"TopicEntityName":"Stockholm ","TopicEntityMid":"<http://dbpedia.org/resource/Stockholm>","InferentialChain":["give","count","newspaper","language","sweedish","headquartered","stockholm"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"17","EntityName":""}]}}

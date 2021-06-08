@@ -1,0 +1,1 @@
+{"QuestionId":"q2586","Parse":{"TopicEntityName":"John Forbes  British Army officer  ","TopicEntityMid":"<http://dbpedia.org/resource/John_Forbes_(British_Army_officer)>","InferentialChain":["city","s","foundeer","john","forbes"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Pittsburgh>","EntityName":"Pittsburgh"}]}}

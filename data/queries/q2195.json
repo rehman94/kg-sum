@@ -1,0 +1,1 @@
+{"QuestionId":"q2195","Parse":{"TopicEntityName":"Autoconf ","TopicEntityMid":"<http://dbpedia.org/resource/Autoconf>","InferentialChain":["list","things","developed","autoconf"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/GNU>","EntityName":"GNU"}]}}

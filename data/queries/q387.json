@@ -1,0 +1,1 @@
+{"QuestionId":"q387","Parse":{"TopicEntityName":"Nintendo Network ","TopicEntityMid":"<http://dbpedia.org/resource/Nintendo_Network>","InferentialChain":["company","founded","fusajiro","yamauchi","service","nintendo","network"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Nintendo>","EntityName":"Nintendo"}]}}

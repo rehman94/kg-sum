@@ -1,0 +1,1 @@
+{"QuestionId":"q2342","Parse":{"TopicEntityName":"Minneapolis ","TopicEntityMid":"<http://dbpedia.org/resource/Minneapolis>","InferentialChain":["operates","railway","line","begins","minneapolis"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Chicago>","EntityName":"Chicago"}]}}

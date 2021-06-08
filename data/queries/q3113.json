@@ -1,0 +1,1 @@
+{"QuestionId":"q3113","Parse":{"TopicEntityName":"Soccer Bowl  76 ","TopicEntityMid":"<http://dbpedia.org/resource/Soccer_Bowl_'76>","InferentialChain":["soccer","bowl","place","76"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Seattle>","EntityName":"Seattle"}]}}

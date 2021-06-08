@@ -1,0 +1,1 @@
+{"QuestionId":"q1506","Parse":{"TopicEntityName":"Michael Deeley ","TopicEntityMid":"<http://dbpedia.org/resource/Michael_Deeley>","InferentialChain":["movie","produced","michael","deeley","distributed","by","warner","bros"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Blade_Runner>","EntityName":"Blade Runner"}]}}

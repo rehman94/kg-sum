@@ -1,0 +1,1 @@
+{"QuestionId":"q1018","Parse":{"TopicEntityName":"California ","TopicEntityMid":"<http://dbpedia.org/resource/California>","InferentialChain":["give","count","people","ascented","peak","california"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"65","EntityName":""}]}}

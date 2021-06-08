@@ -1,0 +1,1 @@
+{"QuestionId":"q1187","Parse":{"TopicEntityName":"Leona Baumgartner ","TopicEntityMid":"<http://dbpedia.org/resource/Leona_Baumgartner>","InferentialChain":["twin","cities","400","operated","city","","is","birthplace","leona","baumgarter"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Chicago>","EntityName":"Chicago"}]}}

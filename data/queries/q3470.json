@@ -1,0 +1,1 @@
+{"QuestionId":"q3470","Parse":{"TopicEntityName":"Joe Schilling ","TopicEntityMid":"<http://dbpedia.org/resource/Joe_Schilling>","InferentialChain":["give","martial","artists","trained","joe","schilling"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Nick_Diaz>","EntityName":"Nick Diaz"}]}}

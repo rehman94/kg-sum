@@ -1,0 +1,1 @@
+{"QuestionId":"q453","Parse":{"TopicEntityName":"Joker  comics  ","TopicEntityMid":"<http://dbpedia.org/resource/Joker_(comics)>","InferentialChain":["characters","plays","characters","joker","","comics"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"12","EntityName":""}]}}

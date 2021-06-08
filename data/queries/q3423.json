@@ -1,0 +1,1 @@
+{"QuestionId":"q3423","Parse":{"TopicEntityName":"Clay Aiken ","TopicEntityMid":"<http://dbpedia.org/resource/Clay_Aiken>","InferentialChain":["list","relatives","clay","aiken"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Kenneth_Parcell>","EntityName":"Kenneth Parcell"}]}}

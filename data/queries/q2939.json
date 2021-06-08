@@ -1,0 +1,1 @@
+{"QuestionId":"q2939","Parse":{"TopicEntityName":"Alice s Wonderland ","TopicEntityMid":"<http://dbpedia.org/resource/Alice's_Wonderland>","InferentialChain":["film","director","alice","s","wonderland"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Walt_Disney>","EntityName":"Walt Disney"}]}}

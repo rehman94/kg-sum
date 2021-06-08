@@ -1,0 +1,1 @@
+{"QuestionId":"q1303","Parse":{"TopicEntityName":"Ontario  California ","TopicEntityMid":"<http://dbpedia.org/resource/Ontario,_California>","InferentialChain":["airport","inside","ontario"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Ontario_International_Airport>","EntityName":"Ontario International Airport"}]}}

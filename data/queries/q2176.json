@@ -1,0 +1,1 @@
+{"QuestionId":"q2176","Parse":{"TopicEntityName":"The Peanuts Movie ","TopicEntityMid":"<http://dbpedia.org/resource/The_Peanuts_Movie>","InferentialChain":["voiced","peanuts","motion","comics","peanuts","movie"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Snoopy>","EntityName":"Snoopy"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q599","Parse":{"TopicEntityName":"Omar D  Conger ","TopicEntityMid":"<http://dbpedia.org/resource/Omar_D._Conger>","InferentialChain":["profession","oamr","d","conger","jack","ryan","nominated"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/United_States_Senate>","EntityName":"United States Senate"}]}}

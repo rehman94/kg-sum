@@ -1,0 +1,1 @@
+{"QuestionId":"q2795","Parse":{"TopicEntityName":"John Madden Football  92 ","TopicEntityMid":"<http://dbpedia.org/resource/John_Madden_Football_'92>","InferentialChain":["designer","john","madden","football","","92"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/John_Madden>","EntityName":"John Madden"}]}}

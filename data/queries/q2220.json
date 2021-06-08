@@ -1,0 +1,1 @@
+{"QuestionId":"q2220","Parse":{"TopicEntityName":"Radio Philippines Network ","TopicEntityMid":"<http://dbpedia.org/resource/Radio_Philippines_Network>","InferentialChain":["broadcast","area","radio","philippines","network"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Philippines>","EntityName":"Philippines"}]}}

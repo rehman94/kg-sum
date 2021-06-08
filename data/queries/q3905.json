@@ -1,0 +1,1 @@
+{"QuestionId":"q3905","Parse":{"TopicEntityName":"Miley Cyrus ","TopicEntityMid":"<http://dbpedia.org/resource/Miley_Cyrus>","InferentialChain":["sitcoms","theme","music","made","miley","cyrus"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Hannah_Montana>","EntityName":"Hannah Montana"}]}}

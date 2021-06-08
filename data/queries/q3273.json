@@ -1,0 +1,1 @@
+{"QuestionId":"q3273","Parse":{"TopicEntityName":"Kerguelen Islands ","TopicEntityMid":"<http://dbpedia.org/resource/Kerguelen_Islands>","InferentialChain":["currency","the","country","of","kerguelen","islands"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Euro>","EntityName":"Euro"}]}}

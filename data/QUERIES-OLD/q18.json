@@ -1,0 +1,19 @@
+{
+	"QuestionId": "WebQTest-18",
+	"RawQuestion": "Who discovered Ceres?",
+	"ProcessedQuestion": "Who discovered Ceres?",
+	"Parse": {
+		"PotentialTopicEntityMention": "discoverer, Ceres",
+		"TopicEntityName": "Ceres",  
+		"TopicEntityMid": "<http://dbpedia.org/resource/Autism>",
+		"InferentialChain": ["Ceres.discoverer"],
+		"Constraints": [],
+		"Time": null,
+		"Order": null,
+		"Answers": [{
+			"AnswerType": "Entity",
+			"AnswerArgument": "m.0kr3d",
+			"EntityName": "Giuseppe Piazzi"
+		}]
+	}
+}

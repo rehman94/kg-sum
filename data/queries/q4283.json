@@ -1,0 +1,1 @@
+{"QuestionId":"q4283","Parse":{"TopicEntityName":"Pork ","TopicEntityMid":"<http://dbpedia.org/resource/Pork>","InferentialChain":["count","number","ingredient","of","the","foods","of","the","ingredient","pork"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"622","EntityName":""}]}}

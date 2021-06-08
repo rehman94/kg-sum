@@ -1,0 +1,1 @@
+{"QuestionId":"q2461","Parse":{"TopicEntityName":"Jimmy Diggs ","TopicEntityMid":"<http://dbpedia.org/resource/Jimmy_Diggs>","InferentialChain":["city","designed","saleen","pator","which","birht","location","jimmy","diggs"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Michigan>","EntityName":"Michigan"}]}}

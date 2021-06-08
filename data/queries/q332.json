@@ -1,0 +1,1 @@
+{"QuestionId":"q332","Parse":{"TopicEntityName":"Ralph J  Gleason ","TopicEntityMid":"<http://dbpedia.org/resource/Ralph_J._Gleason>","InferentialChain":["magazine","s","publisher","jann","wenner","founded","ralph","j","","gleason"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Rolling_Stone>","EntityName":"Rolling Stone"}]}}

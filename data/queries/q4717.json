@@ -1,0 +1,1 @@
+{"QuestionId":"q4717","Parse":{"TopicEntityName":"Ridley Scott ","TopicEntityMid":"<http://dbpedia.org/resource/Ridley_Scott>","InferentialChain":["movie","producer","is","michael","deeley","directed","ridley","scott"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Blade_Runner>","EntityName":"Blade Runner"}]}}

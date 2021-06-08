@@ -1,0 +1,1 @@
+{"QuestionId":"q4848","Parse":{"TopicEntityName":"Bloomington Viaduct ","TopicEntityMid":"<http://dbpedia.org/resource/Bloomington_Viaduct>","InferentialChain":["bloomington","viaduct","built","cross"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Potomac_River>","EntityName":"Potomac River"}]}}

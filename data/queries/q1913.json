@@ -1,0 +1,1 @@
+{"QuestionId":"q1913","Parse":{"TopicEntityName":"Bruce Bochy ","TopicEntityMid":"<http://dbpedia.org/resource/Bruce_Bochy>","InferentialChain":["bruce","bochy","play"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/San_Francisco_Giants>","EntityName":"San Francisco Giants"}]}}

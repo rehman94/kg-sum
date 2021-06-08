@@ -1,0 +1,1 @@
+{"QuestionId":"q3760","Parse":{"TopicEntityName":"South Park Bridge ","TopicEntityMid":"<http://dbpedia.org/resource/South_Park_Bridge>","InferentialChain":["capital","the","region","maintains","the","south","park","bridge"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Seattle>","EntityName":"Seattle"}]}}

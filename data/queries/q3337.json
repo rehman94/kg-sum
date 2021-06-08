@@ -1,0 +1,1 @@
+{"QuestionId":"q3337","Parse":{"TopicEntityName":"Anthony Harvey ","TopicEntityMid":"<http://dbpedia.org/resource/Anthony_Harvey>","InferentialChain":["give","count","movies","film","editor","anthony","harvey"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"12","EntityName":""}]}}

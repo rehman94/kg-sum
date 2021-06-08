@@ -1,0 +1,1 @@
+{"QuestionId":"q1346","Parse":{"TopicEntityName":"Timothy Morton ","TopicEntityMid":"<http://dbpedia.org/resource/Timothy_Morton>","InferentialChain":["main","common","interests","the","philip","novak","timothy","morton"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Buddhism>","EntityName":"Buddhism"}]}}

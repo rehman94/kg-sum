@@ -1,0 +1,1 @@
+{"QuestionId":"q4337","Parse":{"TopicEntityName":"Laptev Sea ","TopicEntityMid":"<http://dbpedia.org/resource/Laptev_Sea>","InferentialChain":["river","s","source","mountain","baikal","mountains","is","located","laptev","sea"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Lena_River>","EntityName":"Lena River"}]}}

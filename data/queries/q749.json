@@ -1,0 +1,1 @@
+{"QuestionId":"q749","Parse":{"TopicEntityName":"Richard Stites ","TopicEntityMid":"<http://dbpedia.org/resource/Richard_Stites>","InferentialChain":["richard","stites","located"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Philadelphia>","EntityName":"Philadelphia"}]}}

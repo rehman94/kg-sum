@@ -1,0 +1,1 @@
+{"QuestionId":"q3642","Parse":{"TopicEntityName":"Jean Marc Germain ","TopicEntityMid":"<http://dbpedia.org/resource/Jean-Marc_Germain>","InferentialChain":["place","the","mayor","s","wife","is","jean","marc","germain"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Paris>","EntityName":"Paris"}]}}

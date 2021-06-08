@@ -1,0 +1,1 @@
+{"QuestionId":"q1030","Parse":{"TopicEntityName":"Robert William Wilcox ","TopicEntityMid":"<http://dbpedia.org/resource/Robert_William_Wilcox>","InferentialChain":["title","the","kakae","the","district","of","the","robert","william","wilcox"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Maui>","EntityName":"Maui"}]}}

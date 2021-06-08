@@ -1,0 +1,1 @@
+{"QuestionId":"q3975","Parse":{"TopicEntityName":"Laozi ","TopicEntityMid":"<http://dbpedia.org/resource/Laozi>","InferentialChain":["laozi","authored","book"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Tao_Te_Ching>","EntityName":"Tao Te Ching"}]}}

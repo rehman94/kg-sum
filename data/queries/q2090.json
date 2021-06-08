@@ -1,0 +1,1 @@
+{"QuestionId":"q2090","Parse":{"TopicEntityName":"Susan Weber Soros ","TopicEntityMid":"<http://dbpedia.org/resource/Susan_Weber_Soros>","InferentialChain":["married","susan","weber","soros"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/George_Soros>","EntityName":"George Soros"}]}}

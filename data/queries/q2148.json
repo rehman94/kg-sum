@@ -1,0 +1,1 @@
+{"QuestionId":"q2148","Parse":{"TopicEntityName":"Pittsburg  New Hampshire ","TopicEntityMid":"<http://dbpedia.org/resource/Pittsburg,_New_Hampshire>","InferentialChain":["rivers","originate","pittsburg"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Connecticut_River>","EntityName":"Connecticut River"}]}}

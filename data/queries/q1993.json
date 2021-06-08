@@ -1,0 +1,1 @@
+{"QuestionId":"q1993","Parse":{"TopicEntityName":"India ","TopicEntityMid":"<http://dbpedia.org/resource/India>","InferentialChain":["hub","airport","pawan","hans","","is","the","largest","city","of","india"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Mumbai>","EntityName":"Mumbai"}]}}

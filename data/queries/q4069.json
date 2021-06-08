@@ -1,0 +1,1 @@
+{"QuestionId":"q4069","Parse":{"TopicEntityName":"AT T Park ","TopicEntityMid":"<http://dbpedia.org/resource/AT&T_Park>","InferentialChain":["operator","t","park"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/San_Francisco_Giants>","EntityName":"San Francisco Giants"}]}}

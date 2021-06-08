@@ -1,0 +1,1 @@
+{"QuestionId":"q2170","Parse":{"TopicEntityName":"Battle of the Thames ","TopicEntityMid":"<http://dbpedia.org/resource/Battle_of_the_Thames>","InferentialChain":["war","1812","battle","of","thames"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Tecumseh>","EntityName":"Tecumseh"}]}}

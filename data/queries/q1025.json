@@ -1,0 +1,1 @@
+{"QuestionId":"q1025","Parse":{"TopicEntityName":"Murray Gold ","TopicEntityMid":"<http://dbpedia.org/resource/Murray_Gold>","InferentialChain":["television","show","sculptor","is","c","","e","","webber","composed","murray","gold"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Doctor_Who>","EntityName":"Doctor Who"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q972","Parse":{"TopicEntityName":"European School  Karlsruhe ","TopicEntityMid":"<http://dbpedia.org/resource/European_School,_Karlsruhe>","InferentialChain":["founder","wuropean","school","","karlsruhe"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/European_Union>","EntityName":"European Union"}]}}

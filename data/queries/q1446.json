@@ -1,0 +1,1 @@
+{"QuestionId":"q1446","Parse":{"TopicEntityName":"Shannon Cave ","TopicEntityMid":"<http://dbpedia.org/resource/Shannon_Cave>","InferentialChain":["river","source","water","shannon","cave"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/River_Shannon>","EntityName":"River Shannon"}]}}

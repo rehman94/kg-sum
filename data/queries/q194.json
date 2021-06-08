@@ -1,0 +1,1 @@
+{"QuestionId":"q194","Parse":{"TopicEntityName":"Wizards vs Aliens ","TopicEntityMid":"<http://dbpedia.org/resource/Wizards_vs_Aliens>","InferentialChain":["executive","producer","dalek","produced","wizards","aliens"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Doctor_Who>","EntityName":"Doctor Who"}]}}

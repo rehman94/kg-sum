@@ -1,0 +1,1 @@
+{"QuestionId":"q3137","Parse":{"TopicEntityName":"Anne Hidalgo ","TopicEntityMid":"<http://dbpedia.org/resource/Anne_Hidalgo>","InferentialChain":["citys","mayor","anne","hidalgo"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Paris>","EntityName":"Paris"}]}}

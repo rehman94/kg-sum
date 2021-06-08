@@ -1,0 +1,1 @@
+{"QuestionId":"q4762","Parse":{"TopicEntityName":"Dick Redding ","TopicEntityMid":"<http://dbpedia.org/resource/Dick_Redding>","InferentialChain":["province","dick","redding","born"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Atlanta>","EntityName":"Atlanta"}]}}

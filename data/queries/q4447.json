@@ -1,0 +1,1 @@
+{"QuestionId":"q4447","Parse":{"TopicEntityName":"Bacteria ","TopicEntityMid":"<http://dbpedia.org/resource/Bacteria>","InferentialChain":["count","total","number","bacterias","division","firmicutes","domain","is","bacteria"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"10","EntityName":""}]}}

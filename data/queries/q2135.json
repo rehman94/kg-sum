@@ -1,0 +1,1 @@
+{"QuestionId":"q2135","Parse":{"TopicEntityName":"Burbank High School  Burbank  California  ","TopicEntityMid":"<http://dbpedia.org/resource/Burbank_High_School_(Burbank,_California)>","InferentialChain":["movies","directed","graduate","burbank","high","school"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"23","EntityName":""}]}}

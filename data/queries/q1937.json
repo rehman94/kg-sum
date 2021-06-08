@@ -1,0 +1,1 @@
+{"QuestionId":"q1937","Parse":{"TopicEntityName":"Alain Vigneault ","TopicEntityMid":"<http://dbpedia.org/resource/Alain_Vigneault>","InferentialChain":["hockey","team","head","coach","alain","vigneault"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/New_York_Rangers>","EntityName":"New York Rangers"}]}}

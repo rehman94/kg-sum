@@ -1,0 +1,1 @@
+{"QuestionId":"q3307","Parse":{"TopicEntityName":"Ronald Wilson ","TopicEntityMid":"<http://dbpedia.org/resource/Ronald_Wilson>","InferentialChain":["mascot","the","military","unit","ronald","wilson","served"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Kangaroo>","EntityName":"Kangaroo"}]}}

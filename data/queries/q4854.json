@@ -1,0 +1,1 @@
+{"QuestionId":"q4854","Parse":{"TopicEntityName":"The Sarah Jane Adventures ","TopicEntityMid":"<http://dbpedia.org/resource/The_Sarah_Jane_Adventures>","InferentialChain":["bbc","s","tv","show","related","sarah","jane","adventures"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Doctor_Who>","EntityName":"Doctor Who"}]}}

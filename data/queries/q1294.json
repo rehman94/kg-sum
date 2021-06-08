@@ -1,0 +1,1 @@
+{"QuestionId":"q1294","Parse":{"TopicEntityName":"Labour Party  Norway  ","TopicEntityMid":"<http://dbpedia.org/resource/Labour_Party_(Norway)>","InferentialChain":["constituency","the","leader","of","labour","party","","norway"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Oslo>","EntityName":"Oslo"}]}}

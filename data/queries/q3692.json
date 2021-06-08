@@ -1,0 +1,1 @@
+{"QuestionId":"q3692","Parse":{"TopicEntityName":"Aureus ","TopicEntityMid":"<http://dbpedia.org/resource/Aureus>","InferentialChain":["countries","aureus","currency","nicomedia","important","place"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Roman_Empire>","EntityName":"Roman Empire"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q4593","Parse":{"TopicEntityName":"Google Custom Search ","TopicEntityMid":"<http://dbpedia.org/resource/Google_Custom_Search>","InferentialChain":["company","developed","google","web","toolkit","google","custom","search"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Google>","EntityName":"Google"}]}}

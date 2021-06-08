@@ -1,0 +1,1 @@
+{"QuestionId":"q1911","Parse":{"TopicEntityName":"New York ","TopicEntityMid":"<http://dbpedia.org/resource/New_York>","InferentialChain":["enumerate","board","companies","founded","in","york"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"11","EntityName":""}]}}

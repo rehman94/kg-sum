@@ -1,0 +1,1 @@
+{"QuestionId":"q681","Parse":{"TopicEntityName":"Dan Shamash ","TopicEntityMid":"<http://dbpedia.org/resource/Dan_Shamash>","InferentialChain":["team","dan","shamash","debutant","team","of","john","estes"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Jacksonville_Jaguars>","EntityName":"Jacksonville Jaguars"}]}}

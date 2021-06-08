@@ -1,0 +1,1 @@
+{"QuestionId":"q1121","Parse":{"TopicEntityName":"Bruce Harrell ","TopicEntityMid":"<http://dbpedia.org/resource/Bruce_Harrell>","InferentialChain":["city","s","governing","body","led","bruce","harrell"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Seattle>","EntityName":"Seattle"}]}}

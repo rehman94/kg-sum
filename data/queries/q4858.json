@@ -1,0 +1,1 @@
+{"QuestionId":"q4858","Parse":{"TopicEntityName":"P  Sathyanarayanan ","TopicEntityMid":"<http://dbpedia.org/resource/P._Sathyanarayanan>","InferentialChain":["largest","city","the","country","p","","sathyanarayanan","born"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Mumbai>","EntityName":"Mumbai"}]}}

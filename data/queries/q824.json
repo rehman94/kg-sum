@@ -1,0 +1,1 @@
+{"QuestionId":"q824","Parse":{"TopicEntityName":"NBC ","TopicEntityMid":"<http://dbpedia.org/resource/NBC>","InferentialChain":["people","presenters","nbc","shows"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"158","EntityName":""}]}}

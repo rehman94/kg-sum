@@ -1,0 +1,1 @@
+{"QuestionId":"q2937","Parse":{"TopicEntityName":"Peter Frampton ","TopicEntityMid":"<http://dbpedia.org/resource/Peter_Frampton>","InferentialChain":["act","peter","frampton","production"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Peter_Frampton>","EntityName":"Peter Frampton"}]}}

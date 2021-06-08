@@ -1,0 +1,1 @@
+{"QuestionId":"q1093","Parse":{"TopicEntityName":"Anthony Harvey ","TopicEntityMid":"<http://dbpedia.org/resource/Anthony_Harvey>","InferentialChain":["movies","music","give","laurie","johnson","edited","by","anthony","harvey"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Dr._Strangelove>","EntityName":"Dr. Strangelove"}]}}

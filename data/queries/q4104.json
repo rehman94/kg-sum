@@ -1,0 +1,1 @@
+{"QuestionId":"q4104","Parse":{"TopicEntityName":"John Hospers ","TopicEntityMid":"<http://dbpedia.org/resource/John_Hospers>","InferentialChain":["president","the","time","the","opponent","john","hospers","was","the","office"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Richard_Nixon>","EntityName":"Richard Nixon"}]}}

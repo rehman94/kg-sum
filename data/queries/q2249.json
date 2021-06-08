@@ -1,0 +1,1 @@
+{"QuestionId":"q2249","Parse":{"TopicEntityName":"Canada ","TopicEntityMid":"<http://dbpedia.org/resource/Canada>","InferentialChain":["places","companies","founded","in","canada","operating"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"45","EntityName":""}]}}

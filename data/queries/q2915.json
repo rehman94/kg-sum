@@ -1,0 +1,1 @@
+{"QuestionId":"q2915","Parse":{"TopicEntityName":"Hudson Highlands State Park ","TopicEntityMid":"<http://dbpedia.org/resource/Hudson_Highlands_State_Park>","InferentialChain":["rivers","the","hudson","highlands","state","parts"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Hudson_River>","EntityName":"Hudson River"}]}}

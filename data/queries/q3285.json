@@ -1,0 +1,1 @@
+{"QuestionId":"q3285","Parse":{"TopicEntityName":"Holler If Ya Hear Me  musical  ","TopicEntityMid":"<http://dbpedia.org/resource/Holler_If_Ya_Hear_Me_(musical)>","InferentialChain":["composed","lyrics","holler","ya","hear"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Tupac_Shakur>","EntityName":"Tupac Shakur"}]}}

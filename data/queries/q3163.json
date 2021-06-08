@@ -1,0 +1,1 @@
+{"QuestionId":"q3163","Parse":{"TopicEntityName":"Election Commission of Thailand ","TopicEntityMid":"<http://dbpedia.org/resource/Election_Commission_of_Thailand>","InferentialChain":["agency","election","commission","of","thailand"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Thailand>","EntityName":"Thailand"}]}}

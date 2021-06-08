@@ -1,0 +1,1 @@
+{"QuestionId":"q1711","Parse":{"TopicEntityName":"Shire River ","TopicEntityMid":"<http://dbpedia.org/resource/Shire_River>","InferentialChain":["kafue","shire","river","flow"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Zambezi>","EntityName":"Zambezi"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q2760","Parse":{"TopicEntityName":"David Hume ","TopicEntityMid":"<http://dbpedia.org/resource/David_Hume>","InferentialChain":["relatives","david","hume","study"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Yale_University>","EntityName":"Yale University"}]}}

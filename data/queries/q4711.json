@@ -1,0 +1,1 @@
+{"QuestionId":"q4711","Parse":{"TopicEntityName":"Madagascar  Operation Penguin ","TopicEntityMid":"<http://dbpedia.org/resource/Madagascar:_Operation_Penguin>","InferentialChain":["artist","madagascar","","operation","penguin"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Hans_Zimmer>","EntityName":"Hans Zimmer"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q452","Parse":{"TopicEntityName":"Mario Oliverio ","TopicEntityMid":"<http://dbpedia.org/resource/Mario_Oliverio>","InferentialChain":["region","governed","mario","olivero"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Calabria>","EntityName":"Calabria"}]}}

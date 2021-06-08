@@ -1,0 +1,1 @@
+{"QuestionId":"q3353","Parse":{"TopicEntityName":"Cobra  missile  ","TopicEntityMid":"<http://dbpedia.org/resource/Cobra_(missile)>","InferentialChain":["country","the","hirth","acrostar","the","cobra","missile"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/West_Germany>","EntityName":"West Germany"}]}}

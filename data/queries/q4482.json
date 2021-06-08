@@ -1,0 +1,1 @@
+{"QuestionId":"q4482","Parse":{"TopicEntityName":"Bank of Thailand ","TopicEntityMid":"<http://dbpedia.org/resource/Bank_of_Thailand>","InferentialChain":["religion","the","governors","office","is","the","bank","of","thailand"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Buddhism>","EntityName":"Buddhism"}]}}

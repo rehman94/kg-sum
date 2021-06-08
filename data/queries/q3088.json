@@ -1,0 +1,1 @@
+{"QuestionId":"q3088","Parse":{"TopicEntityName":"Los Angeles World Airports ","TopicEntityMid":"<http://dbpedia.org/resource/Los_Angeles_World_Airports>","InferentialChain":["airlines","hub","airport","run","la","world","airports"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"20","EntityName":""}]}}

@@ -1,0 +1,19 @@
+{
+	"QuestionId": "WebQTest-15",
+	"RawQuestion": "Which museum exhibits The Scream by Munch?",
+	"ProcessedQuestion": "Which museum exhibits The Scream by Munch?",
+	"Parse": {
+		"PotentialTopicEntityMention": "museum, Scream, Munch",
+		"TopicEntityName": "The Scream",  
+		"TopicEntityMid": "<http://dbpedia.org/resource/Autism>",
+		"InferentialChain": ["The_Scream.museum"],
+		"Constraints": [],
+		"Time": null,
+		"Order": null,
+		"Answers": [{
+			"AnswerType": "Entity",
+			"AnswerArgument": "m.0g578g4",
+			"EntityName": "National Gallery (Norway)"
+		}]
+	}
+}

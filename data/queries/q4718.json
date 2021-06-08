@@ -1,0 +1,1 @@
+{"QuestionId":"q4718","Parse":{"TopicEntityName":"Denver ","TopicEntityMid":"<http://dbpedia.org/resource/Denver>","InferentialChain":["state","largest","city","is","denver"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Colorado>","EntityName":"Colorado"}]}}

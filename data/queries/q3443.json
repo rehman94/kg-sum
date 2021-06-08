@@ -1,0 +1,1 @@
+{"QuestionId":"q3443","Parse":{"TopicEntityName":"Agaricus bisporus ","TopicEntityMid":"<http://dbpedia.org/resource/Agaricus_bisporus>","InferentialChain":["find","total","number","ingredient","of","the","recepies","ingredient","common","mushroom"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"26","EntityName":""}]}}

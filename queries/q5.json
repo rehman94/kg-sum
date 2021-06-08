@@ -1,0 +1,230 @@
+{
+      "QuestionId": "WebQTrn-1692",
+      "Parse": {
+          "TopicEntityName": "Natalie Portman",
+          "TopicEntityMid": "m.09l3p",
+          "InferentialChain": [
+            "film.actor.film",
+            "film.performance.film"
+          ],
+          "Constraints": [],
+          "Answers": [
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.0_z9qv6",
+              "EntityName": "Illusions & Mirrors"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.0134d9mx",
+              "EntityName": "A Tale of Love and Darkness"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.01shy7",
+              "EntityName": "Zoolander"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.02cbhg",
+              "EntityName": "Cold Mountain"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.02pw_n",
+              "EntityName": "Garden State"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.02v_87f",
+              "EntityName": "The Weathered Underground"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.02z3r8t",
+              "EntityName": "New York, I Love You"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.02z59y_",
+              "EntityName": "Hotel Chevalier"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.03h0byn",
+              "EntityName": "Brothers"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.04cj79",
+              "EntityName": "Closer"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.04q5g",
+              "EntityName": "Léon: The Professional"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.05f7jsw",
+              "EntityName": "Love and Other Impossible Pursuits"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.062zjtt",
+              "EntityName": "Thor"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.0645k5",
+              "EntityName": "V for Vendetta"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.06z3xb",
+              "EntityName": "Free Zone"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.07kg878",
+              "EntityName": "Your Highness"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.08yjvl",
+              "EntityName": "Goya's Ghosts"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.09k56b7",
+              "EntityName": "Black Swan"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.09lxv9",
+              "EntityName": "Mars Attacks!"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.0b6d3kn",
+              "EntityName": "Hesher"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.0b79_ft",
+              "EntityName": "True"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.0blmy",
+              "EntityName": "Developing"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.0bln8",
+              "EntityName": "Beautiful Girls"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.0blp1",
+              "EntityName": "Anywhere but Here"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.0blpg",
+              "EntityName": "Everyone Says I Love You"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.0bxsk",
+              "EntityName": "Heat"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.0bz3jx",
+              "EntityName": "Paris, je t'aime"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.0c2pz3",
+              "EntityName": "Mr. Magorium's Wonder Emporium"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.0c2wy",
+              "EntityName": "Where the Heart Is"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.0clsl7",
+              "EntityName": "My Blueberry Nights"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.0cn7nb",
+              "EntityName": "The Armenian Genocide"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.0ddt_",
+              "EntityName": "Star Wars Episode I: The Phantom Menace"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.0dfw0",
+              "EntityName": "Star Wars Episode II: Attack of the Clones"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.0dlkhvv",
+              "EntityName": "No Strings Attached"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.0fdv3",
+              "EntityName": "Star Wars Episode III: Revenge of the Sith"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.0fy9wm",
+              "EntityName": "The Darjeeling Limited"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.0gyy53",
+              "EntityName": "The Other Boleyn Girl"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.0hypmnr",
+              "EntityName": "Knight of Cups"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.0j9knfv",
+              "EntityName": "Thor: The Dark World"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.0nfnhrv",
+              "EntityName": "Jane Got a Gun"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.0nh4bl2",
+              "EntityName": "Weightless"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.0nh4bnn",
+              "EntityName": "In the Garden of Beasts"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.0w9hhc4",
+              "EntityName": "GREED, a New Fragrance by Francesco Vezzoli"
+            }
+          ]
+        }
+     
+    }

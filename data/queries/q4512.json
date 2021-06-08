@@ -1,0 +1,1 @@
+{"QuestionId":"q4512","Parse":{"TopicEntityName":"Black Grape Global ","TopicEntityMid":"<http://dbpedia.org/resource/Black_Grape_Global>","InferentialChain":["city","black","grape","global","located"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/London>","EntityName":"London"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q4101","Parse":{"TopicEntityName":"Skull Gang ","TopicEntityMid":"<http://dbpedia.org/resource/Skull_Gang>","InferentialChain":["count","band","members","skull","gang"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"3","EntityName":""}]}}

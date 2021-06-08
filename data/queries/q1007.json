@@ -1,0 +1,1 @@
+{"QuestionId":"q1007","Parse":{"TopicEntityName":"Darcs ","TopicEntityMid":"<http://dbpedia.org/resource/Darcs>","InferentialChain":["content","license","darcs"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/GNU>","EntityName":"GNU"}]}}

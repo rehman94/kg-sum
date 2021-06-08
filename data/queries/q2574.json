@@ -1,0 +1,1 @@
+{"QuestionId":"q2574","Parse":{"TopicEntityName":"Limerick ","TopicEntityMid":"<http://dbpedia.org/resource/Limerick>","InferentialChain":["river","originate","limerick"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/River_Shannon>","EntityName":"River Shannon"}]}}

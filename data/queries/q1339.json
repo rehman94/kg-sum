@@ -1,0 +1,1 @@
+{"QuestionId":"q1339","Parse":{"TopicEntityName":"Edsel ","TopicEntityMid":"<http://dbpedia.org/resource/Edsel>","InferentialChain":["parent","company","edsel"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Ford_Motor_Company>","EntityName":"Ford Motor Company"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q4646","Parse":{"TopicEntityName":"President of France ","TopicEntityMid":"<http://dbpedia.org/resource/President_of_France>","InferentialChain":["currencies","places","governed","the","president","france"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"18","EntityName":""}]}}

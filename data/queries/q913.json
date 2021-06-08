@@ -1,0 +1,1 @@
+{"QuestionId":"q913","Parse":{"TopicEntityName":"Cathedral Peak  California  ","TopicEntityMid":"<http://dbpedia.org/resource/Cathedral_Peak_(California)>","InferentialChain":["ascented","mountain","cathedral","peak","","california"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/John_Muir>","EntityName":"John Muir"}]}}

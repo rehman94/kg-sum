@@ -1,0 +1,1 @@
+{"QuestionId":"q900","Parse":{"TopicEntityName":"United States ","TopicEntityMid":"<http://dbpedia.org/resource/United_States>","InferentialChain":["products","companies","located","the"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"4602","EntityName":""}]}}

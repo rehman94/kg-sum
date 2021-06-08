@@ -1,0 +1,1 @@
+{"QuestionId":"q988","Parse":{"TopicEntityName":"Arequipa Region ","TopicEntityMid":"<http://dbpedia.org/resource/Arequipa_Region>","InferentialChain":["river","starting","arequipa","region"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Amazon_River>","EntityName":"Amazon River"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q1803","Parse":{"TopicEntityName":"Warner Bros  ","TopicEntityMid":"<http://dbpedia.org/resource/Warner_Bros.>","InferentialChain":["count","video","game","distributor","parent","company","warner","bros"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"14","EntityName":""}]}}

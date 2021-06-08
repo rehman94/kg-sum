@@ -1,0 +1,1 @@
+{"QuestionId":"q368","Parse":{"TopicEntityName":"Franklin W  Olin ","TopicEntityMid":"<http://dbpedia.org/resource/Franklin_W._Olin>","InferentialChain":["university","attended","richard","h","immerman","franklin","w","olin"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Cornell_University>","EntityName":"Cornell University"}]}}

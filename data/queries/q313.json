@@ -1,0 +1,1 @@
+{"QuestionId":"q313","Parse":{"TopicEntityName":"U S  Route 59 in Texas ","TopicEntityMid":"<http://dbpedia.org/resource/U.S._Route_59_in_Texas>","InferentialChain":["benjamin","franklin","terry","buried","","route","59","junction"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Houston>","EntityName":"Houston"}]}}

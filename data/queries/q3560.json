@@ -1,0 +1,1 @@
+{"QuestionId":"q3560","Parse":{"TopicEntityName":"Warner Bros  ","TopicEntityMid":"<http://dbpedia.org/resource/Warner_Bros.>","InferentialChain":["give","count","movies","distributed","warner","bros"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"2782","EntityName":""}]}}

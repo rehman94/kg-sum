@@ -1,0 +1,1 @@
+{"QuestionId":"q4601","Parse":{"TopicEntityName":"Katharevousa ","TopicEntityMid":"<http://dbpedia.org/resource/Katharevousa>","InferentialChain":["katharevousa","writers","awards"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Nobel_Prize>","EntityName":"Nobel Prize"}]}}

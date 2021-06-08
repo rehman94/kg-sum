@@ -1,0 +1,1 @@
+{"QuestionId":"q522","Parse":{"TopicEntityName":"Laura K  Ipsen ","TopicEntityMid":"<http://dbpedia.org/resource/Laura_K._Ipsen>","InferentialChain":["content","license","msx","basic","the","profession","of","the","laura","k","","ipsen"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Microsoft>","EntityName":"Microsoft"}]}}

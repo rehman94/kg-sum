@@ -1,0 +1,1 @@
+{"QuestionId":"q4831","Parse":{"TopicEntityName":"Steve Buyer ","TopicEntityMid":"<http://dbpedia.org/resource/Steve_Buyer>","InferentialChain":["wars","steve","buyer","involved"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Gulf_War>","EntityName":"Gulf War"}]}}

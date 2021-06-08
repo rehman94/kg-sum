@@ -1,0 +1,1 @@
+{"QuestionId":"q2631","Parse":{"TopicEntityName":"Jack McGregor ","TopicEntityMid":"<http://dbpedia.org/resource/Jack_McGregor>","InferentialChain":["university","attended","donn","barber","education","institute","jack","mcgregor"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Yale_University>","EntityName":"Yale University"}]}}

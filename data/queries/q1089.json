@@ -1,0 +1,1 @@
+{"QuestionId":"q1089","Parse":{"TopicEntityName":"Rishang Keishing ","TopicEntityMid":"<http://dbpedia.org/resource/Rishang_Keishing>","InferentialChain":["party","rishang","keishing","leader","manendragarh"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Indian_National_Congress>","EntityName":"Indian National Congress"}]}}

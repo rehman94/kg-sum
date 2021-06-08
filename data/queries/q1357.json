@@ -1,0 +1,1 @@
+{"QuestionId":"q1357","Parse":{"TopicEntityName":"Mary  mother of Jesus  ","TopicEntityMid":"<http://dbpedia.org/resource/Mary_(mother_of_Jesus)>","InferentialChain":["saint","joseph","mary","parents"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Jesus>","EntityName":"Jesus"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q383","Parse":{"TopicEntityName":"Ford Theatre ","TopicEntityMid":"<http://dbpedia.org/resource/Ford_Theatre>","InferentialChain":["company","ford","theatre"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Ford_Motor_Company>","EntityName":"Ford Motor Company"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q1423","Parse":{"TopicEntityName":"CKFM FM ","TopicEntityMid":"<http://dbpedia.org/resource/CKFM-FM>","InferentialChain":["radio","broadcasted","","sister","station","is","ckfm","fm"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/North_America>","EntityName":"North America"}]}}

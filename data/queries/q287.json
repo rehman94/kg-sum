@@ -1,0 +1,1 @@
+{"QuestionId":"q287","Parse":{"TopicEntityName":"United States ","TopicEntityMid":"<http://dbpedia.org/resource/United_States>","InferentialChain":["company","founded","onedrive","service"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Microsoft>","EntityName":"Microsoft"}]}}

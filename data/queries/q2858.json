@@ -1,0 +1,1 @@
+{"QuestionId":"q2858","Parse":{"TopicEntityName":"Akinoumi Setsuo ","TopicEntityMid":"<http://dbpedia.org/resource/Akinoumi_Setsuo>","InferentialChain":["builder","edwin","andrews","air","base","isalso","place","of","birth","of","akinoumi","setsuo"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Japan>","EntityName":"Japan"}]}}

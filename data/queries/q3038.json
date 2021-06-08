@@ -1,0 +1,1 @@
+{"QuestionId":"q3038","Parse":{"TopicEntityName":"VMF 155 ","TopicEntityMid":"<http://dbpedia.org/resource/VMF-155>","InferentialChain":["senator","military","unit","vmf","155","belong"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/John_Glenn>","EntityName":"John Glenn"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q4435","Parse":{"TopicEntityName":"Apollo 11 ","TopicEntityMid":"<http://dbpedia.org/resource/Apollo_11>","InferentialChain":["missions","gemini","8","apollo","11"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Neil_Armstrong>","EntityName":"Neil Armstrong"}]}}

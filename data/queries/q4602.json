@@ -1,0 +1,1 @@
+{"QuestionId":"q4602","Parse":{"TopicEntityName":"San Francisco Art Institute ","TopicEntityMid":"<http://dbpedia.org/resource/San_Francisco_Art_Institute>","InferentialChain":["count","number","artists","trained","the","san","francisco","art","institute"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"44","EntityName":""}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q3571","Parse":{"TopicEntityName":"A Literary Nightmare ","TopicEntityMid":"<http://dbpedia.org/resource/A_Literary_Nightmare>","InferentialChain":["writer","literary","nightmare","extended","work","of","the","apple","tree"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Mark_Twain>","EntityName":"Mark Twain"}]}}

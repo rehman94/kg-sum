@@ -1,0 +1,1 @@
+{"QuestionId":"q826","Parse":{"TopicEntityName":"Esther Alder ","TopicEntityMid":"<http://dbpedia.org/resource/Esther_Alder>","InferentialChain":["settlement","neighboring","municipalities","is","lancy","mayor","is","esther","alder"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Geneva>","EntityName":"Geneva"}]}}

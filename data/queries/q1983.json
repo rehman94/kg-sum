@@ -1,0 +1,1 @@
+{"QuestionId":"q1983","Parse":{"TopicEntityName":"California ","TopicEntityMid":"<http://dbpedia.org/resource/California>","InferentialChain":["give","count","bridges","located","california"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"9","EntityName":""}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q3232","Parse":{"TopicEntityName":"Pope Benedict XVI ","TopicEntityMid":"<http://dbpedia.org/resource/Pope_Benedict_XVI>","InferentialChain":["people","canonized","pope","benedict","xvi"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"41","EntityName":""}]}}

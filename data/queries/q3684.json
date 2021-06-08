@@ -1,0 +1,1 @@
+{"QuestionId":"q3684","Parse":{"TopicEntityName":"John Douglas  conductor  ","TopicEntityMid":"<http://dbpedia.org/resource/John_Douglas_(conductor)>","InferentialChain":["narrator","the","show","who","s","music","composed","john","douglas"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Stan_Lee>","EntityName":"Stan Lee"}]}}

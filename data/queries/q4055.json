@@ -1,0 +1,1 @@
+{"QuestionId":"q4055","Parse":{"TopicEntityName":"GetTV ","TopicEntityMid":"<http://dbpedia.org/resource/GetTV>","InferentialChain":["oarent","organization","tv","label","provider","of","pray","christmas"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Sony>","EntityName":"Sony"}]}}

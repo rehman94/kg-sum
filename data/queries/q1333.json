@@ -1,0 +1,1 @@
+{"QuestionId":"q1333","Parse":{"TopicEntityName":"Maharashtra ","TopicEntityMid":"<http://dbpedia.org/resource/Maharashtra>","InferentialChain":["people","political","parties","exist","maharashtra"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"60","EntityName":""}]}}

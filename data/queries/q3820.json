@@ -1,0 +1,1 @@
+{"QuestionId":"q3820","Parse":{"TopicEntityName":"Bachelor of Arts ","TopicEntityMid":"<http://dbpedia.org/resource/Bachelor_of_Arts>","InferentialChain":["places","find","people","alma","mater","in","bachelor","arts"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"48","EntityName":""}]}}

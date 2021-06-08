@@ -1,0 +1,1 @@
+{"QuestionId":"q2664","Parse":{"TopicEntityName":"Hilda de Duhalde ","TopicEntityMid":"<http://dbpedia.org/resource/Hilda_de_Duhalde>","InferentialChain":["country","associates","hilda","duhalde"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Argentina>","EntityName":"Argentina"}]}}

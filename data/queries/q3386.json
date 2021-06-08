@@ -1,0 +1,1 @@
+{"QuestionId":"q3386","Parse":{"TopicEntityName":"William Ofori Atta ","TopicEntityMid":"<http://dbpedia.org/resource/William_Ofori_Atta>","InferentialChain":["country","successor","william","ofori","atta","swear","oath"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Ghana>","EntityName":"Ghana"}]}}

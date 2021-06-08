@@ -1,0 +1,1 @@
+{"QuestionId":"q4347","Parse":{"TopicEntityName":"Robin Kovacs ","TopicEntityMid":"<http://dbpedia.org/resource/Robin_Kovacs>","InferentialChain":["common","prospect","team","mikhail","pashnin","robin","kovacs"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/New_York_Rangers>","EntityName":"New York Rangers"}]}}

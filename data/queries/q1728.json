@@ -1,0 +1,1 @@
+{"QuestionId":"q1728","Parse":{"TopicEntityName":"Benelux ","TopicEntityMid":"<http://dbpedia.org/resource/Benelux>","InferentialChain":["base","currency","benelux"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Euro>","EntityName":"Euro"}]}}

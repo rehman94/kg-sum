@@ -1,0 +1,1 @@
+{"QuestionId":"q2536","Parse":{"TopicEntityName":"Montpelier  Orange  Virginia  ","TopicEntityMid":"<http://dbpedia.org/resource/Montpelier_(Orange,_Virginia)>","InferentialChain":["colonel","resting","place","montpelier"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/James_Madison>","EntityName":"James Madison"}]}}

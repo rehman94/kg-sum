@@ -1,0 +1,1 @@
+{"QuestionId":"q3907","Parse":{"TopicEntityName":"Sukhumbhand Paribatra ","TopicEntityMid":"<http://dbpedia.org/resource/Sukhumbhand_Paribatra>","InferentialChain":["official","residence","sukhumbhand","paribatra"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Bangkok>","EntityName":"Bangkok"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q2805","Parse":{"TopicEntityName":"Kate Spade   Company ","TopicEntityMid":"<http://dbpedia.org/resource/Kate_Spade_&_Company>","InferentialChain":["board","kate","spade","company"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Tim_Gunn>","EntityName":"Tim Gunn"}]}}

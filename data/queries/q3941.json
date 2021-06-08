@@ -1,0 +1,1 @@
+{"QuestionId":"q3941","Parse":{"TopicEntityName":"Microsoft Surface ","TopicEntityMid":"<http://dbpedia.org/resource/Microsoft_Surface>","InferentialChain":["mexico","based","company","produces","surface"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Microsoft>","EntityName":"Microsoft"}]}}

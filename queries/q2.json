@@ -1,0 +1,20 @@
+ {
+      "QuestionId": "WebQTrn-162",
+      "Parse": {
+          "TopicEntityName": "Justin Bieber",
+          "TopicEntityMid": "m.06w2sn5",
+          "InferentialChain": [
+            "music.artist.track_contributions",
+            "music.track_contribution.role"
+          ],
+          "Constraints": [],
+          "Answers": [
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.0290ngj",
+              "EntityName": "Vocals"
+            }
+          ]
+        }
+      }
+    

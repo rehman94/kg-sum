@@ -1,0 +1,1 @@
+{"QuestionId":"q4997","Parse":{"TopicEntityName":"Varsity Stadium ","TopicEntityMid":"<http://dbpedia.org/resource/Varsity_Stadium>","InferentialChain":["count","previously","played","team","ownes","varsity","stadium"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"349","EntityName":""}]}}

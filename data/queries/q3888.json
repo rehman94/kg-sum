@@ -1,0 +1,1 @@
+{"QuestionId":"q3888","Parse":{"TopicEntityName":"Shirley Temple s Storybook ","TopicEntityMid":"<http://dbpedia.org/resource/Shirley_Temple's_Storybook>","InferentialChain":["presenter","shirley","temple","s","storybook"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Shirley_Temple>","EntityName":"Shirley Temple"}]}}

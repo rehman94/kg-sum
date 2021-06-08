@@ -1,0 +1,1 @@
+{"QuestionId":"q1364","Parse":{"TopicEntityName":"New York City Housing Authority ","TopicEntityMid":"<http://dbpedia.org/resource/New_York_City_Housing_Authority>","InferentialChain":["municipalities","nyc","housing","authority","buildings"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/The_Bronx>","EntityName":"The Bronx"}]}}

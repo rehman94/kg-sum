@@ -1,0 +1,1 @@
+{"QuestionId":"q2906","Parse":{"TopicEntityName":"Jim Brady  quarterback  ","TopicEntityMid":"<http://dbpedia.org/resource/Jim_Brady_(quarterback)>","InferentialChain":["city","nihoa","place","death","of","jim","brady"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Hawaii>","EntityName":"Hawaii"}]}}

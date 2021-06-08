@@ -1,0 +1,1 @@
+{"QuestionId":"q434","Parse":{"TopicEntityName":"Toronto ","TopicEntityMid":"<http://dbpedia.org/resource/Toronto>","InferentialChain":["companies","located","toronto"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"213","EntityName":""}]}}

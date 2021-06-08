@@ -1,0 +1,1 @@
+{"QuestionId":"q1637","Parse":{"TopicEntityName":"Jay Lane ","TopicEntityMid":"<http://dbpedia.org/resource/Jay_Lane>","InferentialChain":["shows","theme","composed","band","jay","lane"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/South_Park>","EntityName":"South Park"}]}}

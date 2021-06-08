@@ -1,0 +1,1 @@
+{"QuestionId":"q1127","Parse":{"TopicEntityName":"Mark Latham ","TopicEntityMid":"<http://dbpedia.org/resource/Mark_Latham>","InferentialChain":["common","prime","minster","william","deaner","mark","latham"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/John_Howard>","EntityName":"John Howard"}]}}

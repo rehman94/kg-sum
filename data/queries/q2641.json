@@ -1,0 +1,1 @@
+{"QuestionId":"q2641","Parse":{"TopicEntityName":"Surayud Chulanont ","TopicEntityMid":"<http://dbpedia.org/resource/Surayud_Chulanont>","InferentialChain":["religions","presidents","prime","minister","surayud","chulanont"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Buddhism>","EntityName":"Buddhism"}]}}

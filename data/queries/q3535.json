@@ -1,0 +1,1 @@
+{"QuestionId":"q3535","Parse":{"TopicEntityName":"Thomas Bryan Martin ","TopicEntityMid":"<http://dbpedia.org/resource/Thomas_Bryan_Martin>","InferentialChain":["associate","thomas","bryan","martin"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/George_Washington>","EntityName":"George Washington"}]}}

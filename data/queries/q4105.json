@@ -1,0 +1,1 @@
+{"QuestionId":"q4105","Parse":{"TopicEntityName":"CitiTrends  radio show  ","TopicEntityMid":"<http://dbpedia.org/resource/CitiTrends_(radio_show)>","InferentialChain":["whcih","land","citi","trends","constituency","of","malik","al","hassan","yakubu"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Ghana>","EntityName":"Ghana"}]}}

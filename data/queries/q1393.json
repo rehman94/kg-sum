@@ -1,0 +1,1 @@
+{"QuestionId":"q1393","Parse":{"TopicEntityName":"S  H  Kapadia ","TopicEntityMid":"<http://dbpedia.org/resource/S._H._Kapadia>","InferentialChain":["denomination","s","","h","","kapadia"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Zoroastrianism>","EntityName":"Zoroastrianism"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q2781","Parse":{"TopicEntityName":"Bill Clinton ","TopicEntityMid":"<http://dbpedia.org/resource/Bill_Clinton>","InferentialChain":["total","number","office","holders","preceded","the","people","working","president","bill","clinton"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"295","EntityName":""}]}}

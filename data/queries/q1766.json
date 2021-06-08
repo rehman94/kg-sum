@@ -1,0 +1,1 @@
+{"QuestionId":"q1766","Parse":{"TopicEntityName":"Alan Kusov  11 ","TopicEntityMid":"<http://dbpedia.org/resource/Alan_Kusov__11>","InferentialChain":["ground","the","soccer","club","","alan","kusov","team","member"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Moscow>","EntityName":"Moscow"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q3217","Parse":{"TopicEntityName":"Aunt Em ","TopicEntityMid":"<http://dbpedia.org/resource/Aunt_Em>","InferentialChain":["relatives","uncle","henry","","oz","","aunt","em"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Dorothy_Gale>","EntityName":"Dorothy Gale"}]}}

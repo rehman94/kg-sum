@@ -1,0 +1,1 @@
+{"QuestionId":"q4515","Parse":{"TopicEntityName":"Lucius Cornelius Lentulus Crus ","TopicEntityMid":"<http://dbpedia.org/resource/Lucius_Cornelius_Lentulus_Crus>","InferentialChain":["preceded","lucius","crus","office","holder"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Julius_Caesar>","EntityName":"Julius Caesar"}]}}

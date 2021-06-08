@@ -1,0 +1,1 @@
+{"QuestionId":"q4212","Parse":{"TopicEntityName":"Iowa ","TopicEntityMid":"<http://dbpedia.org/resource/Iowa>","InferentialChain":["list","uni","","affiliation","graham","holding","company","campus","iowa"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Kaplan_University>","EntityName":"Kaplan University"}]}}

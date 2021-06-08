@@ -1,0 +1,1 @@
+{"QuestionId":"q2307","Parse":{"TopicEntityName":"Scott Haran ","TopicEntityMid":"<http://dbpedia.org/resource/Scott_Haran>","InferentialChain":["produces","tv","series","made","scott","haran","famous"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Doctor_Who>","EntityName":"Doctor Who"}]}}

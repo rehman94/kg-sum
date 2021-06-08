@@ -1,0 +1,1 @@
+{"QuestionId":"q2990","Parse":{"TopicEntityName":"James Horner ","TopicEntityMid":"<http://dbpedia.org/resource/James_Horner>","InferentialChain":["give","count","producers","of","all","the","movies","music","james","horner"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"278","EntityName":""}]}}

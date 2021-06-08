@@ -1,0 +1,1 @@
+{"QuestionId":"q3621","Parse":{"TopicEntityName":"Jeyhun Abiyev ","TopicEntityMid":"<http://dbpedia.org/resource/Jeyhun_Abiyev>","InferentialChain":["expertise","menetries","s","warbler","the","nationality","of","the","jeyhun","abiyev"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Azerbaijan>","EntityName":"Azerbaijan"}]}}

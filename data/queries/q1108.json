@@ -1,0 +1,1 @@
+{"QuestionId":"q1108","Parse":{"TopicEntityName":"Audenried Tunnel ","TopicEntityMid":"<http://dbpedia.org/resource/Audenried_Tunnel>","InferentialChain":["source","broad","creek","audenried","tunnel","located"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Pennsylvania>","EntityName":"Pennsylvania"}]}}

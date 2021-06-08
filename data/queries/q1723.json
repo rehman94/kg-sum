@@ -1,0 +1,1 @@
+{"QuestionId":"q1723","Parse":{"TopicEntityName":"Eliza Schneider ","TopicEntityMid":"<http://dbpedia.org/resource/Eliza_Schneider>","InferentialChain":["television","shows","eliza","schneider","voice"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/South_Park>","EntityName":"South Park"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q3138","Parse":{"TopicEntityName":"Gregg Toland ","TopicEntityMid":"<http://dbpedia.org/resource/Gregg_Toland>","InferentialChain":["count","number","movies","distributor","rko","pictures","director","of","photography","is","gregg","toland"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"9","EntityName":""}]}}

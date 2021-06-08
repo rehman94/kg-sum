@@ -1,0 +1,1 @@
+{"QuestionId":"q1932","Parse":{"TopicEntityName":"Screenwriter ","TopicEntityMid":"<http://dbpedia.org/resource/Screenwriter>","InferentialChain":["awards","screenwriters","won"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"359","EntityName":""}]}}

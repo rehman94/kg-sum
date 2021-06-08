@@ -1,0 +1,1 @@
+{"QuestionId":"q3999","Parse":{"TopicEntityName":"Qaqun ","TopicEntityMid":"<http://dbpedia.org/resource/Qaqun>","InferentialChain":["place","qaqun"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Israel>","EntityName":"Israel"}]}}

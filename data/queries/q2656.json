@@ -1,0 +1,1 @@
+{"QuestionId":"q2656","Parse":{"TopicEntityName":"Laurie Johnson ","TopicEntityMid":"<http://dbpedia.org/resource/Laurie_Johnson>","InferentialChain":["stanley","kubrick","s","movie","music","laurie","johnson"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Dr._Strangelove>","EntityName":"Dr. Strangelove"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q4273","Parse":{"TopicEntityName":"PrivateCore ","TopicEntityMid":"<http://dbpedia.org/resource/PrivateCore>","InferentialChain":["parent","company","privatecore"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Facebook>","EntityName":"Facebook"}]}}

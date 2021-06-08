@@ -1,0 +1,1 @@
+{"QuestionId":"q637","Parse":{"TopicEntityName":"Neil Brown  Australian politician  ","TopicEntityMid":"<http://dbpedia.org/resource/Neil_Brown_(Australian_politician)>","InferentialChain":["deputy","neil","brown"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/John_Howard>","EntityName":"John Howard"}]}}

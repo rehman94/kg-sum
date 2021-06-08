@@ -1,0 +1,28 @@
+ {
+      "QuestionId": "WebQTrn-3",
+      "Parse": 
+        {
+          "TopicEntityName": "Grand Bahama",
+          "TopicEntityMid": "m.03st9j",
+          "InferentialChain": [
+            "location.location.containedby"
+          ],
+          "Constraints": [
+            {
+             
+              "EntityName": null,
+              "SourceNodeIndex": 0,
+              "NodePredicate": "base.biblioness.bibs_location.loc_type",
+              "ValueType": "String"
+            }
+          ],
+          "Answers": [
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.0160w",
+              "EntityName": "Bahamas"
+            }
+          ]
+        }
+      
+    }

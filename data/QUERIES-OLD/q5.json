@@ -1,0 +1,20 @@
+{
+	"QuestionId": "WebQTest-5",
+	"RawQuestion": "In which city does the Chile Route 68 end?",
+	"ProcessedQuestion": "In which city does the Chile Route 68 end?",
+	"Parse": {
+		
+		"PotentialTopicEntityMention": "city, Chile Route 68, ends",
+		"TopicEntityName": "Chile Route 68",  
+		"TopicEntityMid": "<http://dbpedia.org/resource/Autism>",
+		"InferentialChain": ["Chile_Route_68.routeEnd"],
+		"Constraints": [],
+		"Time": null,
+		"Order": null,
+		"Answers": [{
+			"AnswerType": "Entity",
+			"AnswerArgument": "m.0j8ln",
+			"EntityName": "Valparaíso"
+		}]
+	}
+}

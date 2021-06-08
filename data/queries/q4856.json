@@ -1,0 +1,1 @@
+{"QuestionId":"q4856","Parse":{"TopicEntityName":"Canada ","TopicEntityMid":"<http://dbpedia.org/resource/Canada>","InferentialChain":["cars","succeed","cars","assembled","canada"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"82","EntityName":""}]}}

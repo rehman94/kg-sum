@@ -1,0 +1,1 @@
+{"QuestionId":"q4205","Parse":{"TopicEntityName":"Nii Okaija Adamafio ","TopicEntityMid":"<http://dbpedia.org/resource/Nii_Okaija_Adamafio>","InferentialChain":["nationality","the","successor","of","nii","okaidja","adamafio"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Ghana>","EntityName":"Ghana"}]}}

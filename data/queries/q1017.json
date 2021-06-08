@@ -1,0 +1,1 @@
+{"QuestionId":"q1017","Parse":{"TopicEntityName":"Z rich Affoltern am Albis Zug railway line ","TopicEntityMid":"<http://dbpedia.org/resource/Zürich–Affoltern_am_Albis–Zug_railway_line>","InferentialChain":["countries","zurich","affoltern","albis","zug","line"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"0","EntityName":""}]}}

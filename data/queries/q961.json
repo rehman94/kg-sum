@@ -1,0 +1,1 @@
+{"QuestionId":"q961","Parse":{"TopicEntityName":"Quagmire s Quagmire ","TopicEntityMid":"<http://dbpedia.org/resource/Quagmire's_Quagmire>","InferentialChain":["relatives","the","character","quagmire","s","quagmire","made"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Peter_Griffin>","EntityName":"Peter Griffin"}]}}

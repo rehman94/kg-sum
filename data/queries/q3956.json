@@ -1,0 +1,1 @@
+{"QuestionId":"q3956","Parse":{"TopicEntityName":"South Side Elevated Railroad ","TopicEntityMid":"<http://dbpedia.org/resource/South_Side_Elevated_Railroad>","InferentialChain":["operates","south","side","elevated","railroad"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Chicago>","EntityName":"Chicago"}]}}

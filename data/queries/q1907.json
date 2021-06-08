@@ -1,0 +1,1 @@
+{"QuestionId":"q1907","Parse":{"TopicEntityName":"Dolley Madison ","TopicEntityMid":"<http://dbpedia.org/resource/Dolley_Madison>","InferentialChain":["colonel","consort","dolley","madison"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/James_Madison>","EntityName":"James Madison"}]}}

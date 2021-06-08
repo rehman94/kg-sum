@@ -1,0 +1,1 @@
+{"QuestionId":"q4729","Parse":{"TopicEntityName":"Rickenbacker ","TopicEntityMid":"<http://dbpedia.org/resource/Rickenbacker>","InferentialChain":["artists","play","rickenbacker"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"30","EntityName":""}]}}

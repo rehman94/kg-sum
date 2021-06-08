@@ -1,0 +1,1 @@
+{"QuestionId":"q3475","Parse":{"TopicEntityName":"Ted Failon ","TopicEntityMid":"<http://dbpedia.org/resource/Ted_Failon>","InferentialChain":["ethicity","ted","falon"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Philippines>","EntityName":"Philippines"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q1530","Parse":{"TopicEntityName":"Battle of France ","TopicEntityMid":"<http://dbpedia.org/resource/Battle_of_France>","InferentialChain":["count","awards","received","the","fought","the","battle","france"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"1860","EntityName":""}]}}

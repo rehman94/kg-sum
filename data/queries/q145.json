@@ -1,0 +1,1 @@
+{"QuestionId":"q145","Parse":{"TopicEntityName":"Oktoc  Mississippi ","TopicEntityMid":"<http://dbpedia.org/resource/Oktoc,_Mississippi>","InferentialChain":["american","football","players","high","school","oktoc","","mississippi"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Jerry_Rice>","EntityName":"Jerry Rice"}]}}

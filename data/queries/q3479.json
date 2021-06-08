@@ -1,0 +1,1 @@
+{"QuestionId":"q3479","Parse":{"TopicEntityName":"Moscow Governorate ","TopicEntityMid":"<http://dbpedia.org/resource/Moscow_Governorate>","InferentialChain":["county","seat","moscow","governorate"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Moscow>","EntityName":"Moscow"}]}}

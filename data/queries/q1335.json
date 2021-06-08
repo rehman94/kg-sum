@@ -1,0 +1,1 @@
+{"QuestionId":"q1335","Parse":{"TopicEntityName":"Billy Clanton ","TopicEntityMid":"<http://dbpedia.org/resource/Billy_Clanton>","InferentialChain":["opponents","ike","clanton","billy","clanton"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Wyatt_Earp>","EntityName":"Wyatt Earp"}]}}

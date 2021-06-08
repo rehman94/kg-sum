@@ -1,0 +1,1 @@
+{"QuestionId":"q3153","Parse":{"TopicEntityName":"Wallington railway station ","TopicEntityMid":"<http://dbpedia.org/resource/Wallington_railway_station>","InferentialChain":["sovereign","state","wallington","railway","station"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/United_Kingdom>","EntityName":"United Kingdom"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q1164","Parse":{"TopicEntityName":"Tales of Suspense ","TopicEntityMid":"<http://dbpedia.org/resource/Tales_of_Suspense>","InferentialChain":["person","naratted","incredible","hulk","the","writer","tales","of","suspense"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Stan_Lee>","EntityName":"Stan Lee"}]}}

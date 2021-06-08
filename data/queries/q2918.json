@@ -1,0 +1,1 @@
+{"QuestionId":"q2918","Parse":{"TopicEntityName":"Falken Tire ","TopicEntityMid":"<http://dbpedia.org/resource/Falken_Tire>","InferentialChain":["destinations","air","2000","the","location","continent","of","the","falken","tire"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/North_America>","EntityName":"North America"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q1525","Parse":{"TopicEntityName":"Karl Ewald Hasse ","TopicEntityMid":"<http://dbpedia.org/resource/Karl_Ewald_Hasse>","InferentialChain":["scientist","academic","advisor","karl","ewald","hasse"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Robert_Koch>","EntityName":"Robert Koch"}]}}

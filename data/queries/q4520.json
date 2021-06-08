@@ -1,0 +1,1 @@
+{"QuestionId":"q4520","Parse":{"TopicEntityName":"Rosie Huntington Whiteley ","TopicEntityMid":"<http://dbpedia.org/resource/Rosie_Huntington-Whiteley>","InferentialChain":["married","kelly","brook","rosie","huntington","whiteley"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Jason_Statham>","EntityName":"Jason Statham"}]}}

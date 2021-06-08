@@ -1,0 +1,1 @@
+{"QuestionId":"q1642","Parse":{"TopicEntityName":"John G  Schmitz ","TopicEntityMid":"<http://dbpedia.org/resource/John_G._Schmitz>","InferentialChain":["president","politician","opposition","john","g","schmitz"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Richard_Nixon>","EntityName":"Richard Nixon"}]}}

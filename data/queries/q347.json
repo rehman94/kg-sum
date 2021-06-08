@@ -1,0 +1,1 @@
+{"QuestionId":"q347","Parse":{"TopicEntityName":"Golden Globe Award ","TopicEntityMid":"<http://dbpedia.org/resource/Golden_Globe_Award>","InferentialChain":["awards","people","have","won","golden","globe"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"27","EntityName":""}]}}

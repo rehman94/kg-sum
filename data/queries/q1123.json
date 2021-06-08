@@ -1,0 +1,1 @@
+{"QuestionId":"q1123","Parse":{"TopicEntityName":"Glasgow Airport ","TopicEntityMid":"<http://dbpedia.org/resource/Glasgow_Airport>","InferentialChain":["give","total","number","places","airlines","","go","to","glasgow"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"10","EntityName":""}]}}

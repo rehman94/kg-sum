@@ -1,0 +1,1 @@
+{"QuestionId":"q1305","Parse":{"TopicEntityName":"Midhurst ","TopicEntityMid":"<http://dbpedia.org/resource/Midhurst>","InferentialChain":["things","made","artists","died","midhurst"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Doctor_Who>","EntityName":"Doctor Who"}]}}

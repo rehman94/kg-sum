@@ -1,0 +1,1 @@
+{"QuestionId":"q2971","Parse":{"TopicEntityName":"Celal Bayar University ","TopicEntityMid":"<http://dbpedia.org/resource/Celal_Bayar_University>","InferentialChain":["mascot","celal","bayar","university"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Tulip>","EntityName":"Tulip"}]}}

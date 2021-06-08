@@ -1,0 +1,1 @@
+{"QuestionId":"q2104","Parse":{"TopicEntityName":"David Prowse  politician  ","TopicEntityMid":"<http://dbpedia.org/resource/David_Prowse_(politician)>","InferentialChain":["mascot","the","military","unit","of","david","prowse"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Kangaroo>","EntityName":"Kangaroo"}]}}

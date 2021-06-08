@@ -1,0 +1,1 @@
+{"QuestionId":"q4577","Parse":{"TopicEntityName":"Egypt Nanotechnology Center ","TopicEntityMid":"<http://dbpedia.org/resource/Egypt_Nanotechnology_Center>","InferentialChain":["province","egypt","nanotechnology","center"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Giza>","EntityName":"Giza"}]}}

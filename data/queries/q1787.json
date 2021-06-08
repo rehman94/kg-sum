@@ -1,0 +1,1 @@
+{"QuestionId":"q1787","Parse":{"TopicEntityName":"Lovelace Medal ","TopicEntityMid":"<http://dbpedia.org/resource/Lovelace_Medal>","InferentialChain":["winner","lovelace","medal","","john","robert","doctoral","supervisor"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Douglas_Engelbart>","EntityName":"Douglas Engelbart"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q792","Parse":{"TopicEntityName":"Canidae ","TopicEntityMid":"<http://dbpedia.org/resource/Canidae>","InferentialChain":["give","count","mammals","family","canidae"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"218","EntityName":""}]}}

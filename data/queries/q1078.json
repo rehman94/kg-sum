@@ -1,0 +1,1 @@
+{"QuestionId":"q1078","Parse":{"TopicEntityName":"Xianren Cave ","TopicEntityMid":"<http://dbpedia.org/resource/Xianren_Cave>","InferentialChain":["builder","estadio","nacional","de","costa","rica","location","of","xianren","cave"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/China>","EntityName":"China"}]}}

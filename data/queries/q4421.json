@@ -1,0 +1,1 @@
+{"QuestionId":"q4421","Parse":{"TopicEntityName":"Malatraix ","TopicEntityMid":"<http://dbpedia.org/resource/Malatraix>","InferentialChain":["mountain","range","the","mountain","peak","malatraix","belongs"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Swiss_Alps>","EntityName":"Swiss Alps"}]}}

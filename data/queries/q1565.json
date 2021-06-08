@@ -1,0 +1,1 @@
+{"QuestionId":"q1565","Parse":{"TopicEntityName":"Vijay Chavan ","TopicEntityMid":"<http://dbpedia.org/resource/Vijay_Chavan>","InferentialChain":["place","birthplace","vijay","chavan","eka","lagnachi","teesri","goshta","is","located"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Mumbai>","EntityName":"Mumbai"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q965","Parse":{"TopicEntityName":"Orson Welles ","TopicEntityMid":"<http://dbpedia.org/resource/Orson_Welles>","InferentialChain":["movies","directed","orson","welles","bernard","herrmann","music","composer"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Citizen_Kane>","EntityName":"Citizen Kane"}]}}

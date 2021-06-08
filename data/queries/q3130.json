@@ -1,0 +1,1 @@
+{"QuestionId":"q3130","Parse":{"TopicEntityName":"The Dognapper ","TopicEntityMid":"<http://dbpedia.org/resource/The_Dognapper>","InferentialChain":["fictional","character","who","starred","the","dognapper"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Mickey_Mouse>","EntityName":"Mickey Mouse"}]}}

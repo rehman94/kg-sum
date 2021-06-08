@@ -1,0 +1,1 @@
+{"QuestionId":"q2283","Parse":{"TopicEntityName":"United States ","TopicEntityMid":"<http://dbpedia.org/resource/United_States>","InferentialChain":["movies","cinematographer","died"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"849","EntityName":""}]}}

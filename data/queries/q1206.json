@@ -1,0 +1,1 @@
+{"QuestionId":"q1206","Parse":{"TopicEntityName":"Rita Wilson ","TopicEntityMid":"<http://dbpedia.org/resource/Rita_Wilson>","InferentialChain":["actor","starred","splash","married","rita","wilson"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Tom_Hanks>","EntityName":"Tom Hanks"}]}}

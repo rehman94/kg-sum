@@ -1,0 +1,1 @@
+{"QuestionId":"q2334","Parse":{"TopicEntityName":"Kensington  Maryland ","TopicEntityMid":"<http://dbpedia.org/resource/Kensington,_Maryland>","InferentialChain":["president","politicians","live","kensington"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Barack_Obama>","EntityName":"Barack Obama"}]}}

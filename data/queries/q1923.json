@@ -1,0 +1,1 @@
+{"QuestionId":"q1923","Parse":{"TopicEntityName":"Sharon Marley ","TopicEntityMid":"<http://dbpedia.org/resource/Sharon_Marley>","InferentialChain":["person","daughter","rohan","marley","children","named","sharon","marley"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Bob_Marley>","EntityName":"Bob Marley"}]}}

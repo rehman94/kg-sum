@@ -1,0 +1,1 @@
+{"QuestionId":"q1362","Parse":{"TopicEntityName":"Miluk language ","TopicEntityMid":"<http://dbpedia.org/resource/Miluk_language>","InferentialChain":["region","miluk","language","belong"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Oregon>","EntityName":"Oregon"}]}}

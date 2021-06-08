@@ -1,0 +1,1 @@
+{"QuestionId":"q2241","Parse":{"TopicEntityName":"Paul Morphy ","TopicEntityMid":"<http://dbpedia.org/resource/Paul_Morphy>","InferentialChain":["field","s","journals","edited","paul","morphy"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Chess>","EntityName":"Chess"}]}}

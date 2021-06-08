@@ -1,0 +1,1 @@
+{"QuestionId":"q1675","Parse":{"TopicEntityName":"Lysistrata ","TopicEntityMid":"<http://dbpedia.org/resource/Lysistrata>","InferentialChain":["list","characters","lysistrata"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Sparta>","EntityName":"Sparta"}]}}

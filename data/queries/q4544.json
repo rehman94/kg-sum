@@ -1,0 +1,1 @@
+{"QuestionId":"q4544","Parse":{"TopicEntityName":"John Tower ","TopicEntityMid":"<http://dbpedia.org/resource/John_Tower>","InferentialChain":["common","branch","military","of","edward","joseph","schwartz","john","tower"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/United_States_Navy>","EntityName":"United States Navy"}]}}

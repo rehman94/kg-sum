@@ -1,0 +1,1 @@
+{"QuestionId":"q788","Parse":{"TopicEntityName":"Clark Daniel Stearns ","TopicEntityMid":"<http://dbpedia.org/resource/Clark_Daniel_Stearns>","InferentialChain":["military","division","clark","daniel","stearns","belong"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/United_States_Navy>","EntityName":"United States Navy"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q2092","Parse":{"TopicEntityName":"Abbas Jafri ","TopicEntityMid":"<http://dbpedia.org/resource/Abbas_Jafri>","InferentialChain":["state","origin","of","abbas","jafri"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Pakistan>","EntityName":"Pakistan"}]}}

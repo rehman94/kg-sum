@@ -1,0 +1,1 @@
+{"QuestionId":"q1966","Parse":{"TopicEntityName":"Concor Holdings ","TopicEntityMid":"<http://dbpedia.org/resource/Concor_Holdings>","InferentialChain":["concor","holdings","bridge"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Zambezi>","EntityName":"Zambezi"}]}}

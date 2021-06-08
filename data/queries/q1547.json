@@ -1,0 +1,1 @@
+{"QuestionId":"q1547","Parse":{"TopicEntityName":"Microsoft Surface ","TopicEntityMid":"<http://dbpedia.org/resource/Microsoft_Surface>","InferentialChain":["company","builds","microsoft","azure","microsoft","surface"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Microsoft>","EntityName":"Microsoft"}]}}

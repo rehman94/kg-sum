@@ -1,0 +1,1 @@
+{"QuestionId":"q1560","Parse":{"TopicEntityName":"731 Lexington Avenue ","TopicEntityMid":"<http://dbpedia.org/resource/731_Lexington_Avenue>","InferentialChain":["hold","stocks","bank","located","731","lexington","avenue"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Michael_Bloomberg>","EntityName":"Michael Bloomberg"}]}}

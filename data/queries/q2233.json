@@ -1,0 +1,1 @@
+{"QuestionId":"q2233","Parse":{"TopicEntityName":"Umatilla language ","TopicEntityMid":"<http://dbpedia.org/resource/Umatilla_language>","InferentialChain":["state","umatilla","language","is","the","state","of","james","k","","kelly"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Oregon>","EntityName":"Oregon"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q1888","Parse":{"TopicEntityName":"Mr  Tambourine Man  album  ","TopicEntityMid":"<http://dbpedia.org/resource/Mr._Tambourine_Man_(album)>","InferentialChain":["composed","songs","mr","tambourine","man","album"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Bob_Dylan>","EntityName":"Bob Dylan"}]}}

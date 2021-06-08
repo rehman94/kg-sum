@@ -1,0 +1,1 @@
+{"QuestionId":"q2183","Parse":{"TopicEntityName":"Kenthurst  New South Wales ","TopicEntityMid":"<http://dbpedia.org/resource/Kenthurst,_New_South_Wales>","InferentialChain":["tennis","players","live","kenthurst","","south","wales"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Lleyton_Hewitt>","EntityName":"Lleyton Hewitt"}]}}

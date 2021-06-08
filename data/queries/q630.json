@@ -1,0 +1,1 @@
+{"QuestionId":"q630","Parse":{"TopicEntityName":"Chevrolet Spark ","TopicEntityMid":"<http://dbpedia.org/resource/Chevrolet_Spark>","InferentialChain":["company","parent","company","chevrolet","spark"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/General_Motors>","EntityName":"General Motors"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q2900","Parse":{"TopicEntityName":"Larry LaLonde ","TopicEntityMid":"<http://dbpedia.org/resource/Larry_LaLonde>","InferentialChain":["shows","theme","music","composed","band","which","larry","lalonde"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/South_Park>","EntityName":"South Park"}]}}

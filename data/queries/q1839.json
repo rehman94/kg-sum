@@ -1,0 +1,1 @@
+{"QuestionId":"q1839","Parse":{"TopicEntityName":"Auckland ","TopicEntityMid":"<http://dbpedia.org/resource/Auckland>","InferentialChain":["organizations","auckland","created"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Chess>","EntityName":"Chess"}]}}

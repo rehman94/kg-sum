@@ -1,0 +1,1 @@
+{"QuestionId":"q1171","Parse":{"TopicEntityName":"Amaravila ","TopicEntityMid":"<http://dbpedia.org/resource/Amaravila>","InferentialChain":["party","power","balangir","amaravila","in","india"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Indian_National_Congress>","EntityName":"Indian National Congress"}]}}

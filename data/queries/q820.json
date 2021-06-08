@@ -1,0 +1,1 @@
+{"QuestionId":"q820","Parse":{"TopicEntityName":"Mel Brooks ","TopicEntityMid":"<http://dbpedia.org/resource/Mel_Brooks>","InferentialChain":["label","mel","brooks","produce","movie"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Sony>","EntityName":"Sony"}]}}

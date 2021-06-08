@@ -1,0 +1,1 @@
+{"QuestionId":"q2208","Parse":{"TopicEntityName":"Colemanville Covered Bridge ","TopicEntityMid":"<http://dbpedia.org/resource/Colemanville_Covered_Bridge>","InferentialChain":["state","colemanville","covered","bridge","located"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Pennsylvania>","EntityName":"Pennsylvania"}]}}

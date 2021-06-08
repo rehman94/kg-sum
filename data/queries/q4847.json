@@ -1,0 +1,1 @@
+{"QuestionId":"q4847","Parse":{"TopicEntityName":"Dallas ","TopicEntityMid":"<http://dbpedia.org/resource/Dallas>","InferentialChain":["companies","founded","places","dallas","governing","body"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"38","EntityName":""}]}}

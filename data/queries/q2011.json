@@ -1,0 +1,1 @@
+{"QuestionId":"q2011","Parse":{"TopicEntityName":"Start   Flug ","TopicEntityMid":"<http://dbpedia.org/resource/Start_+_Flug>","InferentialChain":["countries","start","","","flug","aircrafts","originated"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/West_Germany>","EntityName":"West Germany"}]}}

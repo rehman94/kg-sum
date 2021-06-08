@@ -1,0 +1,1 @@
+{"QuestionId":"q4700","Parse":{"TopicEntityName":"Massimo Liverani ","TopicEntityMid":"<http://dbpedia.org/resource/Massimo_Liverani>","InferentialChain":["team","guido","guerrini","massimo","liverani","play","for"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Abarth>","EntityName":"Abarth"}]}}

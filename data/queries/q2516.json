@@ -1,0 +1,1 @@
+{"QuestionId":"q2516","Parse":{"TopicEntityName":"Fair Lane ","TopicEntityMid":"<http://dbpedia.org/resource/Fair_Lane>","InferentialChain":["person","died","fair","lane"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Henry_Ford>","EntityName":"Henry Ford"}]}}

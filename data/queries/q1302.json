@@ -1,0 +1,1 @@
+{"QuestionId":"q1302","Parse":{"TopicEntityName":"Ralph Flanders ","TopicEntityMid":"<http://dbpedia.org/resource/Ralph_Flanders>","InferentialChain":["employer","ralph","flanders"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/United_States_Senate>","EntityName":"United States Senate"}]}}

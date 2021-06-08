@@ -1,0 +1,1 @@
+{"QuestionId":"q2818","Parse":{"TopicEntityName":"Newell s Old Boys ","TopicEntityMid":"<http://dbpedia.org/resource/Newell's_Old_Boys>","InferentialChain":["youth","clubs","fc","barcelona","newell","s","boys"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Lionel_Messi>","EntityName":"Lionel Messi"}]}}

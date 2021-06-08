@@ -1,0 +1,1 @@
+{"QuestionId":"q1706","Parse":{"TopicEntityName":"Menlo Park  California ","TopicEntityMid":"<http://dbpedia.org/resource/Menlo_Park,_California>","InferentialChain":["companies","founded","menlo","park","","california"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"8","EntityName":""}]}}

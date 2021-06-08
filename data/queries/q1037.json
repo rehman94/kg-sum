@@ -1,0 +1,1 @@
+{"QuestionId":"q1037","Parse":{"TopicEntityName":"Emma  novel  ","TopicEntityMid":"<http://dbpedia.org/resource/Emma_(novel)>","InferentialChain":["penned","emma","jane","austen","manhatten"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Jane_Austen>","EntityName":"Jane Austen"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q3976","Parse":{"TopicEntityName":"Nazi Germany ","TopicEntityMid":"<http://dbpedia.org/resource/Nazi_Germany>","InferentialChain":["head","agencies","nazi","germany"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"37","EntityName":""}]}}

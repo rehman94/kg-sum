@@ -1,0 +1,1 @@
+{"QuestionId":"q546","Parse":{"TopicEntityName":"Liger ","TopicEntityMid":"<http://dbpedia.org/resource/Liger>","InferentialChain":["species","liger"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Lion>","EntityName":"Lion"}]}}

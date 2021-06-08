@@ -1,0 +1,1 @@
+{"QuestionId":"q515","Parse":{"TopicEntityName":"Kumta ","TopicEntityMid":"<http://dbpedia.org/resource/Kumta>","InferentialChain":["type","government","elected","kumta"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Indian_National_Congress>","EntityName":"Indian National Congress"}]}}

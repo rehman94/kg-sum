@@ -1,0 +1,1 @@
+{"QuestionId":"q1599","Parse":{"TopicEntityName":"Hypnotize Minds ","TopicEntityMid":"<http://dbpedia.org/resource/Hypnotize_Minds>","InferentialChain":["common","parent","gettv","hypnotize","mind"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Sony>","EntityName":"Sony"}]}}

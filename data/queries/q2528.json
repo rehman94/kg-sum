@@ -1,0 +1,1 @@
+{"QuestionId":"q2528","Parse":{"TopicEntityName":"England ","TopicEntityMid":"<http://dbpedia.org/resource/England>","InferentialChain":["count","places","the","people","died","","born","england"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"7236","EntityName":""}]}}

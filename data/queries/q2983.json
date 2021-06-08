@@ -1,0 +1,1 @@
+{"QuestionId":"q2983","Parse":{"TopicEntityName":"Bukovica  river  ","TopicEntityMid":"<http://dbpedia.org/resource/Bukovica_(river)>","InferentialChain":["river","flow","","left","tributary","bukovica"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Croatia>","EntityName":"Croatia"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q1709","Parse":{"TopicEntityName":"A Streetcar Named Desire  play  ","TopicEntityMid":"<http://dbpedia.org/resource/A_Streetcar_Named_Desire_(play)>","InferentialChain":["wrote","streetcar","named","desire"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Tennessee_Williams>","EntityName":"Tennessee Williams"}]}}

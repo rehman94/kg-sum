@@ -1,0 +1,1 @@
+{"QuestionId":"q842","Parse":{"TopicEntityName":"Sleepy Time Squirrel ","TopicEntityMid":"<http://dbpedia.org/resource/Sleepy-Time_Squirrel>","InferentialChain":["person","is","the","movie","director","sleepy","time","squirrel"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Donald_Duck>","EntityName":"Donald Duck"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q331","Parse":{"TopicEntityName":"Heinz Kokott ","TopicEntityMid":"<http://dbpedia.org/resource/Heinz_Kokott>","InferentialChain":["heinz","kokott","relative","served","nazi","army"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Heinrich_Himmler>","EntityName":"Heinrich Himmler"}]}}

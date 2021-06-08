@@ -1,0 +1,1 @@
+{"QuestionId":"q2133","Parse":{"TopicEntityName":"George Frisbie Hoar ","TopicEntityMid":"<http://dbpedia.org/resource/George_Frisbie_Hoar>","InferentialChain":["order","george","frisbie","hoar"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/United_States_Senate>","EntityName":"United States Senate"}]}}

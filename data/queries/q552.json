@@ -1,0 +1,1 @@
+{"QuestionId":"q552","Parse":{"TopicEntityName":"Kelsey Creek ","TopicEntityMid":"<http://dbpedia.org/resource/Kelsey_Creek>","InferentialChain":["capital","kelsey","creek","located"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Seattle>","EntityName":"Seattle"}]}}

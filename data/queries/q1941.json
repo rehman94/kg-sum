@@ -1,0 +1,1 @@
+{"QuestionId":"q1941","Parse":{"TopicEntityName":"Wisconsin ","TopicEntityMid":"<http://dbpedia.org/resource/Wisconsin>","InferentialChain":["count","nearest","city","the","historic","palce","the","nearest","city","wisconsin"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"10","EntityName":""}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q1480","Parse":{"TopicEntityName":"Robert Nutting ","TopicEntityMid":"<http://dbpedia.org/resource/Robert_Nutting>","InferentialChain":["baseball","team","owned","robert","nutting"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Pittsburgh_Pirates>","EntityName":"Pittsburgh Pirates"}]}}

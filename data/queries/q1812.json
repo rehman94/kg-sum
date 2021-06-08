@@ -1,0 +1,1 @@
+{"QuestionId":"q1812","Parse":{"TopicEntityName":"Siberia ","TopicEntityMid":"<http://dbpedia.org/resource/Siberia>","InferentialChain":["region","served","toll","global","express","borders","siberia"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Pacific_Ocean>","EntityName":"Pacific Ocean"}]}}

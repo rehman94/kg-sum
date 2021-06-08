@@ -1,0 +1,1 @@
+{"QuestionId":"q408","Parse":{"TopicEntityName":"St George s Hospital ","TopicEntityMid":"<http://dbpedia.org/resource/St_George's_Hospital>","InferentialChain":["academic","advisor","works","st","george","s","hospital"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Edward_Jenner>","EntityName":"Edward Jenner"}]}}

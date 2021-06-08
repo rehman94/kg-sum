@@ -1,0 +1,1 @@
+{"QuestionId":"q1628","Parse":{"TopicEntityName":"Picasso s Last Words  Drink to Me  ","TopicEntityMid":"<http://dbpedia.org/resource/Picasso's_Last_Words_(Drink_to_Me)>","InferentialChain":["picasso","s","words","recorded"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Lagos>","EntityName":"Lagos"}]}}

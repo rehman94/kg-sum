@@ -1,0 +1,1 @@
+{"QuestionId":"q508","Parse":{"TopicEntityName":"George Beauchamp ","TopicEntityMid":"<http://dbpedia.org/resource/George_Beauchamp>","InferentialChain":["give","count","musicians","play","instrument","developed","george","beauchamp"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"28","EntityName":""}]}}

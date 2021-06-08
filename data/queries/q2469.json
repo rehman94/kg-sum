@@ -1,0 +1,1 @@
+{"QuestionId":"q2469","Parse":{"TopicEntityName":"Winston Bryant ","TopicEntityMid":"<http://dbpedia.org/resource/Winston_Bryant>","InferentialChain":["president","relations","clinton","family","lieutenant","named","winston","bryant"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Bill_Clinton>","EntityName":"Bill Clinton"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q1034","Parse":{"TopicEntityName":"Ziggi Recado ","TopicEntityMid":"<http://dbpedia.org/resource/Ziggi_Recado>","InferentialChain":["origin","the","musical","artist","band","is","ziggi","recado"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Aruba>","EntityName":"Aruba"}]}}

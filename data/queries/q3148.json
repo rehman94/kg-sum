@@ -1,0 +1,1 @@
+{"QuestionId":"q3148","Parse":{"TopicEntityName":"Columbia Lake ","TopicEntityMid":"<http://dbpedia.org/resource/Columbia_Lake>","InferentialChain":["river","source","columbia","lake","river","mouth","located","clatsop","country"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Columbia_River>","EntityName":"Columbia River"}]}}

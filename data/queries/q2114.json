@@ -1,0 +1,1 @@
+{"QuestionId":"q2114","Parse":{"TopicEntityName":"Email filtering ","TopicEntityMid":"<http://dbpedia.org/resource/Email_filtering>","InferentialChain":["alma","mater","the","scientist","famous","email","filtering"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Stanford_University>","EntityName":"Stanford University"}]}}

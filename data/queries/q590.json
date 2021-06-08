@@ -1,0 +1,1 @@
+{"QuestionId":"q590","Parse":{"TopicEntityName":"Waterfall  album  ","TopicEntityMid":"<http://dbpedia.org/resource/Waterfall_(album)>","InferentialChain":["label","the","album","previous","work","is","waterfall"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Brain>","EntityName":"Brain"}]}}

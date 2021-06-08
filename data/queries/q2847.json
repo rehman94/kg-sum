@@ -1,0 +1,1 @@
+{"QuestionId":"q2847","Parse":{"TopicEntityName":"Foxconn ","TopicEntityMid":"<http://dbpedia.org/resource/Foxconn>","InferentialChain":["foxconn","makes","things"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"46","EntityName":""}]}}

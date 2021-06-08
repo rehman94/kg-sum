@@ -1,0 +1,1 @@
+{"QuestionId":"q3741","Parse":{"TopicEntityName":"History of Penny Arcade Expo ","TopicEntityMid":"<http://dbpedia.org/resource/History_of_Penny_Arcade_Expo>","InferentialChain":["venue","the","history","of","penny","arcade","expo","located"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Seattle>","EntityName":"Seattle"}]}}

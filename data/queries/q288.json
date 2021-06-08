@@ -1,0 +1,1 @@
+{"QuestionId":"q288","Parse":{"TopicEntityName":"James L  McConaughy ","TopicEntityMid":"<http://dbpedia.org/resource/James_L._McConaughy>","InferentialChain":["branch","government","james","l","","mcconaughy","belong"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/United_States_Navy>","EntityName":"United States Navy"}]}}

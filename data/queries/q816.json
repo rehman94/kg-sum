@@ -1,0 +1,1 @@
+{"QuestionId":"q816","Parse":{"TopicEntityName":"John O  Moseley ","TopicEntityMid":"<http://dbpedia.org/resource/John_O._Moseley>","InferentialChain":["mascot","alma","mater","of","john","o","moseley"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Kangaroo>","EntityName":"Kangaroo"}]}}

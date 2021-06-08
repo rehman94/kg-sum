@@ -1,0 +1,1 @@
+{"QuestionId":"q1486","Parse":{"TopicEntityName":"Kazan ","TopicEntityMid":"<http://dbpedia.org/resource/Kazan>","InferentialChain":["railway","tracks","start","","ends","kazan"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Moscow>","EntityName":"Moscow"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q2813","Parse":{"TopicEntityName":"Jeff Hornacek ","TopicEntityMid":"<http://dbpedia.org/resource/Jeff_Hornacek>","InferentialChain":["nickname","the","school","jeff","hornacek","studied"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Lion>","EntityName":"Lion"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q2311","Parse":{"TopicEntityName":"Johnny Cash ","TopicEntityMid":"<http://dbpedia.org/resource/Johnny_Cash>","InferentialChain":["give","count","associates","johnny","cash"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"35","EntityName":""}]}}

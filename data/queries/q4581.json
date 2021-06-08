@@ -1,0 +1,1 @@
+{"QuestionId":"q4581","Parse":{"TopicEntityName":"Percy Fitzwallace ","TopicEntityMid":"<http://dbpedia.org/resource/Percy_Fitzwallace>","InferentialChain":["war","k","fordice","p","fitzwallace","fight"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Vietnam_War>","EntityName":"Vietnam War"}]}}

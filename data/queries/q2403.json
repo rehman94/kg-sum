@@ -1,0 +1,1 @@
+{"QuestionId":"q2403","Parse":{"TopicEntityName":"Tennessee ","TopicEntityMid":"<http://dbpedia.org/resource/Tennessee>","InferentialChain":["give","count","scientist","garrison","tennessee"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"12","EntityName":""}]}}

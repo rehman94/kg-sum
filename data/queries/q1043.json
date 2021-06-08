@@ -1,0 +1,1 @@
+{"QuestionId":"q1043","Parse":{"TopicEntityName":"Microsoft Azure ","TopicEntityMid":"<http://dbpedia.org/resource/Microsoft_Azure>","InferentialChain":["company","outlook","service","product","named","microsoft","azure"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Microsoft>","EntityName":"Microsoft"}]}}

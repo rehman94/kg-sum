@@ -1,0 +1,1 @@
+{"QuestionId":"q4153","Parse":{"TopicEntityName":"Pittsburgh ","TopicEntityMid":"<http://dbpedia.org/resource/Pittsburgh>","InferentialChain":["whihc","associate","thomas","bryan","martin","founder","of","pittsburgh"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/George_Washington>","EntityName":"George Washington"}]}}

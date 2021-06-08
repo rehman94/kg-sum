@@ -1,0 +1,1 @@
+{"QuestionId":"q805","Parse":{"TopicEntityName":"Abhijit Kunte ","TopicEntityMid":"<http://dbpedia.org/resource/Abhijit_Kunte>","InferentialChain":["purpose","maharashtra","chess","association","abhijit","kunte","is"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Chess>","EntityName":"Chess"}]}}

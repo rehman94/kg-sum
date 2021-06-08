@@ -1,0 +1,1 @@
+{"QuestionId":"q2212","Parse":{"TopicEntityName":"Ananda Weerasekara ","TopicEntityMid":"<http://dbpedia.org/resource/Ananda_Weerasekara>","InferentialChain":["religion","the","relatives","of","ananda","weerasekara"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Buddhism>","EntityName":"Buddhism"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q1641","Parse":{"TopicEntityName":"United States Department of the Navy ","TopicEntityMid":"<http://dbpedia.org/resource/United_States_Department_of_the_Navy>","InferentialChain":["units","follow","navy","department","s","command","structure"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"10","EntityName":""}]}}

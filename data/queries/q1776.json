@@ -1,0 +1,1 @@
+{"QuestionId":"q1776","Parse":{"TopicEntityName":"The Adventures of Tom Sawyer ","TopicEntityMid":"<http://dbpedia.org/resource/The_Adventures_of_Tom_Sawyer>","InferentialChain":["cover","artist","the","adventure","of","tom","sawyer"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Mark_Twain>","EntityName":"Mark Twain"}]}}

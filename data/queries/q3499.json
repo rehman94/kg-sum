@@ -1,0 +1,1 @@
+{"QuestionId":"q3499","Parse":{"TopicEntityName":"Jack Ryan  politician  ","TopicEntityMid":"<http://dbpedia.org/resource/Jack_Ryan_(politician)>","InferentialChain":["robert","sarvis","jack","ryan","nominated"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/United_States_Senate>","EntityName":"United States Senate"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q1343","Parse":{"TopicEntityName":"Edith Vonnegut ","TopicEntityMid":"<http://dbpedia.org/resource/Edith_Vonnegut>","InferentialChain":["famous","writer","married","jill","krementz","son","named","edith","vonnegut"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Kurt_Vonnegut>","EntityName":"Kurt Vonnegut"}]}}

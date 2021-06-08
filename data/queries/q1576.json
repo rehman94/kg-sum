@@ -1,0 +1,1 @@
+{"QuestionId":"q1576","Parse":{"TopicEntityName":"Randy Jackson ","TopicEntityMid":"<http://dbpedia.org/resource/Randy_Jackson>","InferentialChain":["show","jury","consist","jennifer","lopez","randy","jackson"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/American_Idol>","EntityName":"American Idol"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q4933","Parse":{"TopicEntityName":"City of Newcastle ","TopicEntityMid":"<http://dbpedia.org/resource/City_of_Newcastle>","InferentialChain":["places","companies","started","in","newcastle","worked"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"8","EntityName":""}]}}

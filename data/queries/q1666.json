@@ -1,0 +1,1 @@
+{"QuestionId":"q1666","Parse":{"TopicEntityName":"Duboce Triangle  San Francisco ","TopicEntityMid":"<http://dbpedia.org/resource/Duboce_Triangle,_San_Francisco>","InferentialChain":["constituency","duboce","triangle"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Harvey_Milk>","EntityName":"Harvey Milk"}]}}

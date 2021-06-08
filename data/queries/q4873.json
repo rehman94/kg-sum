@@ -1,0 +1,1 @@
+{"QuestionId":"q4873","Parse":{"TopicEntityName":"Winnipeg River ","TopicEntityMid":"<http://dbpedia.org/resource/Winnipeg_River>","InferentialChain":["lake","located","the","winnipeg","river","flows"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/North_America>","EntityName":"North America"}]}}

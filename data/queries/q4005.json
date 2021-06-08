@@ -1,0 +1,1 @@
+{"QuestionId":"q4005","Parse":{"TopicEntityName":"Arctic Ocean ","TopicEntityMid":"<http://dbpedia.org/resource/Arctic_Ocean>","InferentialChain":["river","s","mouth","location","laptev","sea","arctic","ocean"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Lena_River>","EntityName":"Lena River"}]}}

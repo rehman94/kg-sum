@@ -1,0 +1,1 @@
+{"QuestionId":"q422","Parse":{"TopicEntityName":"Nebraska ","TopicEntityMid":"<http://dbpedia.org/resource/Nebraska>","InferentialChain":["states","people","live","","languages","spoken","in","nebraska"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"11","EntityName":""}]}}

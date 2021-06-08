@@ -1,0 +1,1 @@
+{"QuestionId":"q353","Parse":{"TopicEntityName":"Corringham railway station ","TopicEntityMid":"<http://dbpedia.org/resource/Corringham_railway_station>","InferentialChain":["city","corringham","railway","station","located"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Essex>","EntityName":"Essex"}]}}

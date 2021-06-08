@@ -1,0 +1,1 @@
+{"QuestionId":"q367","Parse":{"TopicEntityName":"Fort Gadsden ","TopicEntityMid":"<http://dbpedia.org/resource/Fort_Gadsden>","InferentialChain":["conflicts","fort","barrancas","gadsden"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Andrew_Jackson>","EntityName":"Andrew Jackson"}]}}

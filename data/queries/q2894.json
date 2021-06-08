@@ -1,0 +1,1 @@
+{"QuestionId":"q2894","Parse":{"TopicEntityName":"Sixteen Candles ","TopicEntityMid":"<http://dbpedia.org/resource/Sixteen_Candles>","InferentialChain":["list","people","casted","betsy","s","wedding","16","candles"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Molly_Ringwald>","EntityName":"Molly Ringwald"}]}}

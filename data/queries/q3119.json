@@ -1,0 +1,1 @@
+{"QuestionId":"q3119","Parse":{"TopicEntityName":"Los Angeles International Airport ","TopicEntityMid":"<http://dbpedia.org/resource/Los_Angeles_International_Airport>","InferentialChain":["give","count","airlines","hub","airport","los","angeles","international","airport"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"18","EntityName":""}]}}

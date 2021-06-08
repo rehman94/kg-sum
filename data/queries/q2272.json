@@ -1,0 +1,1 @@
+{"QuestionId":"q2272","Parse":{"TopicEntityName":"Oulu ","TopicEntityMid":"<http://dbpedia.org/resource/Oulu>","InferentialChain":["rostock","oulu","shore","cities","sea"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Baltic_Sea>","EntityName":"Baltic Sea"}]}}

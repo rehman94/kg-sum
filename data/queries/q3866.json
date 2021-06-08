@@ -1,0 +1,1 @@
+{"QuestionId":"q3866","Parse":{"TopicEntityName":"Comedy Central ","TopicEntityMid":"<http://dbpedia.org/resource/Comedy_Central>","InferentialChain":["television","show","developed","brian","graden","distributed","by","comedy","central"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/South_Park>","EntityName":"South Park"}]}}

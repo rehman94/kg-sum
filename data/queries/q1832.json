@@ -1,0 +1,1 @@
+{"QuestionId":"q1832","Parse":{"TopicEntityName":"Viva Las Vegas ","TopicEntityMid":"<http://dbpedia.org/resource/Viva_Las_Vegas>","InferentialChain":["songs","tickle","viva","las","vegas"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Elvis_Presley>","EntityName":"Elvis Presley"}]}}

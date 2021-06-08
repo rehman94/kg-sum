@@ -1,0 +1,1 @@
+{"QuestionId":"q3259","Parse":{"TopicEntityName":"Kensington  Maryland ","TopicEntityMid":"<http://dbpedia.org/resource/Kensington,_Maryland>","InferentialChain":["states","road","","which","junction","keningston","maryland"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Maryland>","EntityName":"Maryland"}]}}

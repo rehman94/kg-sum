@@ -1,0 +1,1 @@
+{"QuestionId":"q1859","Parse":{"TopicEntityName":"David Charles  physician  ","TopicEntityMid":"<http://dbpedia.org/resource/David_Charles_(physician)>","InferentialChain":["institution","david","charles","affiliated"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Vanderbilt_University>","EntityName":"Vanderbilt University"}]}}

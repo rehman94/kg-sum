@@ -1,0 +1,1 @@
+{"QuestionId":"q2169","Parse":{"TopicEntityName":"Great Ayton ","TopicEntityMid":"<http://dbpedia.org/resource/Great_Ayton>","InferentialChain":["attended","great","ayton","university"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/James_Cook>","EntityName":"James Cook"}]}}

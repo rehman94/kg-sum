@@ -1,0 +1,1 @@
+{"QuestionId":"q4537","Parse":{"TopicEntityName":"Troodos Mountains ","TopicEntityMid":"<http://dbpedia.org/resource/Troodos_Mountains>","InferentialChain":["origin","the","grape","wine","region","is","the","troodos","mountains"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Cyprus>","EntityName":"Cyprus"}]}}

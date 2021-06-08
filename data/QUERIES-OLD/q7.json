@@ -1,0 +1,20 @@
+{
+	"QuestionId": "WebQTest-7",
+	"RawQuestion": "Who was married to president Chirac?",
+	"ProcessedQuestion": "Who was married to president Chirac?",
+	"Parse": {
+		
+		"PotentialTopicEntityMention": "married to, president Chirac",
+		"TopicEntityName": "president Chirac",  
+		"TopicEntityMid": "<http://dbpedia.org/resource/Autism>",
+		"InferentialChain": ["Jacques_Chirac.spouse"],
+		"Constraints": [],
+		"Time": null,
+		"Order": null,
+		"Answers": [{
+			"AnswerType": "Entity",
+			"AnswerArgument": "m.04rz1l",
+			"EntityName": "Bernadette Thérèse Marie Chodron de Courcel"
+		}]
+	}
+}

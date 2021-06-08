@@ -1,0 +1,1 @@
+{"QuestionId":"q2535","Parse":{"TopicEntityName":"Andy Wyant ","TopicEntityMid":"<http://dbpedia.org/resource/Andy_Wyant>","InferentialChain":["andy","wyant","die","robert","rodi","born"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Chicago>","EntityName":"Chicago"}]}}

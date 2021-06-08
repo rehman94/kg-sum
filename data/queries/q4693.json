@@ -1,0 +1,1 @@
+{"QuestionId":"q4693","Parse":{"TopicEntityName":"Geography Club  play  ","TopicEntityMid":"<http://dbpedia.org/resource/Geography_Club_(play)>","InferentialChain":["place","geography","club","location","of","seattle","great","wheel"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Seattle>","EntityName":"Seattle"}]}}

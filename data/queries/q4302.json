@@ -1,0 +1,1 @@
+{"QuestionId":"q4302","Parse":{"TopicEntityName":"Norton  Massachusetts ","TopicEntityMid":"<http://dbpedia.org/resource/Norton,_Massachusetts>","InferentialChain":["nicknames","universities","norton","","massachusetts"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Lion>","EntityName":"Lion"}]}}

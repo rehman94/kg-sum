@@ -1,0 +1,1 @@
+{"QuestionId":"q3509","Parse":{"TopicEntityName":"Les Claypool ","TopicEntityMid":"<http://dbpedia.org/resource/Les_Claypool>","InferentialChain":["theme","music","composed","band","whose","member","is","les","claypool"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/South_Park>","EntityName":"South Park"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q923","Parse":{"TopicEntityName":"Liberty Bell ","TopicEntityMid":"<http://dbpedia.org/resource/Liberty_Bell>","InferentialChain":["municipality","liberty","bell"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Philadelphia>","EntityName":"Philadelphia"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q840","Parse":{"TopicEntityName":"Pacific Ocean ","TopicEntityMid":"<http://dbpedia.org/resource/Pacific_Ocean>","InferentialChain":["islands","belong","archipelagos","located","pacific"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"141","EntityName":""}]}}
