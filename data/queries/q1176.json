@@ -1,0 +1,1 @@
+{"QuestionId":"q1176","Parse":{"TopicEntityName":"Assyrian Neo Aramaic ","TopicEntityMid":"<http://dbpedia.org/resource/Assyrian_Neo-Aramaic>","InferentialChain":["semnani","assyrian","neo","aramaic","spoken"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Iran>","EntityName":"Iran"}]}}

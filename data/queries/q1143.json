@@ -1,0 +1,1 @@
+{"QuestionId":"q1143","Parse":{"TopicEntityName":"Larry J  Franco ","TopicEntityMid":"<http://dbpedia.org/resource/Larry_J._Franco>","InferentialChain":["give","count","movies","producer","larry","j","","franco"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"14","EntityName":""}]}}

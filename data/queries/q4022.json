@@ -1,0 +1,1 @@
+{"QuestionId":"q4022","Parse":{"TopicEntityName":"Tandem Computers ","TopicEntityMid":"<http://dbpedia.org/resource/Tandem_Computers>","InferentialChain":["tandem","computers","subsidiary","company"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Compaq>","EntityName":"Compaq"}]}}

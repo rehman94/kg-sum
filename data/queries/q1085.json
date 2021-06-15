@@ -1,0 +1,1 @@
+{"QuestionId":"q1085","Parse":{"TopicEntityName":"Bangkok ","TopicEntityMid":"<http://dbpedia.org/resource/Bangkok>","InferentialChain":["residence","the","governor","of","bangkok"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Bangkok>","EntityName":"Bangkok"}]}}

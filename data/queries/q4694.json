@@ -1,0 +1,1 @@
+{"QuestionId":"q4694","Parse":{"TopicEntityName":"Massachusetts ","TopicEntityMid":"<http://dbpedia.org/resource/Massachusetts>","InferentialChain":["television","show","based","massachusetts","opening","theme",""],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Cheers>","EntityName":"Cheers"}]}}

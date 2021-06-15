@@ -1,0 +1,1 @@
+{"QuestionId":"q1694","Parse":{"TopicEntityName":"Stephen Law ","TopicEntityMid":"<http://dbpedia.org/resource/Stephen_Law>","InferentialChain":["academic","journal","editor","is","stephen","law"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Think_(journal)>","EntityName":"Think "}]}}

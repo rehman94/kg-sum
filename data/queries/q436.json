@@ -1,0 +1,1 @@
+{"QuestionId":"q436","Parse":{"TopicEntityName":"Julius Caesar ","TopicEntityMid":"<http://dbpedia.org/resource/Julius_Caesar>","InferentialChain":["successor","kingship","parents","julius","caesar"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Tiberius>","EntityName":"Tiberius"}]}}

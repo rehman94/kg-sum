@@ -1,0 +1,1 @@
+{"QuestionId":"q2020","Parse":{"TopicEntityName":"Udit Raj ","TopicEntityMid":"<http://dbpedia.org/resource/Udit_Raj>","InferentialChain":["religion","anupong","paochinda","udit","raj","follow"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Buddhism>","EntityName":"Buddhism"}]}}

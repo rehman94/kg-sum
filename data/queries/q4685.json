@@ -1,0 +1,1 @@
+{"QuestionId":"q4685","Parse":{"TopicEntityName":"Perianne Jones ","TopicEntityMid":"<http://dbpedia.org/resource/Perianne_Jones>","InferentialChain":["club","perianne","jones"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Ottawa>","EntityName":"Ottawa"}]}}

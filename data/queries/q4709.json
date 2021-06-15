@@ -1,0 +1,1 @@
+{"QuestionId":"q4709","Parse":{"TopicEntityName":"William L  Dayton ","TopicEntityMid":"<http://dbpedia.org/resource/William_L._Dayton>","InferentialChain":["appointed","william","l","","dayton"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Abraham_Lincoln>","EntityName":"Abraham Lincoln"}]}}

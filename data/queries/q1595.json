@@ -1,0 +1,1 @@
+{"QuestionId":"q1595","Parse":{"TopicEntityName":"Mohamedia  Tunisia ","TopicEntityMid":"<http://dbpedia.org/resource/Mohamedia,_Tunisia>","InferentialChain":["state","the","settlement","","is","the","assembly","of","mohamedia","","tunisia"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Tunisia>","EntityName":"Tunisia"}]}}

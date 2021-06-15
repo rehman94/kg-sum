@@ -1,0 +1,1 @@
+{"QuestionId":"q2543","Parse":{"TopicEntityName":"Harriman  New York ","TopicEntityMid":"<http://dbpedia.org/resource/Harriman,_New_York>","InferentialChain":["musician","born","harriman","","ny"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Jermaine_Paul>","EntityName":"Jermaine Paul"}]}}

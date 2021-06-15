@@ -1,0 +1,1 @@
+{"QuestionId":"q2776","Parse":{"TopicEntityName":"Convent of the Barefoot Trinitarians ","TopicEntityMid":"<http://dbpedia.org/resource/Convent_of_the_Barefoot_Trinitarians>","InferentialChain":["count","books","written","author","buried","the","convent","barefoot","trinitarians"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"4","EntityName":""}]}}

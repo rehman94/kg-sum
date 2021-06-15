@@ -1,0 +1,1 @@
+{"QuestionId":"q2807","Parse":{"TopicEntityName":"Julius C  Burrows ","TopicEntityMid":"<http://dbpedia.org/resource/Julius_C._Burrows>","InferentialChain":["rank","julius","c","","burrows","politically"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/United_States_Senate>","EntityName":"United States Senate"}]}}

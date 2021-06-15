@@ -1,0 +1,1 @@
+{"QuestionId":"q4902","Parse":{"TopicEntityName":"FedExField ","TopicEntityMid":"<http://dbpedia.org/resource/FedExField>","InferentialChain":["operated","fedexfield"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Washington_Redskins>","EntityName":"Washington Redskins"}]}}

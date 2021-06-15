@@ -1,0 +1,1 @@
+{"QuestionId":"q3922","Parse":{"TopicEntityName":"Opel Karl ","TopicEntityMid":"<http://dbpedia.org/resource/Opel_Karl>","InferentialChain":["company","manufactures","cars","opel","karl"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/General_Motors>","EntityName":"General Motors"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q4871","Parse":{"TopicEntityName":"Taekwondo ","TopicEntityMid":"<http://dbpedia.org/resource/Taekwondo>","InferentialChain":["count","number","sports","played","university","plays","taekwondo"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"15","EntityName":""}]}}

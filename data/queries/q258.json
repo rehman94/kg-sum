@@ -1,0 +1,1 @@
+{"QuestionId":"q258","Parse":{"TopicEntityName":"Edwin Catmull ","TopicEntityMid":"<http://dbpedia.org/resource/Edwin_Catmull>","InferentialChain":["company","the","product","pixar","image","computer","one","of","the","key","person","edwin","catmull"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Pixar>","EntityName":"Pixar"}]}}

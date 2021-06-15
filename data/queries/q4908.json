@@ -1,0 +1,1 @@
+{"QuestionId":"q4908","Parse":{"TopicEntityName":"Doonesbury  musical  ","TopicEntityMid":"<http://dbpedia.org/resource/Doonesbury_(musical)>","InferentialChain":["gave","lyrcis","doonesbury"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Garry_Trudeau>","EntityName":"Garry Trudeau"}]}}

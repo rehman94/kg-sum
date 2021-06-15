@@ -1,0 +1,1 @@
+{"QuestionId":"q2196","Parse":{"TopicEntityName":"SCOLA  TV service  ","TopicEntityMid":"<http://dbpedia.org/resource/SCOLA_(TV_service)>","InferentialChain":["cities","stations","scola"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Miami>","EntityName":"Miami"}]}}

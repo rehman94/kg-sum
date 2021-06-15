@@ -1,0 +1,1 @@
+{"QuestionId":"q120","Parse":{"TopicEntityName":"Fort Heath radar station ","TopicEntityMid":"<http://dbpedia.org/resource/Fort_Heath_radar_station>","InferentialChain":["district","fort","heath","radar","station"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Massachusetts>","EntityName":"Massachusetts"}]}}

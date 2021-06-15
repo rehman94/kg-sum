@@ -1,0 +1,1 @@
+{"QuestionId":"q327","Parse":{"TopicEntityName":"Red Ahead ","TopicEntityMid":"<http://dbpedia.org/resource/Red_Ahead>","InferentialChain":["headquarters","the","public","transit","system","is","the","section","of","red","ahead"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Chicago>","EntityName":"Chicago"}]}}

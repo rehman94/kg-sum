@@ -1,0 +1,1 @@
+{"QuestionId":"q2230","Parse":{"TopicEntityName":"North Western Province  Zambia ","TopicEntityMid":"<http://dbpedia.org/resource/North-Western_Province,_Zambia>","InferentialChain":["river","origin","is","north","western","province","","zambia"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Zambezi>","EntityName":"Zambezi"}]}}

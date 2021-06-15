@@ -1,0 +1,1 @@
+{"QuestionId":"q1814","Parse":{"TopicEntityName":"Neil Gaiman ","TopicEntityMid":"<http://dbpedia.org/resource/Neil_Gaiman>","InferentialChain":["writer","famous","works","written","neil","gaiman"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Neil_Gaiman>","EntityName":"Neil Gaiman"}]}}

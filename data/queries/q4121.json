@@ -1,0 +1,1 @@
+{"QuestionId":"q4121","Parse":{"TopicEntityName":"New Sanno Hotel ","TopicEntityMid":"<http://dbpedia.org/resource/New_Sanno_Hotel>","InferentialChain":["organisation","regulates","controls","sanno","hotel"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/United_States_Navy>","EntityName":"United States Navy"}]}}

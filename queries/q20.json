@@ -1,0 +1,20 @@
+ {
+      "QuestionId": "WebQTrn-11",
+      "Parse": {
+       
+          "TopicEntityName": "Cleveland",
+          "TopicEntityMid": "m.01sn3",
+          "InferentialChain": [
+            "location.location.time_zones"
+          ],
+          "Constraints": [],
+          "Answers": [
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.02hcv8",
+              "EntityName": "Eastern Time Zone"
+            }
+          ]
+        }
+      
+    }

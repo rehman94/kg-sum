@@ -1,0 +1,1 @@
+{"QuestionId":"q979","Parse":{"TopicEntityName":"Mike Shinoda ","TopicEntityMid":"<http://dbpedia.org/resource/Mike_Shinoda>","InferentialChain":["mike","shinoda","band"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Linkin_Park>","EntityName":"Linkin Park"}]}}

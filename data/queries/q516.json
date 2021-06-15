@@ -1,0 +1,1 @@
+{"QuestionId":"q516","Parse":{"TopicEntityName":"Tiny Tower ","TopicEntityMid":"<http://dbpedia.org/resource/Tiny_Tower>","InferentialChain":["company","developed","mac","os","9","brought","tiny","tower","market"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Apple_Inc.>","EntityName":"Apple Inc."}]}}

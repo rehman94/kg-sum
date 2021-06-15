@@ -1,0 +1,1 @@
+{"QuestionId":"q1174","Parse":{"TopicEntityName":"Pioneer Corporation ","TopicEntityMid":"<http://dbpedia.org/resource/Pioneer_Corporation>","InferentialChain":["nation","the","major","stars","season","1","pioneer","corporation"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Malaysia>","EntityName":"Malaysia"}]}}

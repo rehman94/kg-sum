@@ -1,0 +1,1 @@
+{"QuestionId":"q4761","Parse":{"TopicEntityName":"The Chess Monthly ","TopicEntityMid":"<http://dbpedia.org/resource/The_Chess_Monthly>","InferentialChain":["discipline","chess","monthly"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Chess>","EntityName":"Chess"}]}}

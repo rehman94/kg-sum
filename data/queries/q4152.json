@@ -1,0 +1,1 @@
+{"QuestionId":"q4152","Parse":{"TopicEntityName":"Herbert Bautista ","TopicEntityMid":"<http://dbpedia.org/resource/Herbert_Bautista>","InferentialChain":["mascot","the","military","unit","commander","is","herbert","bautista"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Lion>","EntityName":"Lion"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q4078","Parse":{"TopicEntityName":"Bertalan Szemere ","TopicEntityMid":"<http://dbpedia.org/resource/Bertalan_Szemere>","InferentialChain":["monarch","bertalan","szemere"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Lajos_Kossuth>","EntityName":"Lajos Kossuth"}]}}

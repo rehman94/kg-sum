@@ -1,0 +1,1 @@
+{"QuestionId":"q1244","Parse":{"TopicEntityName":"Pontiac Building ","TopicEntityMid":"<http://dbpedia.org/resource/Pontiac_Building>","InferentialChain":["style","architecture","of","pontiac","building"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Chicago>","EntityName":"Chicago"}]}}

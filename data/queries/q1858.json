@@ -1,0 +1,1 @@
+{"QuestionId":"q1858","Parse":{"TopicEntityName":"Advanced Micro Devices ","TopicEntityMid":"<http://dbpedia.org/resource/Advanced_Micro_Devices>","InferentialChain":["device","successor","s","cpu","is","amd"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/PlayStation_3>","EntityName":"PlayStation 3"}]}}

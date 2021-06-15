@@ -1,0 +1,1 @@
+{"QuestionId":"q2706","Parse":{"TopicEntityName":"Meg McGuffin ","TopicEntityMid":"<http://dbpedia.org/resource/Meg_McGuffin>","InferentialChain":["meg","mcguffin","graduated"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Auburn_University>","EntityName":"Auburn University"}]}}

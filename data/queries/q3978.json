@@ -1,0 +1,1 @@
+{"QuestionId":"q3978","Parse":{"TopicEntityName":"Stella Kowalski ","TopicEntityMid":"<http://dbpedia.org/resource/Stella_Kowalski>","InferentialChain":["wrote","play","character","called","stella","kowalski","exists"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Tennessee_Williams>","EntityName":"Tennessee Williams"}]}}

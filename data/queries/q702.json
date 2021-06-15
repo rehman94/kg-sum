@@ -1,0 +1,1 @@
+{"QuestionId":"q702","Parse":{"TopicEntityName":"INKAS ","TopicEntityMid":"<http://dbpedia.org/resource/INKAS>","InferentialChain":["inkas","located","state","origin","jojo","chintoh"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Ghana>","EntityName":"Ghana"}]}}

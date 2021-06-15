@@ -1,0 +1,1 @@
+{"QuestionId":"q2499","Parse":{"TopicEntityName":"I Love How You Love Me ","TopicEntityMid":"<http://dbpedia.org/resource/I_Love_How_You_Love_Me>","InferentialChain":["language","love","love"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Slovakia>","EntityName":"Slovakia"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q2864","Parse":{"TopicEntityName":"Breeders  Cup Turf ","TopicEntityMid":"<http://dbpedia.org/resource/Breeders'_Cup_Turf>","InferentialChain":["places","participants","breeders","s","cup","turf"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"32","EntityName":""}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q4236","Parse":{"TopicEntityName":"Nothing in Common ","TopicEntityMid":"<http://dbpedia.org/resource/Nothing_in_Common>","InferentialChain":["starred","in","common","produced","earth","the","moon"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Tom_Hanks>","EntityName":"Tom Hanks"}]}}

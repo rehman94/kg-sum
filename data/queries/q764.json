@@ -1,0 +1,1 @@
+{"QuestionId":"q764","Parse":{"TopicEntityName":"Larry David ","TopicEntityMid":"<http://dbpedia.org/resource/Larry_David>","InferentialChain":["shows","made","larry","david"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"2","EntityName":""}]}}

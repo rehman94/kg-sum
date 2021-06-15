@@ -1,0 +1,1 @@
+{"QuestionId":"q818","Parse":{"TopicEntityName":"Zabbaleen ","TopicEntityMid":"<http://dbpedia.org/resource/Zabbaleen>","InferentialChain":["languages","zabbaleen"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Egyptian_Arabic>","EntityName":"Egyptian Arabic"}]}}

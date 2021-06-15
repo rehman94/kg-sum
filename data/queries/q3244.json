@@ -1,0 +1,1 @@
+{"QuestionId":"q3244","Parse":{"TopicEntityName":"Brian Dunkleman ","TopicEntityMid":"<http://dbpedia.org/resource/Brian_Dunkleman>","InferentialChain":["sitcom","broadcasted","fox","presented","by","brian","dunkleman"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/American_Idol>","EntityName":"American Idol"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q652","Parse":{"TopicEntityName":"West Berkshire Council ","TopicEntityMid":"<http://dbpedia.org/resource/West_Berkshire_Council>","InferentialChain":["count","number","schools","city","governed","the","west","berkshire","council"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"28","EntityName":""}]}}

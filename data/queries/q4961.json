@@ -1,0 +1,1 @@
+{"QuestionId":"q4961","Parse":{"TopicEntityName":"Ennejma Ezzahra ","TopicEntityMid":"<http://dbpedia.org/resource/Ennejma_Ezzahra>","InferentialChain":["location","country","ennejma","ezzahra","origin","of","boga"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Tunisia>","EntityName":"Tunisia"}]}}

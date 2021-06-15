@@ -1,0 +1,1 @@
+{"QuestionId":"q2337","Parse":{"TopicEntityName":"Dennis Muilenburg ","TopicEntityMid":"<http://dbpedia.org/resource/Dennis_Muilenburg>","InferentialChain":["companies","dennis","muilenburg","important"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Boeing>","EntityName":"Boeing"}]}}

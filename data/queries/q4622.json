@@ -1,0 +1,1 @@
+{"QuestionId":"q4622","Parse":{"TopicEntityName":"Mozambique ","TopicEntityMid":"<http://dbpedia.org/resource/Mozambique>","InferentialChain":["river","s","source","country","zambia","mouth","country","is","mozambique"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Zambezi>","EntityName":"Zambezi"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q3214","Parse":{"TopicEntityName":"Dick Spalding ","TopicEntityMid":"<http://dbpedia.org/resource/Dick_Spalding>","InferentialChain":["harry","huston","dick","spalding","played","match","team"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Philadelphia_Phillies>","EntityName":"Philadelphia Phillies"}]}}

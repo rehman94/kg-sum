@@ -1,0 +1,1 @@
+{"QuestionId":"q2827","Parse":{"TopicEntityName":"Vuelta Mexico Telmex ","TopicEntityMid":"<http://dbpedia.org/resource/Vuelta_Mexico_Telmex>","InferentialChain":["part","world","find","kim","sawchuk","vuelta","mexico","telmex"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/North_America>","EntityName":"North America"}]}}

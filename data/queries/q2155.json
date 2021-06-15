@@ -1,0 +1,1 @@
+{"QuestionId":"q2155","Parse":{"TopicEntityName":"Danish straits ","TopicEntityMid":"<http://dbpedia.org/resource/Danish_straits>","InferentialChain":["sea","inflow","kemijoki","outflow","is","danish","straits"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Baltic_Sea>","EntityName":"Baltic Sea"}]}}

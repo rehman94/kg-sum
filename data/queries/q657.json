@@ -1,0 +1,1 @@
+{"QuestionId":"q657","Parse":{"TopicEntityName":"Tony Bennett ","TopicEntityMid":"<http://dbpedia.org/resource/Tony_Bennett>","InferentialChain":["person","child","performed","tony","bennett"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Ella_Fitzgerald>","EntityName":"Ella Fitzgerald"}]}}

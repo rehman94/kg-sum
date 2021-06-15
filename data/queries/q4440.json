@@ -1,0 +1,1 @@
+{"QuestionId":"q4440","Parse":{"TopicEntityName":"Truth prevails ","TopicEntityMid":"<http://dbpedia.org/resource/Truth_prevails>","InferentialChain":["country","s","national","motto","","truth","prevails"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Czechoslovakia>","EntityName":"Czechoslovakia"}]}}

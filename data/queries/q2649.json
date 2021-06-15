@@ -1,0 +1,1 @@
+{"QuestionId":"q2649","Parse":{"TopicEntityName":"Craig Van Tilbury ","TopicEntityMid":"<http://dbpedia.org/resource/Craig_Van_Tilbury>","InferentialChain":["sport","eric","schiller","","employes","craig","van","tibury"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Chess>","EntityName":"Chess"}]}}

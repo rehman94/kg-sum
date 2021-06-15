@@ -1,0 +1,31 @@
+{
+      "QuestionId": "WebQTrn-2863",
+      "Parse": 
+        {
+  
+          "TopicEntityName": "Bahamas",
+          "TopicEntityMid": "m.0160w",
+          "InferentialChain": [
+            "location.country.form_of_government"
+          ],
+          "Constraints": [],
+          "Answers": [
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.018wl5",
+              "EntityName": "Parliamentary system"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.01fpfn",
+              "EntityName": "Unitary state"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.01q20",
+              "EntityName": "Constitutional monarchy"
+            }
+          ]
+        }
+      
+    }

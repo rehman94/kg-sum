@@ -1,0 +1,1 @@
+{"QuestionId":"q4970","Parse":{"TopicEntityName":"Israel ","TopicEntityMid":"<http://dbpedia.org/resource/Israel>","InferentialChain":["military","conflict","commander","colin","powell","place","israel"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Gulf_War>","EntityName":"Gulf War"}]}}

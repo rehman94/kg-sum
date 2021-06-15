@@ -1,0 +1,1 @@
+{"QuestionId":"q1465","Parse":{"TopicEntityName":"Aubie ","TopicEntityMid":"<http://dbpedia.org/resource/Aubie>","InferentialChain":["sports","team","aubie","mascot"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Auburn_Tigers>","EntityName":"Auburn Tigers"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q1991","Parse":{"TopicEntityName":"James Hartness ","TopicEntityMid":"<http://dbpedia.org/resource/James_Hartness>","InferentialChain":["relatives","james","hartness","do"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/United_States_Senate>","EntityName":"United States Senate"}]}}

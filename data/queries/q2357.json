@@ -1,0 +1,1 @@
+{"QuestionId":"q2357","Parse":{"TopicEntityName":"Ethiopian Parliament Building ","TopicEntityMid":"<http://dbpedia.org/resource/Ethiopian_Parliament_Building>","InferentialChain":["ethiopian","parliament","building","located"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Ethiopia>","EntityName":"Ethiopia"}]}}

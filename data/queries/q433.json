@@ -1,0 +1,1 @@
+{"QuestionId":"q433","Parse":{"TopicEntityName":"Colonel  United States  ","TopicEntityMid":"<http://dbpedia.org/resource/Colonel_(United_States)>","InferentialChain":["list","colonel","branch","militia"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/James_Madison>","EntityName":"James Madison"}]}}

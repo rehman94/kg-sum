@@ -1,0 +1,1 @@
+{"QuestionId":"q847","Parse":{"TopicEntityName":"Doctor Mirabilis  novel  ","TopicEntityMid":"<http://dbpedia.org/resource/Doctor_Mirabilis_(novel)>","InferentialChain":["cover","artist","doctor","mirabilis",""],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Roger_Bacon>","EntityName":"Roger Bacon"}]}}

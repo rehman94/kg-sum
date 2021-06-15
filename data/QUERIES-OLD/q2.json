@@ -1,0 +1,20 @@
+{
+	"QuestionId": "WebQTest-2",
+	"RawQuestion": "Who was the wife of U.S. president Lincoln?",
+	"ProcessedQuestion": "Who was the wife of U.S. president Lincoln?",
+	"Parse": {
+		
+		"PotentialTopicEntityMention": "U.S. president, Lincoln, wife",
+		"TopicEntityName": "U.S. president Lincoln",  
+		"TopicEntityMid": "<http://dbpedia.org/resource/Abraham_Lincoln>",
+		"InferentialChain": ["Abraham_Lincoln.spouse"],
+		"Constraints": [],
+		"Time": null,
+		"Order": null,
+		"Answers": [{
+			"AnswerType": "Entity",
+			"AnswerArgument": "m.01ypl0",
+			"EntityName": "U.S. president Lincoln"
+		}]
+	}
+}

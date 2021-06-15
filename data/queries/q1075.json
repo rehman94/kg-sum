@@ -1,0 +1,1 @@
+{"QuestionId":"q1075","Parse":{"TopicEntityName":"Boga  soft drink  ","TopicEntityMid":"<http://dbpedia.org/resource/Boga_(soft_drink)>","InferentialChain":["boga","originate"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Tunisia>","EntityName":"Tunisia"}]}}

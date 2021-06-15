@@ -1,0 +1,1 @@
+{"QuestionId":"q1977","Parse":{"TopicEntityName":"Zarqa River ","TopicEntityMid":"<http://dbpedia.org/resource/Zarqa_River>","InferentialChain":["river","tributary","is","zarqa","river"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Jordan_River>","EntityName":"Jordan River"}]}}

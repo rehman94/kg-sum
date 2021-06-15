@@ -1,0 +1,1 @@
+{"QuestionId":"q3622","Parse":{"TopicEntityName":"Vitis vinifera ","TopicEntityMid":"<http://dbpedia.org/resource/Vitis_vinifera>","InferentialChain":["places","find","wine","made","vitis","vinifera","grapes"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"298","EntityName":""}]}}

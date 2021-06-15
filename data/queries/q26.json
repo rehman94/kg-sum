@@ -1,0 +1,1 @@
+{"QuestionId":"q26","Parse":{"TopicEntityName":"Rishikesh ","TopicEntityMid":"<http://dbpedia.org/resource/Rishikesh>","InferentialChain":["politician","ruling","rishkiesh"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Indian_National_Congress>","EntityName":"Indian National Congress"}]}}

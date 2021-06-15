@@ -1,0 +1,1 @@
+{"QuestionId":"q1340","Parse":{"TopicEntityName":"The CW ","TopicEntityMid":"<http://dbpedia.org/resource/The_CW>","InferentialChain":["give","count","owned","network","sister","the","cw"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"156","EntityName":""}]}}

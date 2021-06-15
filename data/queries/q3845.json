@@ -1,0 +1,1 @@
+{"QuestionId":"q3845","Parse":{"TopicEntityName":"Louis Dunbar ","TopicEntityMid":"<http://dbpedia.org/resource/Louis_Dunbar>","InferentialChain":["louis","dunbar","coach","basketball","team"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Harlem_Globetrotters>","EntityName":"Harlem Globetrotters"}]}}

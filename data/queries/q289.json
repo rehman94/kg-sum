@@ -1,0 +1,1 @@
+{"QuestionId":"q289","Parse":{"TopicEntityName":"Catwoman ","TopicEntityMid":"<http://dbpedia.org/resource/Catwoman>","InferentialChain":["count","number","characters","of","the","play","of","the","character","catwoman"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"12","EntityName":""}]}}

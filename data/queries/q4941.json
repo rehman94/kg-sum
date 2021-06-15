@@ -1,0 +1,1 @@
+{"QuestionId":"q4941","Parse":{"TopicEntityName":"The Bleeding Heart Band ","TopicEntityMid":"<http://dbpedia.org/resource/The_Bleeding_Heart_Band>","InferentialChain":["band","members","bleeding","heart","band"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Pink_Floyd>","EntityName":"Pink Floyd"}]}}

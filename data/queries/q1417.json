@@ -1,0 +1,1 @@
+{"QuestionId":"q1417","Parse":{"TopicEntityName":"Barbara Ann Crancer ","TopicEntityMid":"<http://dbpedia.org/resource/Barbara_Ann_Crancer>","InferentialChain":["father","barbara","ann","crancer"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Jimmy_Hoffa>","EntityName":"Jimmy Hoffa"}]}}

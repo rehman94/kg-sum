@@ -1,0 +1,1 @@
+{"QuestionId":"q1921","Parse":{"TopicEntityName":"Riverside Stadium ","TopicEntityMid":"<http://dbpedia.org/resource/Riverside_Stadium>","InferentialChain":["people","managed","club","owns","riverside","stadium"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"33","EntityName":""}]}}

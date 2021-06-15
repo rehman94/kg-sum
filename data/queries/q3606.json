@@ -1,0 +1,1 @@
+{"QuestionId":"q3606","Parse":{"TopicEntityName":"B  J  Crombeen ","TopicEntityMid":"<http://dbpedia.org/resource/B._J._Crombeen>","InferentialChain":["state","brideun","school","exception","children","birthplace","b","j","crombeen"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Colorado>","EntityName":"Colorado"}]}}

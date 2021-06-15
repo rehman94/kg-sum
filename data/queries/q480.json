@@ -1,0 +1,1 @@
+{"QuestionId":"q480","Parse":{"TopicEntityName":"John Fanning  businessman  ","TopicEntityMid":"<http://dbpedia.org/resource/John_Fanning_(businessman)>","InferentialChain":["software","developed","john","fanning"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Napster>","EntityName":"Napster"}]}}

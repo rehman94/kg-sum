@@ -1,0 +1,1 @@
+{"QuestionId":"q880","Parse":{"TopicEntityName":"GNU General Public License ","TopicEntityMid":"<http://dbpedia.org/resource/GNU_General_Public_License>","InferentialChain":["kinds","softwares","released","gpl","license"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"1831","EntityName":""}]}}

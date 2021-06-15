@@ -1,0 +1,1 @@
+{"QuestionId":"q4926","Parse":{"TopicEntityName":"Krista Kelly ","TopicEntityMid":"<http://dbpedia.org/resource/Krista_Kelly>","InferentialChain":["municipality","brown","s","corners","","toronto","place","of","birth","of","krista","kelly"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Toronto>","EntityName":"Toronto"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q4073","Parse":{"TopicEntityName":"John Spencer  Scottish footballer  ","TopicEntityMid":"<http://dbpedia.org/resource/John_Spencer_(Scottish_footballer)>","InferentialChain":["give","number","home","stadiums","of","teams","managed","john","spencer"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"8","EntityName":""}]}}

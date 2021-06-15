@@ -1,0 +1,1 @@
+{"QuestionId":"q2564","Parse":{"TopicEntityName":"Letitia MacTavish Hargrave ","TopicEntityMid":"<http://dbpedia.org/resource/Letitia_MacTavish_Hargrave>","InferentialChain":["letitia","mactavish","hargrave","died"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Cholera>","EntityName":"Cholera"}]}}

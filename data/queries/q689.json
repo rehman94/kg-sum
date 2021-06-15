@@ -1,0 +1,1 @@
+{"QuestionId":"q689","Parse":{"TopicEntityName":"Arsenal Cider House ","TopicEntityMid":"<http://dbpedia.org/resource/Arsenal_Cider_House>","InferentialChain":["city","arsenal","cider","house","","","located"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Pittsburgh>","EntityName":"Pittsburgh"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q4963","Parse":{"TopicEntityName":"Maryanne Trump Barry ","TopicEntityMid":"<http://dbpedia.org/resource/Maryanne_Trump_Barry>","InferentialChain":["actor","le","cirque","relative","of","maryanne","trump","barry"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Donald_Trump>","EntityName":"Donald Trump"}]}}

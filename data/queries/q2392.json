@@ -1,0 +1,1 @@
+{"QuestionId":"q2392","Parse":{"TopicEntityName":"Mediolanum ","TopicEntityMid":"<http://dbpedia.org/resource/Mediolanum>","InferentialChain":["country","county","seats","history","trier","mediolanum"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Roman_Empire>","EntityName":"Roman Empire"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q1751","Parse":{"TopicEntityName":"Elliott Bay ","TopicEntityMid":"<http://dbpedia.org/resource/Elliott_Bay>","InferentialChain":["nearest","city","elliott","bay"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Seattle>","EntityName":"Seattle"}]}}

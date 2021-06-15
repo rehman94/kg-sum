@@ -1,0 +1,1 @@
+{"QuestionId":"q1283","Parse":{"TopicEntityName":"Hugh Hefner ","TopicEntityMid":"<http://dbpedia.org/resource/Hugh_Hefner>","InferentialChain":["hugh","hefner","editor","magazine"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Playboy>","EntityName":"Playboy"}]}}

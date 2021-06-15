@@ -1,0 +1,1 @@
+{"QuestionId":"q3254","Parse":{"TopicEntityName":"Franz von Papen ","TopicEntityMid":"<http://dbpedia.org/resource/Franz_von_Papen>","InferentialChain":["deputy","franz","von","papen"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Adolf_Hitler>","EntityName":"Adolf Hitler"}]}}

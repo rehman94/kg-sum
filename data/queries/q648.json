@@ -1,0 +1,1 @@
+{"QuestionId":"q648","Parse":{"TopicEntityName":"Caspian Sea ","TopicEntityMid":"<http://dbpedia.org/resource/Caspian_Sea>","InferentialChain":["countries","rivers","start","end","the","caspian","sea"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"15","EntityName":""}]}}

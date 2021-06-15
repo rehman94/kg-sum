@@ -1,0 +1,1 @@
+{"QuestionId":"q4266","Parse":{"TopicEntityName":"Nintendo Network ","TopicEntityMid":"<http://dbpedia.org/resource/Nintendo_Network>","InferentialChain":["services","nintendo","eshop","nintendo","network"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Nintendo>","EntityName":"Nintendo"}]}}

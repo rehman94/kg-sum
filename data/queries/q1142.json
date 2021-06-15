@@ -1,0 +1,1 @@
+{"QuestionId":"q1142","Parse":{"TopicEntityName":"Greeks ","TopicEntityMid":"<http://dbpedia.org/resource/Greeks>","InferentialChain":["greek","writers","won","award"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Nobel_Prize>","EntityName":"Nobel Prize"}]}}

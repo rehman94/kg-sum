@@ -1,0 +1,1 @@
+{"QuestionId":"q1464","Parse":{"TopicEntityName":"Rainbow Warrior  1955  ","TopicEntityMid":"<http://dbpedia.org/resource/Rainbow_Warrior_(1955)>","InferentialChain":["operator","rainbow","warrior","","1955"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Greenpeace>","EntityName":"Greenpeace"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q4037","Parse":{"TopicEntityName":"Cam Plante ","TopicEntityMid":"<http://dbpedia.org/resource/Cam_Plante>","InferentialChain":["cam","plante","plays"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Toronto_Maple_Leafs>","EntityName":"Toronto Maple Leafs"}]}}

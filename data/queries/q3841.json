@@ -1,0 +1,1 @@
+{"QuestionId":"q3841","Parse":{"TopicEntityName":"Maharashtra Chess Association ","TopicEntityMid":"<http://dbpedia.org/resource/Maharashtra_Chess_Association>","InferentialChain":["purpose","maharashtra","chess","association"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Chess>","EntityName":"Chess"}]}}

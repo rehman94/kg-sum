@@ -1,0 +1,1 @@
+{"QuestionId":"q3629","Parse":{"TopicEntityName":"Human ","TopicEntityMid":"<http://dbpedia.org/resource/Human>","InferentialChain":["fictional","character","relative","uncle","henry","species","is","human"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Dorothy_Gale>","EntityName":"Dorothy Gale"}]}}

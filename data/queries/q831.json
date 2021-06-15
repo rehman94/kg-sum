@@ -1,0 +1,1 @@
+{"QuestionId":"q831","Parse":{"TopicEntityName":"William Menelaus ","TopicEntityMid":"<http://dbpedia.org/resource/William_Menelaus>","InferentialChain":["spouse","willian","menalaus"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Cholera>","EntityName":"Cholera"}]}}

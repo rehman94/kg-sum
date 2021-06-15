@@ -1,0 +1,1 @@
+{"QuestionId":"q4920","Parse":{"TopicEntityName":"Phil Lumpkin ","TopicEntityMid":"<http://dbpedia.org/resource/Phil_Lumpkin>","InferentialChain":["county","seat","king","county","","washington","place","of","death","of","the","phil","lumpkin"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Seattle>","EntityName":"Seattle"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q4575","Parse":{"TopicEntityName":"John Scott Harrison ","TopicEntityMid":"<http://dbpedia.org/resource/John_Scott_Harrison>","InferentialChain":["governor","charles","child","named","john","scott"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/William_Henry_Harrison>","EntityName":"William Henry Harrison"}]}}

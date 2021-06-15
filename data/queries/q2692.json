@@ -1,0 +1,1 @@
+{"QuestionId":"q2692","Parse":{"TopicEntityName":"WEPG ","TopicEntityMid":"<http://dbpedia.org/resource/WEPG>","InferentialChain":["continent","world","baja","california","peninsula","has","wepg","of","s","cities"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/North_America>","EntityName":"North America"}]}}

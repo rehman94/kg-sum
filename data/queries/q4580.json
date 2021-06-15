@@ -1,0 +1,1 @@
+{"QuestionId":"q4580","Parse":{"TopicEntityName":"Rheinmetall MG 60 ","TopicEntityMid":"<http://dbpedia.org/resource/Rheinmetall_MG_60>","InferentialChain":["rheinmetall","mg","60","originated"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/West_Germany>","EntityName":"West Germany"}]}}

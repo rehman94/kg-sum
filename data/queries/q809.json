@@ -1,0 +1,1 @@
+{"QuestionId":"q809","Parse":{"TopicEntityName":"Shays  Rebellion ","TopicEntityMid":"<http://dbpedia.org/resource/Shays'_Rebellion>","InferentialChain":["president","","governor","participated","shay","s","rebellion"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/James_Madison>","EntityName":"James Madison"}]}}

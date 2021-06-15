@@ -1,0 +1,1 @@
+{"QuestionId":"q3351","Parse":{"TopicEntityName":"Mavro ","TopicEntityMid":"<http://dbpedia.org/resource/Mavro>","InferentialChain":["part","world","find","xynisteri","mavro"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Cyprus>","EntityName":"Cyprus"}]}}

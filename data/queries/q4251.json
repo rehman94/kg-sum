@@ -1,0 +1,1 @@
+{"QuestionId":"q4251","Parse":{"TopicEntityName":"Shawnee ","TopicEntityMid":"<http://dbpedia.org/resource/Shawnee>","InferentialChain":["list","shawnee","people"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Tecumseh>","EntityName":"Tecumseh"}]}}

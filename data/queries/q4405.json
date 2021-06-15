@@ -1,0 +1,1 @@
+{"QuestionId":"q4405","Parse":{"TopicEntityName":"Levi Lincoln  Sr  ","TopicEntityMid":"<http://dbpedia.org/resource/Levi_Lincoln,_Sr.>","InferentialChain":["sucessor","george","madison","sucessor","of","levi","lincoln","","sr"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/James_Madison>","EntityName":"James Madison"}]}}

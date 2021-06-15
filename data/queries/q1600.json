@@ -1,0 +1,1 @@
+{"QuestionId":"q1600","Parse":{"TopicEntityName":"Austin College ","TopicEntityMid":"<http://dbpedia.org/resource/Austin_College>","InferentialChain":["mascot","austin","college"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Kangaroo>","EntityName":"Kangaroo"}]}}

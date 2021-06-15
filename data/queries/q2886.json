@@ -1,0 +1,1 @@
+{"QuestionId":"q2886","Parse":{"TopicEntityName":"Kenya ","TopicEntityMid":"<http://dbpedia.org/resource/Kenya>","InferentialChain":["protected","area","nearest","city","is","kenya"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Kariandusi_prehistoric_site>","EntityName":"Kariandusi prehistoric site"}]}}

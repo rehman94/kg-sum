@@ -1,0 +1,1 @@
+{"QuestionId":"q1847","Parse":{"TopicEntityName":"Raymond E  Baldwin ","TopicEntityMid":"<http://dbpedia.org/resource/Raymond_E._Baldwin>","InferentialChain":["department","raymond","baldwin","work"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/United_States_Navy>","EntityName":"United States Navy"}]}}

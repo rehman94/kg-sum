@@ -1,0 +1,1 @@
+{"QuestionId":"q686","Parse":{"TopicEntityName":"Facebook Messenger ","TopicEntityMid":"<http://dbpedia.org/resource/Facebook_Messenger>","InferentialChain":["company","made","facebook","messenger","platform","words","gold","played"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Facebook>","EntityName":"Facebook"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q23","Parse":{"TopicEntityName":"Joe Jonas ","TopicEntityMid":"<http://dbpedia.org/resource/Joe_Jonas>","InferentialChain":["band","s","member","kevin","jonas","joe","jonas"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Jonas_Brothers>","EntityName":"Jonas Brothers"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q4616","Parse":{"TopicEntityName":"Euboea ","TopicEntityMid":"<http://dbpedia.org/resource/Euboea>","InferentialChain":["famous","philosopher","died","island","euboea"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Aristotle>","EntityName":"Aristotle"}]}}

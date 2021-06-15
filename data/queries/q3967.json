@@ -1,0 +1,1 @@
+{"QuestionId":"q3967","Parse":{"TopicEntityName":"Space Shuttle ","TopicEntityMid":"<http://dbpedia.org/resource/Space_Shuttle>","InferentialChain":["manufactured","delta","iii","the","space","shuttle"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Boeing>","EntityName":"Boeing"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q4387","Parse":{"TopicEntityName":"Pope John Paul II ","TopicEntityMid":"<http://dbpedia.org/resource/Pope_John_Paul_II>","InferentialChain":["places","people","canonized","john","paul","ii","died"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"77","EntityName":""}]}}

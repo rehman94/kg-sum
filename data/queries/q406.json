@@ -1,0 +1,1 @@
+{"QuestionId":"q406","Parse":{"TopicEntityName":"Long Island ","TopicEntityMid":"<http://dbpedia.org/resource/Long_Island>","InferentialChain":["famous","people","born","long","island"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"296","EntityName":""}]}}

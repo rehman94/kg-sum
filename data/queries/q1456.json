@@ -1,0 +1,1 @@
+{"QuestionId":"q1456","Parse":{"TopicEntityName":"Rolando Gomez ","TopicEntityMid":"<http://dbpedia.org/resource/Rolando_Gomez>","InferentialChain":["home","town","rolando","gomez"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/San_Antonio>","EntityName":"San Antonio"}]}}

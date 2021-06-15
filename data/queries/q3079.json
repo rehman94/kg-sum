@@ -1,0 +1,1 @@
+{"QuestionId":"q3079","Parse":{"TopicEntityName":"Firmicutes ","TopicEntityMid":"<http://dbpedia.org/resource/Firmicutes>","InferentialChain":["order","","taxonomy","","bacillales","division","firmicutes"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"60","EntityName":""}]}}

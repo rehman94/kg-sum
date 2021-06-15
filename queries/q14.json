@@ -1,0 +1,37 @@
+{
+      "QuestionId": "WebQTrn-6",
+      "Parse": 
+        {
+          "TopicEntityName": "Joakim Noah",
+          "TopicEntityMid": "m.0c2yrf",
+          "InferentialChain": [
+            "sports.pro_athlete.teams",
+            "sports.sports_team_roster.team"
+          ],
+          "Constraints": [
+            {
+              
+              "EntityName": "",
+              "SourceNodeIndex": 0,
+              "NodePredicate": "sports.sports_team_roster.from",
+              "ValueType": "DateTime"
+            },
+            {
+              
+              "EntityName": "",
+              "SourceNodeIndex": 0,
+              "NodePredicate": "sports.sports_team_roster.to",
+              "ValueType": "DateTime"
+            }
+          ],
+         
+          "Answers": [
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.0jm74",
+              "EntityName": "Chicago Bulls"
+            }
+          ]
+        }
+      
+    }

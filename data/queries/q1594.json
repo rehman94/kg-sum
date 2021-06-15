@@ -1,0 +1,1 @@
+{"QuestionId":"q1594","Parse":{"TopicEntityName":"David W  Brown House ","TopicEntityMid":"<http://dbpedia.org/resource/David_W._Brown_House>","InferentialChain":["city","closest","the","lodaiska","site","the","home","david","w","brown"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Colorado>","EntityName":"Colorado"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q3262","Parse":{"TopicEntityName":"Royal Society ","TopicEntityMid":"<http://dbpedia.org/resource/Royal_Society>","InferentialChain":["scientist","inventing","anthrax","member","royal","society"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Robert_Koch>","EntityName":"Robert Koch"}]}}

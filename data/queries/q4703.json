@@ -1,0 +1,1 @@
+{"QuestionId":"q4703","Parse":{"TopicEntityName":"Rev  drink  ","TopicEntityMid":"<http://dbpedia.org/resource/Rev_(drink)>","InferentialChain":["distributor","rev","","drink"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Bacardi>","EntityName":"Bacardi"}]}}

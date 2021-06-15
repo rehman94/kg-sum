@@ -1,0 +1,1 @@
+{"QuestionId":"q2741","Parse":{"TopicEntityName":"Brian Graden ","TopicEntityMid":"<http://dbpedia.org/resource/Brian_Graden>","InferentialChain":["tv","show","created","brian","graden"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/South_Park>","EntityName":"South Park"}]}}

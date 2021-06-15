@@ -1,0 +1,1 @@
+{"QuestionId":"q725","Parse":{"TopicEntityName":"Tiffany Villarreal ","TopicEntityMid":"<http://dbpedia.org/resource/Tiffany_Villarreal>","InferentialChain":["musician","tiffany","villarreal","wrote","song"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Tupac_Shakur>","EntityName":"Tupac Shakur"}]}}

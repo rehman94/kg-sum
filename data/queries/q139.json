@@ -1,0 +1,1 @@
+{"QuestionId":"q139","Parse":{"TopicEntityName":"Daniel O Regan ","TopicEntityMid":"<http://dbpedia.org/resource/Daniel_O'Regan>","InferentialChain":["nickname","daniel","o","regan"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Ronald_Reagan>","EntityName":"Ronald Reagan"}]}}

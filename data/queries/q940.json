@@ -1,0 +1,1 @@
+{"QuestionId":"q940","Parse":{"TopicEntityName":"Aarnoud van Heemstra ","TopicEntityMid":"<http://dbpedia.org/resource/Aarnoud_van_Heemstra>","InferentialChain":["famous","relative","aaround","van","heemstra"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Audrey_Hepburn>","EntityName":"Audrey Hepburn"}]}}

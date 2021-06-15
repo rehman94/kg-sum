@@ -1,0 +1,1 @@
+{"QuestionId":"q152","Parse":{"TopicEntityName":"Joe Hahn ","TopicEntityMid":"<http://dbpedia.org/resource/Joe_Hahn>","InferentialChain":["joe","hahn","member","band"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Linkin_Park>","EntityName":"Linkin Park"}]}}

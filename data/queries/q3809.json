@@ -1,0 +1,1 @@
+{"QuestionId":"q3809","Parse":{"TopicEntityName":"Lyubov Dostoyevskaya ","TopicEntityMid":"<http://dbpedia.org/resource/Lyubov_Dostoyevskaya>","InferentialChain":["list","relatives","lyubov","dostoyevskaya"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Fyodor_Dostoyevsky>","EntityName":"Fyodor Dostoyevsky"}]}}

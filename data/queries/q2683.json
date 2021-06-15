@@ -1,0 +1,1 @@
+{"QuestionId":"q2683","Parse":{"TopicEntityName":"William Anthony  artist  ","TopicEntityMid":"<http://dbpedia.org/resource/William_Anthony_(artist)>","InferentialChain":["william","anthony","trained"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Yale_University>","EntityName":"Yale University"}]}}

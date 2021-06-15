@@ -1,0 +1,1 @@
+{"QuestionId":"q4563","Parse":{"TopicEntityName":"Robert Sarvis ","TopicEntityMid":"<http://dbpedia.org/resource/Robert_Sarvis>","InferentialChain":["order","the","omar","d","","conger","robert","sarvis","the","nominee"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/United_States_Senate>","EntityName":"United States Senate"}]}}

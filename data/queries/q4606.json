@@ -1,0 +1,1 @@
+{"QuestionId":"q4606","Parse":{"TopicEntityName":"Animal ","TopicEntityMid":"<http://dbpedia.org/resource/Animal>","InferentialChain":["species","members","the","animal","kingdom","belong"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"1275","EntityName":""}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q907","Parse":{"TopicEntityName":"Ron Galotti ","TopicEntityMid":"<http://dbpedia.org/resource/Ron_Galotti>","InferentialChain":["county","tremont","avenue","birht","place","of","ron","galotti"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/The_Bronx>","EntityName":"The Bronx"}]}}

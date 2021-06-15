@@ -1,0 +1,1 @@
+{"QuestionId":"q4917","Parse":{"TopicEntityName":"Chelsea F C  ","TopicEntityMid":"<http://dbpedia.org/resource/Chelsea_F.C.>","InferentialChain":["owns","chelsea","f","c"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Roman_Abramovich>","EntityName":"Roman Abramovich"}]}}

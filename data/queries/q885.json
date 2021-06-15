@@ -1,0 +1,1 @@
+{"QuestionId":"q885","Parse":{"TopicEntityName":"Jean Segura ","TopicEntityMid":"<http://dbpedia.org/resource/Jean_Segura>","InferentialChain":["team","bill","murphy","jean","segura","play"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Arizona_Diamondbacks>","EntityName":"Arizona Diamondbacks"}]}}

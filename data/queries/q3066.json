@@ -1,0 +1,1 @@
+{"QuestionId":"q3066","Parse":{"TopicEntityName":"Kala Pani  1958 film  ","TopicEntityMid":"<http://dbpedia.org/resource/Kala_Pani_(1958_film)>","InferentialChain":["film","director","kala","pani","die"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Mumbai>","EntityName":"Mumbai"}]}}

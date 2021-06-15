@@ -1,0 +1,1 @@
+{"QuestionId":"q2258","Parse":{"TopicEntityName":"Magic Trackpad ","TopicEntityMid":"<http://dbpedia.org/resource/Magic_Trackpad>","InferentialChain":["developed","software","operating","system","magic","trackpad"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Apple_Inc.>","EntityName":"Apple Inc."}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q929","Parse":{"TopicEntityName":"Gary Portnoy ","TopicEntityMid":"<http://dbpedia.org/resource/Gary_Portnoy>","InferentialChain":["television","show","subsequent","work","frasier","the","opening","theme","is","gary","portnoy"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Cheers>","EntityName":"Cheers"}]}}

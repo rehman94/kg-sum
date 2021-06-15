@@ -1,0 +1,1 @@
+{"QuestionId":"q325","Parse":{"TopicEntityName":"Jose Cha Cha Jimenez ","TopicEntityMid":"<http://dbpedia.org/resource/Jose_Cha_Cha_Jimenez>","InferentialChain":["country","political","party","leader","is","jose","cha","cha","jimenez"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Puerto_Rico>","EntityName":"Puerto Rico"}]}}

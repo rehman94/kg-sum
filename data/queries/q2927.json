@@ -1,0 +1,1 @@
+{"QuestionId":"q2927","Parse":{"TopicEntityName":"Basketball ","TopicEntityMid":"<http://dbpedia.org/resource/Basketball>","InferentialChain":["count","number","sports","played","the","universities","of","the","sports","baketball"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"75","EntityName":""}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q209","Parse":{"TopicEntityName":"Discovery Communications ","TopicEntityMid":"<http://dbpedia.org/resource/Discovery_Communications>","InferentialChain":["founded","sister","stations","discovery","communications"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Oprah_Winfrey>","EntityName":"Oprah Winfrey"}]}}

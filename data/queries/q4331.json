@@ -1,0 +1,1 @@
+{"QuestionId":"q4331","Parse":{"TopicEntityName":"Waylon Jennings ","TopicEntityMid":"<http://dbpedia.org/resource/Waylon_Jennings>","InferentialChain":["give","count","musical","artists","collaborating","waylon","jennings"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"15","EntityName":""}]}}

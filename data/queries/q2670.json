@@ -1,0 +1,1 @@
+{"QuestionId":"q2670","Parse":{"TopicEntityName":"Jay Gogue ","TopicEntityMid":"<http://dbpedia.org/resource/Jay_Gogue>","InferentialChain":["university","mascot","aubie","president","jay","gogue"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Auburn_University>","EntityName":"Auburn University"}]}}

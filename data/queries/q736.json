@@ -1,0 +1,1 @@
+{"QuestionId":"q736","Parse":{"TopicEntityName":"Scuderia Ferrari ","TopicEntityMid":"<http://dbpedia.org/resource/Scuderia_Ferrari>","InferentialChain":["drivers","participated","scuderia","ferrari","first","team"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"249","EntityName":""}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q2948","Parse":{"TopicEntityName":"Banlung ","TopicEntityMid":"<http://dbpedia.org/resource/Banlung>","InferentialChain":["tiemzone","banlung"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Cambodia>","EntityName":"Cambodia"}]}}

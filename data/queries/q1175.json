@@ -1,0 +1,1 @@
+{"QuestionId":"q1175","Parse":{"TopicEntityName":"Plant ","TopicEntityMid":"<http://dbpedia.org/resource/Plant>","InferentialChain":["things","belong","division","plant","kingdom"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"51443","EntityName":""}]}}

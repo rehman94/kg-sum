@@ -1,0 +1,1 @@
+{"QuestionId":"q2037","Parse":{"TopicEntityName":"Frampton s Camel ","TopicEntityMid":"<http://dbpedia.org/resource/Frampton's_Camel>","InferentialChain":["artists","the","band","framptons","camel"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Peter_Frampton>","EntityName":"Peter Frampton"}]}}

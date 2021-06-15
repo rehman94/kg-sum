@@ -1,0 +1,1 @@
+{"QuestionId":"q424","Parse":{"TopicEntityName":"Thomas Secunda ","TopicEntityMid":"<http://dbpedia.org/resource/Thomas_Secunda>","InferentialChain":["owner","the","bank","thomas","secunda","works"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Michael_Bloomberg>","EntityName":"Michael Bloomberg"}]}}

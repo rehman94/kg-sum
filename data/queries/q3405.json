@@ -1,0 +1,1 @@
+{"QuestionId":"q3405","Parse":{"TopicEntityName":"Michael Cristofer ","TopicEntityMid":"<http://dbpedia.org/resource/Michael_Cristofer>","InferentialChain":["give","total","number","guests","of","the","television","episodes","of","the","guests","michael","cristofer"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"101","EntityName":""}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q1361","Parse":{"TopicEntityName":"Samsu iluna ","TopicEntityMid":"<http://dbpedia.org/resource/Samsu-iluna>","InferentialChain":["person","s","successor","samsu","iluna"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Hammurabi>","EntityName":"Hammurabi"}]}}

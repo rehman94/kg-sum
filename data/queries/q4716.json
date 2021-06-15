@@ -1,0 +1,1 @@
+{"QuestionId":"q4716","Parse":{"TopicEntityName":"The Producers  2005 film  ","TopicEntityMid":"<http://dbpedia.org/resource/The_Producers_(2005_film)>","InferentialChain":["label","the","producers","","2005","film"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Sony>","EntityName":"Sony"}]}}

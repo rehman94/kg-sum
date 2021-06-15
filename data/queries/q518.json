@@ -1,0 +1,1 @@
+{"QuestionId":"q518","Parse":{"TopicEntityName":"Electric Lady Studios ","TopicEntityMid":"<http://dbpedia.org/resource/Electric_Lady_Studios>","InferentialChain":["bands","have","recorded","work","in","electric","lady","studios"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Peter_Frampton>","EntityName":"Peter Frampton"}]}}

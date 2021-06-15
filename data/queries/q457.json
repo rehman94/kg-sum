@@ -1,0 +1,1 @@
+{"QuestionId":"q457","Parse":{"TopicEntityName":"Boston Bruins ","TopicEntityMid":"<http://dbpedia.org/resource/Boston_Bruins>","InferentialChain":["teams","players","boston","bruins","played"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"2577","EntityName":""}]}}

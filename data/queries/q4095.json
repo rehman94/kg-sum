@@ -1,0 +1,1 @@
+{"QuestionId":"q4095","Parse":{"TopicEntityName":"Czech Extraliga ","TopicEntityMid":"<http://dbpedia.org/resource/Czech_Extraliga>","InferentialChain":["teams","league","players","czech","extraliga","","previously","played"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"499","EntityName":""}]}}

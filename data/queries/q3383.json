@@ -1,0 +1,1 @@
+{"QuestionId":"q3383","Parse":{"TopicEntityName":"Frederick Cooke  socialist  ","TopicEntityMid":"<http://dbpedia.org/resource/Frederick_Cooke_(socialist)>","InferentialChain":["vp","buried","","served","frederick","cooke"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Christchurch>","EntityName":"Christchurch"}]}}

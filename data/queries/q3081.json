@@ -1,0 +1,1 @@
+{"QuestionId":"q3081","Parse":{"TopicEntityName":"NBC ","TopicEntityMid":"<http://dbpedia.org/resource/NBC>","InferentialChain":["company","paramount","television","network","nbc"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"22","EntityName":""}]}}

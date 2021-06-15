@@ -1,0 +1,19 @@
+{
+      "QuestionId": "WebQTrn-1297",
+      "Parse": {
+          "TopicEntityName": "Justin Bieber",
+          "TopicEntityMid": "m.06w2sn5",
+          "InferentialChain": [
+            "people.person.place_of_birth"
+          ],
+          "Constraints": [],
+          "Answers": [
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.0b1t1",
+              "EntityName": "London"
+            }
+          ]
+        }
+      }
+    

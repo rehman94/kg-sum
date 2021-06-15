@@ -1,0 +1,1 @@
+{"QuestionId":"q1109","Parse":{"TopicEntityName":"Close air support ","TopicEntityMid":"<http://dbpedia.org/resource/Close_air_support>","InferentialChain":["count","number","people","military","unit","involved","close","air","support"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"274","EntityName":""}]}}

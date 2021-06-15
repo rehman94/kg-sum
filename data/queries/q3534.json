@@ -1,0 +1,1 @@
+{"QuestionId":"q3534","Parse":{"TopicEntityName":"Elton John and Tim Rice s Aida ","TopicEntityMid":"<http://dbpedia.org/resource/Elton_John_and_Tim_Rice's_Aida>","InferentialChain":["made","singles","the","famous","album","aida"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Elton_John>","EntityName":"Elton John"}]}}

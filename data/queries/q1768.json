@@ -1,0 +1,1 @@
+{"QuestionId":"q1768","Parse":{"TopicEntityName":"Piotr Baron ","TopicEntityMid":"<http://dbpedia.org/resource/Piotr_Baron>","InferentialChain":["nickname","the","club","managed","piotr","baron"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Sparta>","EntityName":"Sparta"}]}}

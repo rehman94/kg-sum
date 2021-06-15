@@ -1,0 +1,1 @@
+{"QuestionId":"q2379","Parse":{"TopicEntityName":"ITV  Thailand  ","TopicEntityMid":"<http://dbpedia.org/resource/ITV_(Thailand)>","InferentialChain":["broadcast","area","itv","","thailand"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Thailand>","EntityName":"Thailand"}]}}

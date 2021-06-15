@@ -1,0 +1,1 @@
+{"QuestionId":"q1967","Parse":{"TopicEntityName":"Sony Bank ","TopicEntityMid":"<http://dbpedia.org/resource/Sony_Bank>","InferentialChain":["parent","company","company","owns","sony","bank"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Sony>","EntityName":"Sony"}]}}

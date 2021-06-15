@@ -1,0 +1,1 @@
+{"QuestionId":"q4087","Parse":{"TopicEntityName":"Tornado  web server  ","TopicEntityMid":"<http://dbpedia.org/resource/Tornado_(web_server)>","InferentialChain":["list","websites","the","authors","tornado"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Facebook>","EntityName":"Facebook"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q3094","Parse":{"TopicEntityName":"Adrian A  Basora ","TopicEntityMid":"<http://dbpedia.org/resource/Adrian_A._Basora>","InferentialChain":["successors","robert","p","","smith","adrian","","basora"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Shirley_Temple>","EntityName":"Shirley Temple"}]}}

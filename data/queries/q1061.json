@@ -1,0 +1,1 @@
+{"QuestionId":"q1061","Parse":{"TopicEntityName":"Valentin Muratov ","TopicEntityMid":"<http://dbpedia.org/resource/Valentin_Muratov>","InferentialChain":["university","alexandre","tichonov","place","of","death","of","valentin","muratov"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Moscow>","EntityName":"Moscow"}]}}

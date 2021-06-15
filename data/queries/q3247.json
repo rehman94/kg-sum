@@ -1,0 +1,1 @@
+{"QuestionId":"q3247","Parse":{"TopicEntityName":"WRVU ","TopicEntityMid":"<http://dbpedia.org/resource/WRVU>","InferentialChain":["university","license","wrvu"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Vanderbilt_University>","EntityName":"Vanderbilt University"}]}}

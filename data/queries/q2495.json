@@ -1,0 +1,1 @@
+{"QuestionId":"q2495","Parse":{"TopicEntityName":"GNOWSYS ","TopicEntityMid":"<http://dbpedia.org/resource/GNOWSYS>","InferentialChain":["software","developed","gnowsys","is","licensed","by","frontaccounting"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/GNU>","EntityName":"GNU"}]}}

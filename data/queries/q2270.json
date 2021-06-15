@@ -1,0 +1,1 @@
+{"QuestionId":"q2270","Parse":{"TopicEntityName":"Juli Ashton ","TopicEntityMid":"<http://dbpedia.org/resource/Juli_Ashton>","InferentialChain":["city","wayne","allard","governs","juli","ashton","born"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Colorado>","EntityName":"Colorado"}]}}

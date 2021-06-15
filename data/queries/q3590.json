@@ -1,0 +1,1 @@
+{"QuestionId":"q3590","Parse":{"TopicEntityName":"Sea Gayle Music ","TopicEntityMid":"<http://dbpedia.org/resource/Sea_Gayle_Music>","InferentialChain":["whci","founder","sea","gayle","music","artist","of","brad","paisley","discography"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Brad_Paisley>","EntityName":"Brad Paisley"}]}}

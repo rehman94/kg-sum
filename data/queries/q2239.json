@@ -1,0 +1,1 @@
+{"QuestionId":"q2239","Parse":{"TopicEntityName":"Google by ","TopicEntityMid":"<http://dbpedia.org/resource/Google.by>","InferentialChain":["employer","manu","cornet","alsoe","written","google"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Google>","EntityName":"Google"}]}}

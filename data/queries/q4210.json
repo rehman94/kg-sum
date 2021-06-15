@@ -1,0 +1,1 @@
+{"QuestionId":"q4210","Parse":{"TopicEntityName":"Bannock  food  ","TopicEntityMid":"<http://dbpedia.org/resource/Bannock_(food)>","InferentialChain":["common","region","soylent","bannock","sold"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/North_America>","EntityName":"North America"}]}}

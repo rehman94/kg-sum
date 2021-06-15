@@ -1,0 +1,1 @@
+{"QuestionId":"q4406","Parse":{"TopicEntityName":"Presidio Santa Cruz de Terrenate ","TopicEntityMid":"<http://dbpedia.org/resource/Presidio_Santa_Cruz_de_Terrenate>","InferentialChain":["builder","presidio","santa","cruz","de","terrenate"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Spain>","EntityName":"Spain"}]}}

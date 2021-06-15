@@ -1,0 +1,1 @@
+{"QuestionId":"q363","Parse":{"TopicEntityName":"Gloucestershire ","TopicEntityMid":"<http://dbpedia.org/resource/Gloucestershire>","InferentialChain":["river","flowing","reading","source","place","gloucestershire"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/River_Thames>","EntityName":"River Thames"}]}}

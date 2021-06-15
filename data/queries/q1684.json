@@ -1,0 +1,1 @@
+{"QuestionId":"q1684","Parse":{"TopicEntityName":"Manu Cornet ","TopicEntityMid":"<http://dbpedia.org/resource/Manu_Cornet>","InferentialChain":["manu","cornet","work"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Google>","EntityName":"Google"}]}}

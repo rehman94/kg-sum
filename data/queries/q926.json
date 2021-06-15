@@ -1,0 +1,1 @@
+{"QuestionId":"q926","Parse":{"TopicEntityName":"2013 Copa Centroamericana ","TopicEntityMid":"<http://dbpedia.org/resource/2013_Copa_Centroamericana>","InferentialChain":["built","stadium","rented","the","2013","copa","centroamericana"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/China>","EntityName":"China"}]}}

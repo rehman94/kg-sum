@@ -1,0 +1,1 @@
+{"QuestionId":"q4098","Parse":{"TopicEntityName":"Outlook com ","TopicEntityMid":"<http://dbpedia.org/resource/Outlook.com>","InferentialChain":["offers","services","onedrive","outlook"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Microsoft>","EntityName":"Microsoft"}]}}

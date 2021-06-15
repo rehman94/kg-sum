@@ -1,0 +1,1 @@
+{"QuestionId":"q3201","Parse":{"TopicEntityName":"Jim McMillin ","TopicEntityMid":"<http://dbpedia.org/resource/Jim_McMillin>","InferentialChain":["team","sam","keller","jim","mcmilin","played"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Oakland_Raiders>","EntityName":"Oakland Raiders"}]}}

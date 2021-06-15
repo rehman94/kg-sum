@@ -1,0 +1,1 @@
+{"QuestionId":"q2728","Parse":{"TopicEntityName":"Beverly Hills  California ","TopicEntityMid":"<http://dbpedia.org/resource/Beverly_Hills,_California>","InferentialChain":["people","live","beverly","hills","","california"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"86","EntityName":""}]}}

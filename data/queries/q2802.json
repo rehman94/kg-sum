@@ -1,0 +1,1 @@
+{"QuestionId":"q2802","Parse":{"TopicEntityName":"National Hockey League ","TopicEntityMid":"<http://dbpedia.org/resource/National_Hockey_League>","InferentialChain":["players","teams","participated","national","hockey","league"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"1394","EntityName":""}]}}

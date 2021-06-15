@@ -1,0 +1,1 @@
+{"QuestionId":"q670","Parse":{"TopicEntityName":"Fred Hoiberg ","TopicEntityMid":"<http://dbpedia.org/resource/Fred_Hoiberg>","InferentialChain":["people","played","club","coach","fred","hoiberg"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"355","EntityName":""}]}}

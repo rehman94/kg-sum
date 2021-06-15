@@ -1,0 +1,1 @@
+{"QuestionId":"q2370","Parse":{"TopicEntityName":"William Clark ","TopicEntityMid":"<http://dbpedia.org/resource/William_Clark>","InferentialChain":["appointer","william","clark","successor","of","levi","lincoln","sr"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/James_Madison>","EntityName":"James Madison"}]}}

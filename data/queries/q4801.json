@@ -1,0 +1,1 @@
+{"QuestionId":"q4801","Parse":{"TopicEntityName":"Cricket ","TopicEntityMid":"<http://dbpedia.org/resource/Cricket>","InferentialChain":["countries","people","born","play","cricket"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"9","EntityName":""}]}}

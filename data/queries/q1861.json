@@ -1,0 +1,1 @@
+{"QuestionId":"q1861","Parse":{"TopicEntityName":"HBO ","TopicEntityMid":"<http://dbpedia.org/resource/HBO>","InferentialChain":["tv","show","producer","stephen","e","","ambrose","company","is","hbo"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Band_of_Brothers_(miniseries)>","EntityName":"Band of Brothers "}]}}

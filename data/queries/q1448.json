@@ -1,0 +1,1 @@
+{"QuestionId":"q1448","Parse":{"TopicEntityName":"Nicholas S  Zeppos ","TopicEntityMid":"<http://dbpedia.org/resource/Nicholas_S._Zeppos>","InferentialChain":["university","chancellor","nicholas","s","","zeppos"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Vanderbilt_University>","EntityName":"Vanderbilt University"}]}}

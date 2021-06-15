@@ -1,0 +1,1 @@
+{"QuestionId":"q4012","Parse":{"TopicEntityName":"Women in the Garden ","TopicEntityMid":"<http://dbpedia.org/resource/Women_in_the_Garden>","InferentialChain":["person","created","women","the","garden"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Claude_Monet>","EntityName":"Claude Monet"}]}}

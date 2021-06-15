@@ -1,0 +1,1 @@
+{"QuestionId":"q1320","Parse":{"TopicEntityName":"1992 Canadian Grand Prix ","TopicEntityMid":"<http://dbpedia.org/resource/1992_Canadian_Grand_Prix>","InferentialChain":["pole","driver","1992","canadian","grand","prix"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Ayrton_Senna>","EntityName":"Ayrton Senna"}]}}

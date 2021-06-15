@@ -1,0 +1,1 @@
+{"QuestionId":"q3129","Parse":{"TopicEntityName":"Spanish Harlem Incident ","TopicEntityMid":"<http://dbpedia.org/resource/Spanish_Harlem_Incident>","InferentialChain":["spanish","harlem","incident","composed"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Bob_Dylan>","EntityName":"Bob Dylan"}]}}

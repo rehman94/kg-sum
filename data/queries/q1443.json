@@ -1,0 +1,1 @@
+{"QuestionId":"q1443","Parse":{"TopicEntityName":"X  company  ","TopicEntityMid":"<http://dbpedia.org/resource/X_(company)>","InferentialChain":["developer","predecssor","of","x","compnay"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Google>","EntityName":"Google"}]}}

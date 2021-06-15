@@ -1,0 +1,1 @@
+{"QuestionId":"q2622","Parse":{"TopicEntityName":"PlayStation 2 ","TopicEntityMid":"<http://dbpedia.org/resource/PlayStation_2>","InferentialChain":["the","information","appliance","sony","predecessor","is","playstation","2"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/PlayStation_3>","EntityName":"PlayStation 3"}]}}

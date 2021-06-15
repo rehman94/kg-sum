@@ -1,0 +1,1 @@
+{"QuestionId":"q3635","Parse":{"TopicEntityName":"1972 Oakland Raiders season ","TopicEntityMid":"<http://dbpedia.org/resource/1972_Oakland_Raiders_season>","InferentialChain":["coach","1972","oakland","raiders","season"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/John_Madden>","EntityName":"John Madden"}]}}

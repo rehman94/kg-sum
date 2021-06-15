@@ -1,0 +1,1 @@
+{"QuestionId":"q1526","Parse":{"TopicEntityName":"The Paris Sisters ","TopicEntityMid":"<http://dbpedia.org/resource/The_Paris_Sisters>","InferentialChain":["paris","sisters","singles","language"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Slovakia>","EntityName":"Slovakia"}]}}

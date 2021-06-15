@@ -1,0 +1,1 @@
+{"QuestionId":"q1667","Parse":{"TopicEntityName":"Tim Mathieson ","TopicEntityMid":"<http://dbpedia.org/resource/Tim_Mathieson>","InferentialChain":["office","holder","predecessor","mark","latham","partner","tim","mathieson"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Julia_Gillard>","EntityName":"Julia Gillard"}]}}

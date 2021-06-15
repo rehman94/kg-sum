@@ -1,0 +1,1 @@
+{"QuestionId":"q121","Parse":{"TopicEntityName":"Lyons Township High School ","TopicEntityMid":"<http://dbpedia.org/resource/Lyons_Township_High_School>","InferentialChain":["common","nickname","harding","academy","lyons","township","high","school"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Lion>","EntityName":"Lion"}]}}

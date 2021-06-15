@@ -1,0 +1,1 @@
+{"QuestionId":"q3006","Parse":{"TopicEntityName":"Samuel of Waldebba ","TopicEntityMid":"<http://dbpedia.org/resource/Samuel_of_Waldebba>","InferentialChain":["country","birth","place","marcus","samuelsson","samuel","of","waldebba"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Ethiopia>","EntityName":"Ethiopia"}]}}

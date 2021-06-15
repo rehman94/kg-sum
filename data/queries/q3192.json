@@ -1,0 +1,1 @@
+{"QuestionId":"q3192","Parse":{"TopicEntityName":"Europe ","TopicEntityMid":"<http://dbpedia.org/resource/Europe>","InferentialChain":["sea","located","europe","nearby","city","rostock"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Baltic_Sea>","EntityName":"Baltic Sea"}]}}

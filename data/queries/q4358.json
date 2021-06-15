@@ -1,0 +1,1 @@
+{"QuestionId":"q4358","Parse":{"TopicEntityName":"Hirth Acrostar ","TopicEntityMid":"<http://dbpedia.org/resource/Hirth_Acrostar>","InferentialChain":["national","origin","dornier","aerodyne","hirth","acrostar"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/West_Germany>","EntityName":"West Germany"}]}}

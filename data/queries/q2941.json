@@ -1,0 +1,1 @@
+{"QuestionId":"q2941","Parse":{"TopicEntityName":"Eric Roth ","TopicEntityMid":"<http://dbpedia.org/resource/Eric_Roth>","InferentialChain":["common","award","won","charles","lemaire","eric","roth"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Academy_Awards>","EntityName":"Academy Awards"}]}}

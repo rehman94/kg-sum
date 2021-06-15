@@ -1,0 +1,1 @@
+{"QuestionId":"q1789","Parse":{"TopicEntityName":"Bertrada of Laon ","TopicEntityMid":"<http://dbpedia.org/resource/Bertrada_of_Laon>","InferentialChain":["mam","bertrada","laon"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Charlemagne>","EntityName":"Charlemagne"}]}}

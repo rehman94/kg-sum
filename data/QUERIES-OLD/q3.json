@@ -1,0 +1,20 @@
+{
+	"QuestionId": "WebQTest-3",
+	"RawQuestion": "Who is the host of the BBC Wildlife Specials?",
+	"ProcessedQuestion": "Who is the host of the BBC Wildlife Specials?",
+	"Parse": {
+		
+		"PotentialTopicEntityMention": "host, BBC Wildlife Specials",
+		"TopicEntityName": "BBC Wildlife Specials",  
+		"TopicEntityMid": "<http://dbpedia.org/resource/Autism>",
+		"InferentialChain": ["BBC_Wildlife_Specials.presenter"],
+		"Constraints": [],
+		"Time": null,
+		"Order": null,
+		"Answers": [{
+			"AnswerType": "Entity",
+			"AnswerArgument": "m.0kh6b",
+			"EntityName": "BBC Wildlife Specials"
+		}]
+	}
+}

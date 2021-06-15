@@ -1,0 +1,1 @@
+{"QuestionId":"q2676","Parse":{"TopicEntityName":"Governorate of New Castile ","TopicEntityMid":"<http://dbpedia.org/resource/Governorate_of_New_Castile>","InferentialChain":["governer","castile"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Francisco_Pizarro>","EntityName":"Francisco Pizarro"}]}}

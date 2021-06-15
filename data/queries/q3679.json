@@ -1,0 +1,1 @@
+{"QuestionId":"q3679","Parse":{"TopicEntityName":"Harry and the Potters  album  ","TopicEntityMid":"<http://dbpedia.org/resource/Harry_and_the_Potters_(album)>","InferentialChain":["genres","originate","","the","harry","the","potters","album"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"8","EntityName":""}]}}

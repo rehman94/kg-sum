@@ -1,0 +1,1 @@
+{"QuestionId":"q4527","Parse":{"TopicEntityName":"Pahang ","TopicEntityMid":"<http://dbpedia.org/resource/Pahang>","InferentialChain":["county","the","road","route","end","is","pahang"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Malaysia>","EntityName":"Malaysia"}]}}

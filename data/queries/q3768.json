@@ -1,0 +1,1 @@
+{"QuestionId":"q3768","Parse":{"TopicEntityName":"John Bowlby ","TopicEntityMid":"<http://dbpedia.org/resource/John_Bowlby>","InferentialChain":["scientist","doctoral","supervisor","s","doctoral","student","john","bowlby"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Abraham_Maslow>","EntityName":"Abraham Maslow"}]}}

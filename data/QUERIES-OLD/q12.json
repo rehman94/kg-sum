@@ -1,0 +1,44 @@
+{
+	"QuestionId": "WebQTest-12",
+	"RawQuestion": "Which cities does the Weser flow through?",
+	"ProcessedQuestion": "Which cities does the Weser flow through?",
+	"Parse": {
+		"PotentialTopicEntityMention": "Weser, flow through, city",
+		"TopicEntityName": "Weser",  
+		"TopicEntityMid": "<http://dbpedia.org/resource/Autism>",
+		"InferentialChain": ["Weser.city"],
+		"Constraints": [],
+		"Time": null,
+		"Order": null,
+	    "Answers": [{
+			"AnswerType": "Entity",
+			"AnswerArgument": "m.01pz2y",
+			"EntityName": "Fulda (river)"
+		}, {
+			"AnswerType": "Entity",
+			"AnswerArgument": "m.0bkv0",
+			"EntityName": "Kassel"
+		}, {
+			"AnswerType": "Entity",
+			"AnswerArgument": "m.017x_",
+			"EntityName": "Bremerhaven"
+		}, {
+			"AnswerType": "Entity",
+			"AnswerArgument": "m.017w_",
+			"EntityName": "Bremen"
+		}, {
+			"AnswerType": "Entity",
+			"AnswerArgument": "m.018xkz",
+			"EntityName": "Minden"
+		}, {
+			"AnswerType": "Entity",
+			"AnswerArgument": "m.013zdv",
+			"EntityName": "Hamelin"
+		}, {
+			"AnswerType": "Entity",
+			"AnswerArgument": "m.0bj77",
+			"EntityName": "Hann. Münden"
+		}
+		]
+	}
+}

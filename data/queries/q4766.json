@@ -1,0 +1,1 @@
+{"QuestionId":"q4766","Parse":{"TopicEntityName":"Airman first class ","TopicEntityMid":"<http://dbpedia.org/resource/Airman_first_class>","InferentialChain":["person","military","rank","is","airman","class"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Colorado>","EntityName":"Colorado"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q2087","Parse":{"TopicEntityName":"Gold Medal of the Royal Astronomical Society ","TopicEntityMid":"<http://dbpedia.org/resource/Gold_Medal_of_the_Royal_Astronomical_Society>","InferentialChain":["people","won","gold","medal","the","royal","astronomical","society"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"22","EntityName":""}]}}

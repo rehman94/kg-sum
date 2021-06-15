@@ -1,0 +1,1 @@
+{"QuestionId":"q4704","Parse":{"TopicEntityName":"Erich Bagge ","TopicEntityMid":"<http://dbpedia.org/resource/Erich_Bagge>","InferentialChain":["scientist","doctoral","student","is","erich","bagge"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Werner_Heisenberg>","EntityName":"Werner Heisenberg"}]}}

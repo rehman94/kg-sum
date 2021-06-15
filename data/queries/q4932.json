@@ -1,0 +1,1 @@
+{"QuestionId":"q4932","Parse":{"TopicEntityName":"Sam Sen Railway Station ","TopicEntityMid":"<http://dbpedia.org/resource/Sam_Sen_Railway_Station>","InferentialChain":["location","sam","sen","railway","station"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Bangkok>","EntityName":"Bangkok"}]}}

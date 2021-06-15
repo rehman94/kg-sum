@@ -1,0 +1,1 @@
+{"QuestionId":"q4437","Parse":{"TopicEntityName":"United States ","TopicEntityMid":"<http://dbpedia.org/resource/United_States>","InferentialChain":["give","nominees","politicians"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/United_States_Senate>","EntityName":"United States Senate"}]}}

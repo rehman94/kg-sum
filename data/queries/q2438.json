@@ -1,0 +1,1 @@
+{"QuestionId":"q2438","Parse":{"TopicEntityName":"Australian of the Year ","TopicEntityMid":"<http://dbpedia.org/resource/Australian_of_the_Year>","InferentialChain":["honorary","title","scientists","australian","of","the","year","award"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"24","EntityName":""}]}}

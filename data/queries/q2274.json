@@ -1,0 +1,1 @@
+{"QuestionId":"q2274","Parse":{"TopicEntityName":"Nicomedia ","TopicEntityMid":"<http://dbpedia.org/resource/Nicomedia>","InferentialChain":["kingdom","currency","solidus","","coin","","administrative","headquarters","nicomedia"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Roman_Empire>","EntityName":"Roman Empire"}]}}

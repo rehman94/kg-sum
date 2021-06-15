@@ -1,0 +1,1 @@
+{"QuestionId":"q3035","Parse":{"TopicEntityName":"Dofinivka Estuary ","TopicEntityMid":"<http://dbpedia.org/resource/Dofinivka_Estuary>","InferentialChain":["dofinivka","estuary","located"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Ukraine>","EntityName":"Ukraine"}]}}

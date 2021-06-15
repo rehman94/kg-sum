@@ -1,0 +1,1 @@
+{"QuestionId":"q214","Parse":{"TopicEntityName":"The Galleria ","TopicEntityMid":"<http://dbpedia.org/resource/The_Galleria>","InferentialChain":["parent","organization","tv","owns","galleria"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Sony>","EntityName":"Sony"}]}}

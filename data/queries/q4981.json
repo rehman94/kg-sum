@@ -1,0 +1,1 @@
+{"QuestionId":"q4981","Parse":{"TopicEntityName":"Saunders County  Nebraska ","TopicEntityMid":"<http://dbpedia.org/resource/Saunders_County,_Nebraska>","InferentialChain":["states","stream","ending","saunders","county"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Nebraska>","EntityName":"Nebraska"}]}}

@@ -1,0 +1,21 @@
+{
+      "QuestionId": "WebQTrn-9",
+      "Parse": 
+        {
+          
+          "TopicEntityName": "Sacha Baron Cohen",
+          "TopicEntityMid": "m.0c9c0",
+          "InferentialChain": [
+            "people.person.date_of_birth"
+          ],
+          "Constraints": [],
+          "Answers": [
+            {
+              "AnswerType": "Value",
+              "AnswerArgument": "1971-10-13",
+              "EntityName": null
+            }
+          ]
+        }
+      
+    }

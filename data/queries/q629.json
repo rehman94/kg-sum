@@ -1,0 +1,1 @@
+{"QuestionId":"q629","Parse":{"TopicEntityName":"Charles Drummond Ellis ","TopicEntityMid":"<http://dbpedia.org/resource/Charles_Drummond_Ellis>","InferentialChain":["charles","drummond","ellis","phd"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/James_Chadwick>","EntityName":"James Chadwick"}]}}

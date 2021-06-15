@@ -1,0 +1,1 @@
+{"QuestionId":"q1831","Parse":{"TopicEntityName":"Abdelhameed Amarri ","TopicEntityMid":"<http://dbpedia.org/resource/Abdelhameed_Amarri>","InferentialChain":["current","club","abdelhameed","amarri"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Khartoum>","EntityName":"Khartoum"}]}}

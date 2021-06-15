@@ -1,0 +1,1 @@
+{"QuestionId":"q2921","Parse":{"TopicEntityName":"Fox Sports Radio ","TopicEntityMid":"<http://dbpedia.org/resource/Fox_Sports_Radio>","InferentialChain":["show","sirius","xm","holdings","fox","sports","radio","channels"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/The_Dan_Patrick_Show>","EntityName":"The Dan Patrick Show"}]}}

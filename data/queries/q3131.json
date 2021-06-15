@@ -1,0 +1,1 @@
+{"QuestionId":"q3131","Parse":{"TopicEntityName":"Joel Schumacher ","TopicEntityMid":"<http://dbpedia.org/resource/Joel_Schumacher>","InferentialChain":["count","movies","edited","mark","stevens","","film","editor","","directed","by","joel","schumacher"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"8","EntityName":""}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q4909","Parse":{"TopicEntityName":"Aachen Cathedral ","TopicEntityMid":"<http://dbpedia.org/resource/Aachen_Cathedral>","InferentialChain":["shrine","aachen","cathedral"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Charlemagne>","EntityName":"Charlemagne"}]}}

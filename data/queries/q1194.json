@@ -1,0 +1,1 @@
+{"QuestionId":"q1194","Parse":{"TopicEntityName":"Hunter Pence ","TopicEntityMid":"<http://dbpedia.org/resource/Hunter_Pence>","InferentialChain":["team","hunter","pence","play","for"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/San_Francisco_Giants>","EntityName":"San Francisco Giants"}]}}

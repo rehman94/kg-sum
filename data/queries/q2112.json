@@ -1,0 +1,1 @@
+{"QuestionId":"q2112","Parse":{"TopicEntityName":"Rostov Glavny ","TopicEntityMid":"<http://dbpedia.org/resource/Rostov-Glavny>","InferentialChain":["serving","railway","line","rostov","glavny"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Moscow>","EntityName":"Moscow"}]}}

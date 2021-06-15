@@ -1,0 +1,1 @@
+{"QuestionId":"q3729","Parse":{"TopicEntityName":"Canberra ","TopicEntityMid":"<http://dbpedia.org/resource/Canberra>","InferentialChain":["mascot","the","unit","garrison","is","canberra"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Kangaroo>","EntityName":"Kangaroo"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q399","Parse":{"TopicEntityName":"American Mediterranean Sea ","TopicEntityMid":"<http://dbpedia.org/resource/American_Mediterranean_Sea>","InferentialChain":["country","jeffrey","werleman","","american","mediterranean","sea"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Aruba>","EntityName":"Aruba"}]}}

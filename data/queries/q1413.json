@@ -1,0 +1,1 @@
+{"QuestionId":"q1413","Parse":{"TopicEntityName":"Canal   River Trust ","TopicEntityMid":"<http://dbpedia.org/resource/Canal_&_River_Trust>","InferentialChain":["places","canal","river","trust","assets"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"19","EntityName":""}]}}

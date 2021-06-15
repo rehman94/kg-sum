@@ -1,0 +1,1 @@
+{"QuestionId":"q3899","Parse":{"TopicEntityName":"1993 European Grand Prix ","TopicEntityMid":"<http://dbpedia.org/resource/1993_European_Grand_Prix>","InferentialChain":["driver","1993","european","grand","prix"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Ayrton_Senna>","EntityName":"Ayrton Senna"}]}}

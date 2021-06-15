@@ -1,0 +1,1 @@
+{"QuestionId":"q3154","Parse":{"TopicEntityName":"Todd Huth ","TopicEntityMid":"<http://dbpedia.org/resource/Todd_Huth>","InferentialChain":["tv","show","s","theme","composed","band","which","todd","huth","perform"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/South_Park>","EntityName":"South Park"}]}}

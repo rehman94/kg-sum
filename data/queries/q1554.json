@@ -1,0 +1,1 @@
+{"QuestionId":"q1554","Parse":{"TopicEntityName":"Ford Transit ","TopicEntityMid":"<http://dbpedia.org/resource/Ford_Transit>","InferentialChain":["mfr","","the","engine","ford","transit"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Ford_Motor_Company>","EntityName":"Ford Motor Company"}]}}

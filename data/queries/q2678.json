@@ -1,0 +1,1 @@
+{"QuestionId":"q2678","Parse":{"TopicEntityName":"Playboy Mansion ","TopicEntityMid":"<http://dbpedia.org/resource/Playboy_Mansion>","InferentialChain":["magazine","s","editor","s","official","residence","playboy","mansion"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Playboy>","EntityName":"Playboy"}]}}

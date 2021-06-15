@@ -1,0 +1,1 @@
+{"QuestionId":"q4050","Parse":{"TopicEntityName":"The Way to Your Heart ","TopicEntityMid":"<http://dbpedia.org/resource/The_Way_to_Your_Heart>","InferentialChain":["currency","record","label","the","heart"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Euro>","EntityName":"Euro"}]}}

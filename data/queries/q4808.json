@@ -1,0 +1,1 @@
+{"QuestionId":"q4808","Parse":{"TopicEntityName":"Language Integrated Query ","TopicEntityMid":"<http://dbpedia.org/resource/Language_Integrated_Query>","InferentialChain":["company","created","basic","language","integrated","query"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Microsoft>","EntityName":"Microsoft"}]}}

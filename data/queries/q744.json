@@ -1,0 +1,1 @@
+{"QuestionId":"q744","Parse":{"TopicEntityName":"The Comedy Channel  United States  ","TopicEntityMid":"<http://dbpedia.org/resource/The_Comedy_Channel_(United_States)>","InferentialChain":["shows","made","channel","predecessor","the","comedy","channel"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"73","EntityName":""}]}}

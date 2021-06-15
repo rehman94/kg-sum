@@ -1,0 +1,1 @@
+{"QuestionId":"q2406","Parse":{"TopicEntityName":"Thomas Pfyl ","TopicEntityMid":"<http://dbpedia.org/resource/Thomas_Pfyl>","InferentialChain":["state","origin","of","thomas","pfyl"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Switzerland>","EntityName":"Switzerland"}]}}

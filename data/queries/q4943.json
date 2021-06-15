@@ -1,0 +1,1 @@
+{"QuestionId":"q4943","Parse":{"TopicEntityName":"Russell T Davies ","TopicEntityMid":"<http://dbpedia.org/resource/Russell_T_Davies>","InferentialChain":["producer","wizards","aliens","the","notable","work","of","russell","t","davies"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Doctor_Who>","EntityName":"Doctor Who"}]}}

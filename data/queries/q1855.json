@@ -1,0 +1,1 @@
+{"QuestionId":"q1855","Parse":{"TopicEntityName":"National League ","TopicEntityMid":"<http://dbpedia.org/resource/National_League>","InferentialChain":["champion","national","league"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/New_York_Mets>","EntityName":"New York Mets"}]}}

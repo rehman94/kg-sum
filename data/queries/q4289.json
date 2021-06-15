@@ -1,0 +1,1 @@
+{"QuestionId":"q4289","Parse":{"TopicEntityName":"Liliya Lobanova ","TopicEntityMid":"<http://dbpedia.org/resource/Liliya_Lobanova>","InferentialChain":["location","the","dofinivka","estuary","is","the","birthplace","of","the","liliya","lobanova"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Ukraine>","EntityName":"Ukraine"}]}}

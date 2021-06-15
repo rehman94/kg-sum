@@ -1,0 +1,1 @@
+{"QuestionId":"q4640","Parse":{"TopicEntityName":"Salsette Island ","TopicEntityMid":"<http://dbpedia.org/resource/Salsette_Island>","InferentialChain":["largest","city","salsette","island","largest","city","of","india"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Mumbai>","EntityName":"Mumbai"}]}}

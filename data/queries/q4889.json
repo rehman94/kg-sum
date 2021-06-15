@@ -1,0 +1,1 @@
+{"QuestionId":"q4889","Parse":{"TopicEntityName":"Haight Ashbury ","TopicEntityMid":"<http://dbpedia.org/resource/Haight-Ashbury>","InferentialChain":["office","holder","constituencies","castro","district","haight","ashbury"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Harvey_Milk>","EntityName":"Harvey Milk"}]}}

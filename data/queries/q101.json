@@ -1,0 +1,1 @@
+{"QuestionId":"q101","Parse":{"TopicEntityName":"Michigan Stadium ","TopicEntityMid":"<http://dbpedia.org/resource/Michigan_Stadium>","InferentialChain":["player","who","plays","the","team","the","michigan","stadium"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Jim_Harbaugh>","EntityName":"Jim Harbaugh"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q90","Parse":{"TopicEntityName":"Michael Hahn ","TopicEntityMid":"<http://dbpedia.org/resource/Michael_Hahn>","InferentialChain":["alma","mater","michael","hahn"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Tulane_University>","EntityName":"Tulane University"}]}}

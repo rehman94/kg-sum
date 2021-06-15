@@ -1,0 +1,1 @@
+{"QuestionId":"q162","Parse":{"TopicEntityName":"Neria Douglass ","TopicEntityMid":"<http://dbpedia.org/resource/Neria_Douglass>","InferentialChain":["common","school","chris","marve","neria","douglass"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Vanderbilt_University>","EntityName":"Vanderbilt University"}]}}

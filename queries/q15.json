@@ -1,0 +1,29 @@
+{
+      "QuestionId": "WebQTrn-3075",
+      "Parse": {
+        
+          "TopicEntityName": "Joakim Noah",
+          "TopicEntityMid": "m.0c2yrf",
+          "InferentialChain": [
+            "people.person.education",
+            "education.education.institution"
+          ],
+          "Constraints": [
+            {
+              
+              "EntityName": "College/University",
+              "SourceNodeIndex": 1,
+              "NodePredicate": "common.topic.notable_types",
+              "ValueType": "String"
+            }
+          ],
+          "Answers": [
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.0j_sncb",
+              "EntityName": "University of Florida"
+            }
+          ]
+        }
+      
+    }

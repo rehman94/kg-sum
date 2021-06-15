@@ -1,0 +1,1 @@
+{"QuestionId":"q4032","Parse":{"TopicEntityName":"Arlington National Cemetery ","TopicEntityMid":"<http://dbpedia.org/resource/Arlington_National_Cemetery>","InferentialChain":["people","buried","arlington","national","cemetery"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"1085","EntityName":""}]}}

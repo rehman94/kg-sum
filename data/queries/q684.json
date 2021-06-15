@@ -1,0 +1,1 @@
+{"QuestionId":"q684","Parse":{"TopicEntityName":"Donn Barber ","TopicEntityMid":"<http://dbpedia.org/resource/Donn_Barber>","InferentialChain":["educational","institution","jack","mcgregor","alma","mater","of","donn","barber"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Yale_University>","EntityName":"Yale University"}]}}

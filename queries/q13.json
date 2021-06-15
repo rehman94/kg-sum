@@ -1,0 +1,29 @@
+   {
+      "QuestionId": "WebQTrn-5",
+      "Parse": 
+        {
+          "TopicEntityName": "John Noble",
+          "TopicEntityMid": "m.02fgm7",
+          "InferentialChain": [
+            "film.actor.film",
+            "film.performance.character"
+          ],
+          "Constraints": [
+            {
+              
+              "EntityName": "The Lord of the Rings: The Two Towers",
+              "SourceNodeIndex": 0,
+              "NodePredicate": "film.performance.film",
+              "ValueType": "String"
+            }
+          ],
+          "Answers": [
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.0gp7f",
+              "EntityName": "Denethor II"
+            }
+          ]
+        }
+      
+    }

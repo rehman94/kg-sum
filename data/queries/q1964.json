@@ -1,0 +1,1 @@
+{"QuestionId":"q1964","Parse":{"TopicEntityName":"Kaplan  Inc  ","TopicEntityMid":"<http://dbpedia.org/resource/Kaplan,_Inc.>","InferentialChain":["educational","institution","kaplan","","s","affiliation"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Kaplan_University>","EntityName":"Kaplan University"}]}}

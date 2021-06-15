@@ -1,0 +1,1 @@
+{"QuestionId":"q2001","Parse":{"TopicEntityName":"Hawaii ","TopicEntityMid":"<http://dbpedia.org/resource/Hawaii>","InferentialChain":["teams","hawai","graduated","players","play","game"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Jacksonville_Jaguars>","EntityName":"Jacksonville Jaguars"}]}}

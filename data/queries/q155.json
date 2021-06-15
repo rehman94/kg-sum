@@ -1,0 +1,1 @@
+{"QuestionId":"q155","Parse":{"TopicEntityName":"Ikaros Smederna ","TopicEntityMid":"<http://dbpedia.org/resource/Ikaros_Smederna>","InferentialChain":["nation","the","speedway","league","ikaros","smederna","played"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Sweden>","EntityName":"Sweden"}]}}

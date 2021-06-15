@@ -1,0 +1,1 @@
+{"QuestionId":"q3832","Parse":{"TopicEntityName":"Mauritius Bank ","TopicEntityMid":"<http://dbpedia.org/resource/Mauritius_Bank>","InferentialChain":["country","mauritius","bank","the","national","commerce","bank","emerge"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Mauritius>","EntityName":"Mauritius"}]}}

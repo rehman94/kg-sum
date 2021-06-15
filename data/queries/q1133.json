@@ -1,0 +1,1 @@
+{"QuestionId":"q1133","Parse":{"TopicEntityName":"Volleyball ","TopicEntityMid":"<http://dbpedia.org/resource/Volleyball>","InferentialChain":["count","number","sports","played","the","universities","whihc","plays","volleyball"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"57","EntityName":""}]}}

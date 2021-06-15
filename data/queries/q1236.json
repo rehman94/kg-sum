@@ -1,0 +1,1 @@
+{"QuestionId":"q1236","Parse":{"TopicEntityName":"Eristoff ","TopicEntityMid":"<http://dbpedia.org/resource/Eristoff>","InferentialChain":["grey","gppse","eristoff","produced","company"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Bacardi>","EntityName":"Bacardi"}]}}

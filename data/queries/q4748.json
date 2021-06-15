@@ -1,0 +1,1 @@
+{"QuestionId":"q4748","Parse":{"TopicEntityName":"Reading  Berkshire ","TopicEntityMid":"<http://dbpedia.org/resource/Reading,_Berkshire>","InferentialChain":["give","count","schools","reading","","berkshire"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"28","EntityName":""}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q1152","Parse":{"TopicEntityName":"Jaber Al Ahmad Al Sabah ","TopicEntityMid":"<http://dbpedia.org/resource/Jaber_Al-Ahmad_Al-Sabah>","InferentialChain":["commanders","colin","powell","jaber","al","ahmad","al","sabah"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Gulf_War>","EntityName":"Gulf War"}]}}

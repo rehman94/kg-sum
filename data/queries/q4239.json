@@ -1,0 +1,1 @@
+{"QuestionId":"q4239","Parse":{"TopicEntityName":"Nina Vislova ","TopicEntityMid":"<http://dbpedia.org/resource/Nina_Vislova>","InferentialChain":["serving","railway","line","rostov","glavny","the","place","of","birth","of","nina","vislova"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Moscow>","EntityName":"Moscow"}]}}

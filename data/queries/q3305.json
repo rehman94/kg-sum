@@ -1,0 +1,1 @@
+{"QuestionId":"q3305","Parse":{"TopicEntityName":"Union State ","TopicEntityMid":"<http://dbpedia.org/resource/Union_State>","InferentialChain":["largest","city","union","state"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Moscow>","EntityName":"Moscow"}]}}

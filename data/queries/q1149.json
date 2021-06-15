@@ -1,0 +1,1 @@
+{"QuestionId":"q1149","Parse":{"TopicEntityName":"Dennis DeConcini ","TopicEntityMid":"<http://dbpedia.org/resource/Dennis_DeConcini>","InferentialChain":["dennis","deconcini","scott","berkun","live"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Seattle>","EntityName":"Seattle"}]}}

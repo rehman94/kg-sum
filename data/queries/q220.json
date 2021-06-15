@@ -1,0 +1,1 @@
+{"QuestionId":"q220","Parse":{"TopicEntityName":"Chumash people ","TopicEntityMid":"<http://dbpedia.org/resource/Chumash_people>","InferentialChain":["body","governs","place","made","the","chumash","people"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Boeing>","EntityName":"Boeing"}]}}

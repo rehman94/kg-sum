@@ -1,0 +1,1 @@
+{"QuestionId":"q292","Parse":{"TopicEntityName":"French language ","TopicEntityMid":"<http://dbpedia.org/resource/French_language>","InferentialChain":["currencies","in","places","people","speak","french"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"55","EntityName":""}]}}

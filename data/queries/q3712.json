@@ -1,0 +1,1 @@
+{"QuestionId":"q3712","Parse":{"TopicEntityName":"Kelly Osbourne ","TopicEntityMid":"<http://dbpedia.org/resource/Kelly_Osbourne>","InferentialChain":["relatives","ozzy","osbourne","kelly","osbourne"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Jack_Osbourne>","EntityName":"Jack Osbourne"}]}}

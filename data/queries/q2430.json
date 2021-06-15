@@ -1,0 +1,1 @@
+{"QuestionId":"q2430","Parse":{"TopicEntityName":"John Englehart ","TopicEntityMid":"<http://dbpedia.org/resource/John_Englehart>","InferentialChain":["justina","machado","john","englehard","born"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Chicago>","EntityName":"Chicago"}]}}

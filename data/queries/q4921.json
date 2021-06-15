@@ -1,0 +1,1 @@
+{"QuestionId":"q4921","Parse":{"TopicEntityName":"Old Lyme  Connecticut ","TopicEntityMid":"<http://dbpedia.org/resource/Old_Lyme,_Connecticut>","InferentialChain":["river","mouth","place","lyme","","connecticut"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Connecticut_River>","EntityName":"Connecticut River"}]}}

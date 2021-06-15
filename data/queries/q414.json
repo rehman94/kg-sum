@@ -1,0 +1,1 @@
+{"QuestionId":"q414","Parse":{"TopicEntityName":"Freedom of the City ","TopicEntityMid":"<http://dbpedia.org/resource/Freedom_of_the_City>","InferentialChain":["person","who","the","board","freedom","of","the","city"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Samuel_Pepys>","EntityName":"Samuel Pepys"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q932","Parse":{"TopicEntityName":"Gregorios Bernardakis ","TopicEntityMid":"<http://dbpedia.org/resource/Gregorios_Bernardakis>","InferentialChain":["list","awards","the","relatives","gregorios","bernardakis"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Nobel_Prize>","EntityName":"Nobel Prize"}]}}

@@ -1,0 +1,34 @@
+ {
+      "QuestionId": "WebQTrn-17221",
+     "Parse": 
+        {
+ 
+          "TopicEntityName": "Bahamas",
+          "TopicEntityMid": "m.0160w",
+          "InferentialChain": [
+            "location.location.containedby"
+          ],
+          "Constraints": [
+            {
+             
+              "EntityName": "Continent",
+              "SourceNodeIndex": 0,
+              "NodePredicate": "common.topic.notable_types",
+              "ValueType": "String"
+            }
+          ],
+          "Answers": [
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.059g4",
+              "EntityName": "North America"
+            },
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.07c5l",
+              "EntityName": "Americas"
+            }
+          ]
+        }
+      
+    }

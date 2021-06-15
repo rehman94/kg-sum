@@ -1,0 +1,1 @@
+{"QuestionId":"q1748","Parse":{"TopicEntityName":"Church and Wellesley ","TopicEntityMid":"<http://dbpedia.org/resource/Church_and_Wellesley>","InferentialChain":["religion","leader","church","wellesley","follow"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Buddhism>","EntityName":"Buddhism"}]}}

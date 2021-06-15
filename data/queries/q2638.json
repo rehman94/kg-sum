@@ -1,0 +1,1 @@
+{"QuestionId":"q2638","Parse":{"TopicEntityName":"Liang Chow ","TopicEntityMid":"<http://dbpedia.org/resource/Liang_Chow>","InferentialChain":["liang","chow","club"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Shawn_Johnson>","EntityName":"Shawn Johnson"}]}}

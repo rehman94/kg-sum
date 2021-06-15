@@ -1,0 +1,1 @@
+{"QuestionId":"q2314","Parse":{"TopicEntityName":"Salthill ","TopicEntityMid":"<http://dbpedia.org/resource/Salthill>","InferentialChain":["salthill"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Galway>","EntityName":"Galway"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q3559","Parse":{"TopicEntityName":"RenderMan  software  ","TopicEntityMid":"<http://dbpedia.org/resource/RenderMan_(software)>","InferentialChain":["company","key","person","edwin","catmull","produces","renderman"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Pixar>","EntityName":"Pixar"}]}}

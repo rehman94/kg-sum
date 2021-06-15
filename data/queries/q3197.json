@@ -1,0 +1,1 @@
+{"QuestionId":"q3197","Parse":{"TopicEntityName":"Joel Goodman ","TopicEntityMid":"<http://dbpedia.org/resource/Joel_Goodman>","InferentialChain":["show","theme","composed","joel","goodman"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Walt_Disney>","EntityName":"Walt Disney"}]}}

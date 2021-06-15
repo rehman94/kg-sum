@@ -1,0 +1,1 @@
+{"QuestionId":"q3789","Parse":{"TopicEntityName":"Michael Mayr ","TopicEntityMid":"<http://dbpedia.org/resource/Michael_Mayr>","InferentialChain":["nationality","the","chancellor","served","michael","mayr"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Austria>","EntityName":"Austria"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q3253","Parse":{"TopicEntityName":"ABC Records ","TopicEntityMid":"<http://dbpedia.org/resource/ABC_Records>","InferentialChain":["shows","voices","people","signed","abc","records"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/South_Park>","EntityName":"South Park"}]}}

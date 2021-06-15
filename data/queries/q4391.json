@@ -1,0 +1,1 @@
+{"QuestionId":"q4391","Parse":{"TopicEntityName":"Mikhail Voronin ","TopicEntityMid":"<http://dbpedia.org/resource/Mikhail_Voronin>","InferentialChain":["arena","wpc","dynamo","moscow","death","palce","of","mikhail","voronin"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Moscow>","EntityName":"Moscow"}]}}

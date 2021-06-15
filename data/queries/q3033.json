@@ -1,0 +1,1 @@
+{"QuestionId":"q3033","Parse":{"TopicEntityName":"Ghana School of Law ","TopicEntityMid":"<http://dbpedia.org/resource/Ghana_School_of_Law>","InferentialChain":["country","s","people","graduated","ghana","school","law"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Ghana>","EntityName":"Ghana"}]}}

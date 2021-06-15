@@ -1,0 +1,1 @@
+{"QuestionId":"q2109","Parse":{"TopicEntityName":"Kabir Suman ","TopicEntityMid":"<http://dbpedia.org/resource/Kabir_Suman>","InferentialChain":["religion","kabir","suman"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Islam>","EntityName":"Islam"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q1703","Parse":{"TopicEntityName":"Jerusalem Institute of Justice ","TopicEntityMid":"<http://dbpedia.org/resource/Jerusalem_Institute_of_Justice>","InferentialChain":["jerusalem","institute","justice","render","services"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Israel>","EntityName":"Israel"}]}}

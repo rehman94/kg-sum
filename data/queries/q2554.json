@@ -1,0 +1,1 @@
+{"QuestionId":"q2554","Parse":{"TopicEntityName":"Wealth management ","TopicEntityMid":"<http://dbpedia.org/resource/Wealth_management>","InferentialChain":["count","number","product","of","the","banks","of","the","product","wealth","management"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"832","EntityName":""}]}}

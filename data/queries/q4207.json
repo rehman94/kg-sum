@@ -1,0 +1,1 @@
+{"QuestionId":"q4207","Parse":{"TopicEntityName":"Josh Friedman ","TopicEntityMid":"<http://dbpedia.org/resource/Josh_Friedman>","InferentialChain":["creation","josh","friedman","portrayed","terminator","2"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/John_Connor>","EntityName":"John Connor"}]}}

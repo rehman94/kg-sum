@@ -1,0 +1,1 @@
+{"QuestionId":"q3459","Parse":{"TopicEntityName":"Stewart Bovell ","TopicEntityMid":"<http://dbpedia.org/resource/Stewart_Bovell>","InferentialChain":["give","mascot","the","military","unit","stewart","bovell","served"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Kangaroo>","EntityName":"Kangaroo"}]}}

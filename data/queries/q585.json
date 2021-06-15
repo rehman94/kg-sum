@@ -1,0 +1,1 @@
+{"QuestionId":"q585","Parse":{"TopicEntityName":"Los Angeles Kings ","TopicEntityMid":"<http://dbpedia.org/resource/Los_Angeles_Kings>","InferentialChain":["teams","la","kings","players"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"78","EntityName":""}]}}

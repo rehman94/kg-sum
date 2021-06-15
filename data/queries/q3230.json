@@ -1,0 +1,1 @@
+{"QuestionId":"q3230","Parse":{"TopicEntityName":"Burbank  California ","TopicEntityMid":"<http://dbpedia.org/resource/Burbank,_California>","InferentialChain":["tv","show","distributor","located","burbank","california"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"1158","EntityName":""}]}}

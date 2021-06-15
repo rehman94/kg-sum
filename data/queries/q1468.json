@@ -1,0 +1,1 @@
+{"QuestionId":"q1468","Parse":{"TopicEntityName":"Somerville College  Oxford ","TopicEntityMid":"<http://dbpedia.org/resource/Somerville_College,_Oxford>","InferentialChain":["graduates","somerville","college","political","parties"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"13","EntityName":""}]}}

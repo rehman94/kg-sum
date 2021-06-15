@@ -1,0 +1,1 @@
+{"QuestionId":"q3835","Parse":{"TopicEntityName":"Populous  company  ","TopicEntityMid":"<http://dbpedia.org/resource/Populous_(company)>","InferentialChain":["count","tenants","the","stadiums","designed","populous"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"478","EntityName":""}]}}

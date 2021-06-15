@@ -1,0 +1,1 @@
+{"QuestionId":"q3986","Parse":{"TopicEntityName":"Andrew Jackson ","TopicEntityMid":"<http://dbpedia.org/resource/Andrew_Jackson>","InferentialChain":["count","number","people","famous","andrew","jackson","commander"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"8","EntityName":""}]}}

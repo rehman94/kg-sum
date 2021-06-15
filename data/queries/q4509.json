@@ -1,0 +1,1 @@
+{"QuestionId":"q4509","Parse":{"TopicEntityName":"Earl B  Ruth ","TopicEntityMid":"<http://dbpedia.org/resource/Earl_B._Ruth>","InferentialChain":["appointer","earl","b","","ruth"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Gerald_Ford>","EntityName":"Gerald Ford"}]}}

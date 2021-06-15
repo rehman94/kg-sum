@@ -1,0 +1,1 @@
+{"QuestionId":"q1412","Parse":{"TopicEntityName":"Mus e d Orsay ","TopicEntityMid":"<http://dbpedia.org/resource/Musée_d'Orsay>","InferentialChain":["artists","","works","muse","d","orsay"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"0","EntityName":""}]}}

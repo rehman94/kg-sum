@@ -1,0 +1,1 @@
+{"QuestionId":"q4076","Parse":{"TopicEntityName":"Detroit ","TopicEntityMid":"<http://dbpedia.org/resource/Detroit>","InferentialChain":["company","owns","airlines","hub","dubai"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Ford_Motor_Company>","EntityName":"Ford Motor Company"}]}}

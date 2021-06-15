@@ -1,0 +1,1 @@
+{"QuestionId":"q3931","Parse":{"TopicEntityName":"Callisto  moon  ","TopicEntityMid":"<http://dbpedia.org/resource/Callisto_(moon)>","InferentialChain":["discovered","europa","callisto"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Galileo_Galilei>","EntityName":"Galileo Galilei"}]}}

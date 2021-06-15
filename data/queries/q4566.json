@@ -1,0 +1,1 @@
+{"QuestionId":"q4566","Parse":{"TopicEntityName":"United States ","TopicEntityMid":"<http://dbpedia.org/resource/United_States>","InferentialChain":["publisher","founded","american","citizens"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"3","EntityName":""}]}}

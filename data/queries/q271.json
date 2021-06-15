@@ -1,0 +1,1 @@
+{"QuestionId":"q271","Parse":{"TopicEntityName":"Dowra ","TopicEntityMid":"<http://dbpedia.org/resource/Dowra>","InferentialChain":["rivers","originate","dowra"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/River_Shannon>","EntityName":"River Shannon"}]}}

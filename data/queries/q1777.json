@@ -1,0 +1,1 @@
+{"QuestionId":"q1777","Parse":{"TopicEntityName":"Central Washington ","TopicEntityMid":"<http://dbpedia.org/resource/Central_Washington>","InferentialChain":["river","flows","eastern","western","washington"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Columbia_River>","EntityName":"Columbia River"}]}}

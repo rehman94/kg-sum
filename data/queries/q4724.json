@@ -1,0 +1,1 @@
+{"QuestionId":"q4724","Parse":{"TopicEntityName":"All I Need Is Your Sweet Lovin  ","TopicEntityMid":"<http://dbpedia.org/resource/All_I_Need_Is_Your_Sweet_Lovin'>","InferentialChain":["language","is","sweet","lovin","written"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Slovakia>","EntityName":"Slovakia"}]}}

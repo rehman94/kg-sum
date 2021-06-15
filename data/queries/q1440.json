@@ -1,0 +1,1 @@
+{"QuestionId":"q1440","Parse":{"TopicEntityName":"C  E  Webber ","TopicEntityMid":"<http://dbpedia.org/resource/C._E._Webber>","InferentialChain":["television","show","created","ce","webber","actor","named","companion"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Doctor_Who>","EntityName":"Doctor Who"}]}}

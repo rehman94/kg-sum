@@ -1,0 +1,1 @@
+{"QuestionId":"q1367","Parse":{"TopicEntityName":"Humes High School ","TopicEntityMid":"<http://dbpedia.org/resource/Humes_High_School>","InferentialChain":["person","educated","humes","high","school"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Elvis_Presley>","EntityName":"Elvis Presley"}]}}

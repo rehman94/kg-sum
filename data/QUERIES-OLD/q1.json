@@ -1,0 +1,32 @@
+{
+	"QuestionId": "WebQTest-1",
+	"RawQuestion": "List all the musicals with music by Elton John",
+	"ProcessedQuestion": "List all the musicals with music by Elton John",
+	"Parse": {
+		
+		"PotentialTopicEntityMention": "musicals, music by, Elton John",
+		"TopicEntityName": "Elton John",  
+		"TopicEntityMid": "<http://dbpedia.org/resource/Autism>",
+		"InferentialChain": ["Musical.musicBy"],
+		"Constraints": [],
+		"Time": null,
+		"Order": null,
+		"Answers": [{
+			"AnswerType": "Entity",
+			"AnswerArgument": "m.0906pq",
+			"EntityName": "The Lion King"
+		}, {
+			"AnswerType": "Entity",
+			"AnswerArgument": "m.08cdf8",
+			"EntityName": "Billy Elliot"
+		}, {
+			"AnswerType": "Entity",
+			"AnswerArgument": "m.09c5rk",
+			"EntityName": "Lestat"
+		}, {
+			"AnswerType": "Entity",
+			"AnswerArgument": "m.067scs",
+			"EntityName": "Aida"
+		}]
+	}
+}

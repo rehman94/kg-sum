@@ -1,0 +1,1 @@
+{"QuestionId":"q495","Parse":{"TopicEntityName":"Inthakin ","TopicEntityMid":"<http://dbpedia.org/resource/Inthakin>","InferentialChain":["political","ideology","palang","dharma","party","relegion","of","inthakin"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Buddhism>","EntityName":"Buddhism"}]}}

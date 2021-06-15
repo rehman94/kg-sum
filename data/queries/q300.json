@@ -1,0 +1,1 @@
+{"QuestionId":"q300","Parse":{"TopicEntityName":"Holmes Colbert ","TopicEntityMid":"<http://dbpedia.org/resource/Holmes_Colbert>","InferentialChain":["race","linda","hogan","state","of","origin","of","the","holmes","colbert"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Chickasaw>","EntityName":"Chickasaw"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q1837","Parse":{"TopicEntityName":"Cheers ","TopicEntityMid":"<http://dbpedia.org/resource/Cheers>","InferentialChain":["television","show","opening","theme","s","album","is","cheers"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Cheers>","EntityName":"Cheers"}]}}

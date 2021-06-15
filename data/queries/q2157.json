@@ -1,0 +1,1 @@
+{"QuestionId":"q2157","Parse":{"TopicEntityName":"Data center services ","TopicEntityMid":"<http://dbpedia.org/resource/Data_center_services>","InferentialChain":["give","count","services","the","company","data","center","the","services"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"13","EntityName":""}]}}

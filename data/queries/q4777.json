@@ -1,0 +1,1 @@
+{"QuestionId":"q4777","Parse":{"TopicEntityName":"Mount Bachelor ski area ","TopicEntityMid":"<http://dbpedia.org/resource/Mount_Bachelor_ski_area>","InferentialChain":["cooper","mountain","vineyards","mt","","bachelor","ski","area","located"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Oregon>","EntityName":"Oregon"}]}}

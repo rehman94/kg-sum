@@ -1,0 +1,1 @@
+{"QuestionId":"q622","Parse":{"TopicEntityName":"Larry David  ","TopicEntityMid":"<http://dbpedia.org/resource/Larry_David>}","InferentialChain":["count","number","shows","creators","jerry","seinfeld","larry","david"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"8","EntityName":""}]}}

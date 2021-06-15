@@ -1,0 +1,1 @@
+{"QuestionId":"q3280","Parse":{"TopicEntityName":"1997 Canadian Grand Prix ","TopicEntityMid":"<http://dbpedia.org/resource/1997_Canadian_Grand_Prix>","InferentialChain":["pole","driver","1997","canadian","grand","prix"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Michael_Schumacher>","EntityName":"Michael Schumacher"}]}}

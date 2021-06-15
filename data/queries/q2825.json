@@ -1,0 +1,1 @@
+{"QuestionId":"q2825","Parse":{"TopicEntityName":"Current River  Missouri  ","TopicEntityMid":"<http://dbpedia.org/resource/Current_River_(Missouri)>","InferentialChain":["mouth","mountain","current","river","","missouri"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Arkansas>","EntityName":"Arkansas"}]}}

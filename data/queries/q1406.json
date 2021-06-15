@@ -1,0 +1,1 @@
+{"QuestionId":"q1406","Parse":{"TopicEntityName":"Maniac Magee ","TopicEntityMid":"<http://dbpedia.org/resource/Maniac_Magee>","InferentialChain":["writer","the","maniac","magee"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Jerry_Spinelli>","EntityName":"Jerry Spinelli"}]}}

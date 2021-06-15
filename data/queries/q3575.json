@@ -1,0 +1,1 @@
+{"QuestionId":"q3575","Parse":{"TopicEntityName":"I Can t Change the World ","TopicEntityMid":"<http://dbpedia.org/resource/I_Can't_Change_the_World>","InferentialChain":["artist","the","album","the","song","t","change","the","world"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Brad_Paisley>","EntityName":"Brad Paisley"}]}}

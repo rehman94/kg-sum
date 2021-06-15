@@ -1,0 +1,1 @@
+{"QuestionId":"q405","Parse":{"TopicEntityName":"Europe ","TopicEntityMid":"<http://dbpedia.org/resource/Europe>","InferentialChain":["destinations","covered","airlines","serves","europe"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"34","EntityName":""}]}}

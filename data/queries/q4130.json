@@ -1,0 +1,1 @@
+{"QuestionId":"q4130","Parse":{"TopicEntityName":"ETC  TV channel  ","TopicEntityMid":"<http://dbpedia.org/resource/ETC_(TV_channel)>","InferentialChain":["networks","affiliated","broadcast"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Philippines>","EntityName":"Philippines"}]}}

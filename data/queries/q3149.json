@@ -1,0 +1,1 @@
+{"QuestionId":"q3149","Parse":{"TopicEntityName":"Bernard Herrmann ","TopicEntityMid":"<http://dbpedia.org/resource/Bernard_Herrmann>","InferentialChain":["give","count","movies","music","composer","bernard","herrmann"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"55","EntityName":""}]}}

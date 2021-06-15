@@ -1,0 +1,1 @@
+{"QuestionId":"q4988","Parse":{"TopicEntityName":"Edith Vonnegut ","TopicEntityMid":"<http://dbpedia.org/resource/Edith_Vonnegut>","InferentialChain":["father","edith","vonnegut","is","writer"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Kurt_Vonnegut>","EntityName":"Kurt Vonnegut"}]}}

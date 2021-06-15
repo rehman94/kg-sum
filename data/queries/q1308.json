@@ -1,0 +1,1 @@
+{"QuestionId":"q1308","Parse":{"TopicEntityName":"Marv McFadden ","TopicEntityMid":"<http://dbpedia.org/resource/Marv_McFadden>","InferentialChain":["team","marv","mcfadden","played"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Pittsburgh_Steelers>","EntityName":"Pittsburgh Steelers"}]}}

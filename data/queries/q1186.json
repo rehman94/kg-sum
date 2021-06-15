@@ -1,0 +1,1 @@
+{"QuestionId":"q1186","Parse":{"TopicEntityName":"Bangkok ","TopicEntityMid":"<http://dbpedia.org/resource/Bangkok>","InferentialChain":["total","number","relgions","people","born","bangkok"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"30","EntityName":""}]}}

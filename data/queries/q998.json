@@ -1,0 +1,1 @@
+{"QuestionId":"q998","Parse":{"TopicEntityName":"Ralf Schumacher ","TopicEntityMid":"<http://dbpedia.org/resource/Ralf_Schumacher>","InferentialChain":["relative","ralf","schumacher","famous","formula","racer"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Michael_Schumacher>","EntityName":"Michael Schumacher"}]}}

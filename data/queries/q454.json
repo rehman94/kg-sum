@@ -1,0 +1,1 @@
+{"QuestionId":"q454","Parse":{"TopicEntityName":"St  Viator High School ","TopicEntityMid":"<http://dbpedia.org/resource/St._Viator_High_School>","InferentialChain":["team","st","","viator","high","school"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Lion>","EntityName":"Lion"}]}}

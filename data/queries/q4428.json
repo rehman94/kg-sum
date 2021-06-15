@@ -1,0 +1,1 @@
+{"QuestionId":"q4428","Parse":{"TopicEntityName":"Francis Palmer Smith ","TopicEntityMid":"<http://dbpedia.org/resource/Francis_Palmer_Smith>","InferentialChain":["building","located","architect","francis","palmer","smith"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Atlanta>","EntityName":"Atlanta"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q2785","Parse":{"TopicEntityName":"Red Marauder ","TopicEntityMid":"<http://dbpedia.org/resource/Red_Marauder>","InferentialChain":["colour","red","marauder"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/United_Kingdom>","EntityName":"United Kingdom"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q109","Parse":{"TopicEntityName":"Antonio Giannini ","TopicEntityMid":"<http://dbpedia.org/resource/Antonio_Giannini>","InferentialChain":["antonio","giannini","born"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Venezuela>","EntityName":"Venezuela"}]}}

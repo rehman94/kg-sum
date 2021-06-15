@@ -1,0 +1,1 @@
+{"QuestionId":"q2288","Parse":{"TopicEntityName":"Amit Saigal ","TopicEntityMid":"<http://dbpedia.org/resource/Amit_Saigal>","InferentialChain":["largest","city","the","country","the","body","of","amit","saigal","discovered"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Mumbai>","EntityName":"Mumbai"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q1509","Parse":{"TopicEntityName":"Doug Acomb ","TopicEntityMid":"<http://dbpedia.org/resource/Doug_Acomb>","InferentialChain":["team","cam","plante","doug","acomb","play","atleast"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Toronto_Maple_Leafs>","EntityName":"Toronto Maple Leafs"}]}}

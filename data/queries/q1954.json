@@ -1,0 +1,1 @@
+{"QuestionId":"q1954","Parse":{"TopicEntityName":"Kingston  Ontario ","TopicEntityMid":"<http://dbpedia.org/resource/Kingston,_Ontario>","InferentialChain":["river","originates","cape","vincent","kingston","","ontario"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Saint_Lawrence_River>","EntityName":"Saint Lawrence River"}]}}

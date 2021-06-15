@@ -1,0 +1,1 @@
+{"QuestionId":"q2569","Parse":{"TopicEntityName":"Pattie Mallette ","TopicEntityMid":"<http://dbpedia.org/resource/Pattie_Mallette>","InferentialChain":["person","parent","pattie","mallette"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Justin_Bieber>","EntityName":"Justin Bieber"}]}}

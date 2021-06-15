@@ -1,0 +1,1 @@
+{"QuestionId":"q1501","Parse":{"TopicEntityName":"Stanley Kubrick ","TopicEntityMid":"<http://dbpedia.org/resource/Stanley_Kubrick>","InferentialChain":["movies","stanley","kubrick","direct"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"16","EntityName":""}]}}

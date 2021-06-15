@@ -1,0 +1,1 @@
+{"QuestionId":"q4633","Parse":{"TopicEntityName":"Atlantic Ocean ","TopicEntityMid":"<http://dbpedia.org/resource/Atlantic_Ocean>","InferentialChain":["cities","sea","flows","the","atlantic"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"31","EntityName":""}]}}

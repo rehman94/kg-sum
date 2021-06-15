@@ -1,0 +1,1 @@
+{"QuestionId":"q1587","Parse":{"TopicEntityName":"CNN ","TopicEntityMid":"<http://dbpedia.org/resource/CNN>","InferentialChain":["count","alma","maters","people","employed","the","cnn"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"9","EntityName":""}]}}

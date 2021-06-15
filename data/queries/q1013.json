@@ -1,0 +1,1 @@
+{"QuestionId":"q1013","Parse":{"TopicEntityName":"Miami ","TopicEntityMid":"<http://dbpedia.org/resource/Miami>","InferentialChain":["count","cities","whihch","the","sea","miami"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"24","EntityName":""}]}}

@@ -1,0 +1,20 @@
+{
+	"QuestionId": "WebQTest-6",
+	"RawQuestion": "Who developed Slack?",
+	"ProcessedQuestion": "Who developed Slack?",
+	"Parse": {
+		
+		"PotentialTopicEntityMention": "developer, Slack",
+		"TopicEntityName": "Slack",  
+		"TopicEntityMid": "<http://dbpedia.org/resource/Autism>",
+		"InferentialChain": ["product.Slack_(software)"],
+		"Constraints": [],
+		"Time": null,
+		"Order": null,
+		"Answers": [{
+			"AnswerType": "Entity",
+			"AnswerArgument": "m.0dd97nr",
+			"EntityName": "Slack Technologies"
+		}]
+	}
+}

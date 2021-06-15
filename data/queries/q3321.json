@@ -1,0 +1,1 @@
+{"QuestionId":"q3321","Parse":{"TopicEntityName":"Kenny Dies ","TopicEntityMid":"<http://dbpedia.org/resource/Kenny_Dies>","InferentialChain":["current","member","insect","robots","music","composer","of","kenny","dies"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Willie_Nelson>","EntityName":"Willie Nelson"}]}}

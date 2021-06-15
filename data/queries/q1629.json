@@ -1,0 +1,1 @@
+{"QuestionId":"q1629","Parse":{"TopicEntityName":"Pat Kirkwood  racing driver  ","TopicEntityMid":"<http://dbpedia.org/resource/Pat_Kirkwood_(racing_driver)>","InferentialChain":["largest","city","the","birthplace","of","pat","kirkwood"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Houston>","EntityName":"Houston"}]}}

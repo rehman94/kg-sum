@@ -1,0 +1,1 @@
+{"QuestionId":"q2880","Parse":{"TopicEntityName":"Bloomberg L P  ","TopicEntityMid":"<http://dbpedia.org/resource/Bloomberg_L.P.>","InferentialChain":["owner","bloomberg","l","p"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Michael_Bloomberg>","EntityName":"Michael Bloomberg"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q4290","Parse":{"TopicEntityName":"Houston Astros ","TopicEntityMid":"<http://dbpedia.org/resource/Houston_Astros>","InferentialChain":["teams","players","debuted","houston","astros","played"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"62","EntityName":""}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q1416","Parse":{"TopicEntityName":"Megabalanus concinnus ","TopicEntityMid":"<http://dbpedia.org/resource/Megabalanus_concinnus>","InferentialChain":["authoritative","persons","matter","megabalanus","concinnus"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Charles_Darwin>","EntityName":"Charles Darwin"}]}}

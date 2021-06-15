@@ -1,0 +1,1 @@
+{"QuestionId":"q1926","Parse":{"TopicEntityName":"Michigan ","TopicEntityMid":"<http://dbpedia.org/resource/Michigan>","InferentialChain":["wine","region","grapes","of","the","wine","region","michigan"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"8","EntityName":""}]}}

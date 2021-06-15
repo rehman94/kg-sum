@@ -1,0 +1,1 @@
+{"QuestionId":"q4948","Parse":{"TopicEntityName":"Indira Gandhi ","TopicEntityMid":"<http://dbpedia.org/resource/Indira_Gandhi>","InferentialChain":["party","indira","gandhi"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Indian_National_Congress>","EntityName":"Indian National Congress"}]}}

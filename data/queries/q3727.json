@@ -1,0 +1,1 @@
+{"QuestionId":"q3727","Parse":{"TopicEntityName":"Robert De Niro ","TopicEntityMid":"<http://dbpedia.org/resource/Robert_De_Niro>","InferentialChain":["people","band","robert","de","niro"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"3","EntityName":""}]}}

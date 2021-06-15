@@ -1,0 +1,1 @@
+{"QuestionId":"q1317","Parse":{"TopicEntityName":"Caterpillar 797 ","TopicEntityMid":"<http://dbpedia.org/resource/Caterpillar_797>","InferentialChain":["assembly","caterpillar","797"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/North_America>","EntityName":"North America"}]}}

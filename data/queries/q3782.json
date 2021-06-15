@@ -1,0 +1,1 @@
+{"QuestionId":"q3782","Parse":{"TopicEntityName":"Orange Line  MBTA  ","TopicEntityMid":"<http://dbpedia.org/resource/Orange_Line_(MBTA)>","InferentialChain":["owns","bridge","crosses","the","orange","line","mbta"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Massachusetts>","EntityName":"Massachusetts"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q3078","Parse":{"TopicEntityName":"BBC HD ","TopicEntityMid":"<http://dbpedia.org/resource/BBC_HD>","InferentialChain":["things","aired","bbc","hd"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"67","EntityName":""}]}}

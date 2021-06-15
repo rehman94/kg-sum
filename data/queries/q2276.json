@@ -1,0 +1,1 @@
+{"QuestionId":"q2276","Parse":{"TopicEntityName":"Doug Walgren ","TopicEntityMid":"<http://dbpedia.org/resource/Doug_Walgren>","InferentialChain":["doug","walgren","lee","si","chen","study"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Stanford_University>","EntityName":"Stanford University"}]}}

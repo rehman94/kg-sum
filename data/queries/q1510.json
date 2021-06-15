@@ -1,0 +1,1 @@
+{"QuestionId":"q1510","Parse":{"TopicEntityName":"Vesak ","TopicEntityMid":"<http://dbpedia.org/resource/Vesak>","InferentialChain":["type","vesak"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Buddhism>","EntityName":"Buddhism"}]}}

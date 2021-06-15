@@ -1,0 +1,1 @@
+{"QuestionId":"q4059","Parse":{"TopicEntityName":"University of Queensland ","TopicEntityMid":"<http://dbpedia.org/resource/University_of_Queensland>","InferentialChain":["awards","graduates","university","queensland","earned"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"41","EntityName":""}]}}

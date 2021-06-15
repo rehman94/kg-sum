@@ -1,0 +1,1 @@
+{"QuestionId":"q4653","Parse":{"TopicEntityName":"Mark Stevens  film editor  ","TopicEntityMid":"<http://dbpedia.org/resource/Mark_Stevens_(film_editor)>","InferentialChain":["give","count","movies","editor","mark","stevens"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"14","EntityName":""}]}}

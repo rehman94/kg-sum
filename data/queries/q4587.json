@@ -1,0 +1,1 @@
+{"QuestionId":"q4587","Parse":{"TopicEntityName":"Moordener Kill ","TopicEntityMid":"<http://dbpedia.org/resource/Moordener_Kill>","InferentialChain":["river","mouth","moordener","kill"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Hudson_River>","EntityName":"Hudson River"}]}}

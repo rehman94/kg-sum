@@ -1,0 +1,1 @@
+{"QuestionId":"q3413","Parse":{"TopicEntityName":"Gary Garland ","TopicEntityMid":"<http://dbpedia.org/resource/Gary_Garland>","InferentialChain":["the","person","relations","dionne","warwick","gary","garland"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Whitney_Houston>","EntityName":"Whitney Houston"}]}}

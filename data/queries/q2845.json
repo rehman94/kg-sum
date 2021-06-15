@@ -1,0 +1,1 @@
+{"QuestionId":"q2845","Parse":{"TopicEntityName":"Uncle Henry  Oz  ","TopicEntityMid":"<http://dbpedia.org/resource/Uncle_Henry_(Oz)>","InferentialChain":["relatives","spouse","of","uncle","henry","oz"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Dorothy_Gale>","EntityName":"Dorothy Gale"}]}}

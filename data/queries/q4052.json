@@ -1,0 +1,1 @@
+{"QuestionId":"q4052","Parse":{"TopicEntityName":"Joe Purcell ","TopicEntityMid":"<http://dbpedia.org/resource/Joe_Purcell>","InferentialChain":["president","relatives","clinton","family","lieutenant","named","joe","purcell"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Bill_Clinton>","EntityName":"Bill Clinton"}]}}

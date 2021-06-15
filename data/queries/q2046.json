@@ -1,0 +1,1 @@
+{"QuestionId":"q2046","Parse":{"TopicEntityName":"San Francisco 49ers ","TopicEntityMid":"<http://dbpedia.org/resource/San_Francisco_49ers>","InferentialChain":["players","debuted","careers","san","francisco","49ers"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"170","EntityName":""}]}}

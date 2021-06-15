@@ -1,0 +1,1 @@
+{"QuestionId":"q4232","Parse":{"TopicEntityName":"Peter Grauer ","TopicEntityMid":"<http://dbpedia.org/resource/Peter_Grauer>","InferentialChain":["stock","holder","the","bank","peter","grauer","works"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Michael_Bloomberg>","EntityName":"Michael Bloomberg"}]}}

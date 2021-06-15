@@ -1,0 +1,1 @@
+{"QuestionId":"q440","Parse":{"TopicEntityName":"Zambia ","TopicEntityMid":"<http://dbpedia.org/resource/Zambia>","InferentialChain":["river","ends","indian","ocean","starts","in","zambia"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Zambezi>","EntityName":"Zambezi"}]}}

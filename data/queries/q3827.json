@@ -1,0 +1,1 @@
+{"QuestionId":"q3827","Parse":{"TopicEntityName":"A Rose for Emily ","TopicEntityMid":"<http://dbpedia.org/resource/A_Rose_for_Emily>","InferentialChain":["wrote","rose","emily"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/William_Faulkner>","EntityName":"William Faulkner"}]}}

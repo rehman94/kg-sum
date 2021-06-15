@@ -1,0 +1,1 @@
+{"QuestionId":"q2673","Parse":{"TopicEntityName":"New Zealand Chess Federation ","TopicEntityMid":"<http://dbpedia.org/resource/New_Zealand_Chess_Federation>","InferentialChain":["common","genre","battle","chess","purpose","of","zealand","chess"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Chess>","EntityName":"Chess"}]}}

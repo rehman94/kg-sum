@@ -1,0 +1,1 @@
+{"QuestionId":"q4743","Parse":{"TopicEntityName":"Tremont Avenue ","TopicEntityMid":"<http://dbpedia.org/resource/Tremont_Avenue>","InferentialChain":["county","york","city","tremount","avenue","street","belong"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/The_Bronx>","EntityName":"The Bronx"}]}}

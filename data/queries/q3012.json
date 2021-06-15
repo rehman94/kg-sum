@@ -1,0 +1,1 @@
+{"QuestionId":"q3012","Parse":{"TopicEntityName":"Henri  Duke of Rohan ","TopicEntityMid":"<http://dbpedia.org/resource/Henri,_Duke_of_Rohan>","InferentialChain":["henri","","duke","rohan","laid","rest"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Geneva>","EntityName":"Geneva"}]}}

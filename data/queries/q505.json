@@ -1,0 +1,1 @@
+{"QuestionId":"q505","Parse":{"TopicEntityName":"Tokyo Broadcasting System ","TopicEntityMid":"<http://dbpedia.org/resource/Tokyo_Broadcasting_System>","InferentialChain":["people","written","stuff","broadcasted","tokyo","broadcasting","system"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"47","EntityName":""}]}}

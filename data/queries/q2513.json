@@ -1,0 +1,1 @@
+{"QuestionId":"q2513","Parse":{"TopicEntityName":"Santo Versace ","TopicEntityMid":"<http://dbpedia.org/resource/Santo_Versace>","InferentialChain":["constituency","santo","versace"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Calabria>","EntityName":"Calabria"}]}}

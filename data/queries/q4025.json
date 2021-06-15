@@ -1,0 +1,1 @@
+{"QuestionId":"q4025","Parse":{"TopicEntityName":"Thomas Bee ","TopicEntityMid":"<http://dbpedia.org/resource/Thomas_Bee>","InferentialChain":["appointed","successor","thomas","bee"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/James_Madison>","EntityName":"James Madison"}]}}

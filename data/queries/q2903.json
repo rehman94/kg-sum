@@ -1,0 +1,1 @@
+{"QuestionId":"q2903","Parse":{"TopicEntityName":"Go  programming language  ","TopicEntityMid":"<http://dbpedia.org/resource/Go_(programming_language)>","InferentialChain":["company","developed","dart"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Google>","EntityName":"Google"}]}}

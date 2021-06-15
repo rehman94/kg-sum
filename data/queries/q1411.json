@@ -1,0 +1,1 @@
+{"QuestionId":"q1411","Parse":{"TopicEntityName":"Montecito Inn ","TopicEntityMid":"<http://dbpedia.org/resource/Montecito_Inn>","InferentialChain":["developer","montecito","inn"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Charlie_Chaplin>","EntityName":"Charlie Chaplin"}]}}

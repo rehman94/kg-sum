@@ -1,0 +1,1 @@
+{"QuestionId":"q3456","Parse":{"TopicEntityName":"Microsoft Windows ","TopicEntityMid":"<http://dbpedia.org/resource/Microsoft_Windows>","InferentialChain":["software","run","operating","system","microsoft","windows"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"2065","EntityName":""}]}}

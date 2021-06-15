@@ -1,0 +1,1 @@
+{"QuestionId":"q471","Parse":{"TopicEntityName":"Gatwick Airport ","TopicEntityMid":"<http://dbpedia.org/resource/Gatwick_Airport>","InferentialChain":["places","airlines","fly","","head","office","located","the","gatwick","airport"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"11","EntityName":""}]}}

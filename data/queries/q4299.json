@@ -1,0 +1,1 @@
+{"QuestionId":"q4299","Parse":{"TopicEntityName":"Second lieutenant ","TopicEntityMid":"<http://dbpedia.org/resource/Second_lieutenant>","InferentialChain":["count","religions","lieutenants","military"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"30","EntityName":""}]}}

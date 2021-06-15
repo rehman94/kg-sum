@@ -1,0 +1,1 @@
+{"QuestionId":"q1220","Parse":{"TopicEntityName":"Frank Thorne ","TopicEntityMid":"<http://dbpedia.org/resource/Frank_Thorne>","InferentialChain":["recognized","title","frank","thorne","product","of","playboy","enterprise"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Playboy>","EntityName":"Playboy"}]}}

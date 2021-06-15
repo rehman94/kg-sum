@@ -1,0 +1,1 @@
+{"QuestionId":"q2199","Parse":{"TopicEntityName":"Texarkana  Texas ","TopicEntityMid":"<http://dbpedia.org/resource/Texarkana,_Texas>","InferentialChain":["bands","texarkana"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Pilotdrift>","EntityName":"Pilotdrift"}]}}

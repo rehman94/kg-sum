@@ -1,0 +1,1 @@
+{"QuestionId":"q1939","Parse":{"TopicEntityName":"Sonia Gandhi ","TopicEntityMid":"<http://dbpedia.org/resource/Sonia_Gandhi>","InferentialChain":["political","party","children","sonia","gandhi","belong"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Indian_National_Congress>","EntityName":"Indian National Congress"}]}}

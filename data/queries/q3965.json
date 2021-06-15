@@ -1,0 +1,1 @@
+{"QuestionId":"q3965","Parse":{"TopicEntityName":"Ryan Powell  lacrosse  ","TopicEntityMid":"<http://dbpedia.org/resource/Ryan_Powell_(lacrosse)>","InferentialChain":["team","michael","ryan","powell","play"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Syracuse_University>","EntityName":"Syracuse University"}]}}

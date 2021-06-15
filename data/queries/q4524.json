@@ -1,0 +1,1 @@
+{"QuestionId":"q4524","Parse":{"TopicEntityName":"Robert Hall  economist  ","TopicEntityMid":"<http://dbpedia.org/resource/Robert_Hall_(economist)>","InferentialChain":["list","institute","robert","hall"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Stanford_University>","EntityName":"Stanford University"}]}}

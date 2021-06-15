@@ -1,0 +1,1 @@
+{"QuestionId":"q4133","Parse":{"TopicEntityName":"Lava River Cave ","TopicEntityMid":"<http://dbpedia.org/resource/Lava_River_Cave>","InferentialChain":["state","goose","lake","valle","","which","is","part","lava","river","cave"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Oregon>","EntityName":"Oregon"}]}}

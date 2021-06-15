@@ -1,0 +1,1 @@
+{"QuestionId":"q1375","Parse":{"TopicEntityName":"Christine Rolfes ","TopicEntityMid":"<http://dbpedia.org/resource/Christine_Rolfes>","InferentialChain":["continents","digitalb","worked","","christine","rolfes","born","in"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/North_America>","EntityName":"North America"}]}}

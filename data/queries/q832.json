@@ -1,0 +1,1 @@
+{"QuestionId":"q832","Parse":{"TopicEntityName":"Sirius XM Holdings ","TopicEntityMid":"<http://dbpedia.org/resource/Sirius_XM_Holdings>","InferentialChain":["television","show","aired","channel","sirius","xm","holdings"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/The_Dan_Patrick_Show>","EntityName":"The Dan Patrick Show"}]}}

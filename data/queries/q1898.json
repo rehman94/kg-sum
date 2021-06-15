@@ -1,0 +1,1 @@
+{"QuestionId":"q1898","Parse":{"TopicEntityName":"Stone Canoe ","TopicEntityMid":"<http://dbpedia.org/resource/Stone_Canoe>","InferentialChain":["university","literary","magazine","named","stone","canoe","published"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Syracuse_University>","EntityName":"Syracuse University"}]}}

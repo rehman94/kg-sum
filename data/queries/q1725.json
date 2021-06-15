@@ -1,0 +1,1 @@
+{"QuestionId":"q1725","Parse":{"TopicEntityName":"Lawrence Okoye ","TopicEntityMid":"<http://dbpedia.org/resource/Lawrence_Okoye>","InferentialChain":["country","lawrence","okoye","s","nationality"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Great_Britain>","EntityName":"Great Britain"}]}}

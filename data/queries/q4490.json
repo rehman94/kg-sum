@@ -1,0 +1,1 @@
+{"QuestionId":"q4490","Parse":{"TopicEntityName":"Massachusetts House of Representatives ","TopicEntityMid":"<http://dbpedia.org/resource/Massachusetts_House_of_Representatives>","InferentialChain":["people","work","massachusetts","house","representatives"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"205","EntityName":""}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q4890","Parse":{"TopicEntityName":"United Kingdom ","TopicEntityMid":"<http://dbpedia.org/resource/United_Kingdom>","InferentialChain":["count","number","movies","editors","born","uk"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"362","EntityName":""}]}}

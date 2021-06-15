@@ -1,0 +1,1 @@
+{"QuestionId":"q4305","Parse":{"TopicEntityName":"Vangelis ","TopicEntityMid":"<http://dbpedia.org/resource/Vangelis>","InferentialChain":["movie","producer","michael","deeley","music","is","vangelis"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Blade_Runner>","EntityName":"Blade Runner"}]}}

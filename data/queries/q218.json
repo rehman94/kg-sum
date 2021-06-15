@@ -1,0 +1,1 @@
+{"QuestionId":"q218","Parse":{"TopicEntityName":"Jeff Munn ","TopicEntityMid":"<http://dbpedia.org/resource/Jeff_Munn>","InferentialChain":["basketball","team","coached","louis","dunbar","president","jeff","munn"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Harlem_Globetrotters>","EntityName":"Harlem Globetrotters"}]}}

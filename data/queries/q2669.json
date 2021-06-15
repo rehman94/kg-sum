@@ -1,0 +1,1 @@
+{"QuestionId":"q2669","Parse":{"TopicEntityName":"Pequea Creek ","TopicEntityMid":"<http://dbpedia.org/resource/Pequea_Creek>","InferentialChain":["states","bridges","pequea","creek"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Pennsylvania>","EntityName":"Pennsylvania"}]}}

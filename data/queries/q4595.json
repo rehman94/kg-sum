@@ -1,0 +1,1 @@
+{"QuestionId":"q4595","Parse":{"TopicEntityName":"Robin  comics  ","TopicEntityMid":"<http://dbpedia.org/resource/Robin_(comics)>","InferentialChain":["total","number","characters","of","the","plays","characters","is","robin","","comics"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"12","EntityName":""}]}}

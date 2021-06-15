@@ -1,0 +1,1 @@
+{"QuestionId":"q2920","Parse":{"TopicEntityName":"Sextus Barbour ","TopicEntityMid":"<http://dbpedia.org/resource/Sextus_Barbour>","InferentialChain":["letita","mctavish","hargrave","sextus","barbour","die"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Cholera>","EntityName":"Cholera"}]}}

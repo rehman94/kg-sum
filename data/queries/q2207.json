@@ -1,0 +1,1 @@
+{"QuestionId":"q2207","Parse":{"TopicEntityName":"Seattle Mariners ","TopicEntityMid":"<http://dbpedia.org/resource/Seattle_Mariners>","InferentialChain":["distributer","glover","stockholde","of","seattle","mariners"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Nintendo>","EntityName":"Nintendo"}]}}

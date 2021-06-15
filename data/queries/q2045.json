@@ -1,0 +1,1 @@
+{"QuestionId":"q2045","Parse":{"TopicEntityName":"BMW M43 ","TopicEntityMid":"<http://dbpedia.org/resource/BMW_M43>","InferentialChain":["predecessor","the","car","engine","succeeded","bmw","m43"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/BMW_M10>","EntityName":"BMW M10"}]}}

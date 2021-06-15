@@ -1,0 +1,1 @@
+{"QuestionId":"q710","Parse":{"TopicEntityName":"Nguendula Filipe ","TopicEntityMid":"<http://dbpedia.org/resource/Nguendula_Filipe>","InferentialChain":["country","league","nguendula","filipe","belongs"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Angola>","EntityName":"Angola"}]}}

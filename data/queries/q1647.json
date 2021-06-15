@@ -1,0 +1,1 @@
+{"QuestionId":"q1647","Parse":{"TopicEntityName":"Ford Y block engine ","TopicEntityMid":"<http://dbpedia.org/resource/Ford_Y-block_engine>","InferentialChain":["built","ford","y","block","engine"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Ford_Motor_Company>","EntityName":"Ford Motor Company"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q4009","Parse":{"TopicEntityName":"War of 1812 ","TopicEntityMid":"<http://dbpedia.org/resource/War_of_1812>","InferentialChain":["battle","thames","war","of","1812"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Tecumseh>","EntityName":"Tecumseh"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q2348","Parse":{"TopicEntityName":"Bombay Sapphire ","TopicEntityMid":"<http://dbpedia.org/resource/Bombay_Sapphire>","InferentialChain":["producer","eristoff","the","distributor","of","bombay","sapphire"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Bacardi>","EntityName":"Bacardi"}]}}

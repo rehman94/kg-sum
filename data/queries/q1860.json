@@ -1,0 +1,1 @@
+{"QuestionId":"q1860","Parse":{"TopicEntityName":"Tony Hogg ","TopicEntityMid":"<http://dbpedia.org/resource/Tony_Hogg>","InferentialChain":["battle","steven","palazao","tony","hogg","fight"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Gulf_War>","EntityName":"Gulf War"}]}}

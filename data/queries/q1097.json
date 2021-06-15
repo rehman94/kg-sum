@@ -1,0 +1,1 @@
+{"QuestionId":"q1097","Parse":{"TopicEntityName":"Luigi Brugnaro ","TopicEntityMid":"<http://dbpedia.org/resource/Luigi_Brugnaro>","InferentialChain":["city","province","metropolitan","city","venice","leader","luigi","brugnaro"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Venice>","EntityName":"Venice"}]}}

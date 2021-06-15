@@ -1,0 +1,1 @@
+{"QuestionId":"q3186","Parse":{"TopicEntityName":"Ajahn Thate ","TopicEntityMid":"<http://dbpedia.org/resource/Ajahn_Thate>","InferentialChain":["common","region","the","braod","cast","area","of","itv","nationality","of","ajahn","thate"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Thailand>","EntityName":"Thailand"}]}}

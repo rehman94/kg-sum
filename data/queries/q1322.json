@@ -1,0 +1,1 @@
+{"QuestionId":"q1322","Parse":{"TopicEntityName":"Sentinel High School ","TopicEntityMid":"<http://dbpedia.org/resource/Sentinel_High_School>","InferentialChain":["sentinel","high","school","team"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Sparta>","EntityName":"Sparta"}]}}

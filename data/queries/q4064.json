@@ -1,0 +1,1 @@
+{"QuestionId":"q4064","Parse":{"TopicEntityName":"Akale ","TopicEntityMid":"<http://dbpedia.org/resource/Akale>","InferentialChain":["wrote","house","meant","stand","akale"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Tennessee_Williams>","EntityName":"Tennessee Williams"}]}}

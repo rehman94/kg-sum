@@ -1,0 +1,1 @@
+{"QuestionId":"q3751","Parse":{"TopicEntityName":"Boundary Dam ","TopicEntityMid":"<http://dbpedia.org/resource/Boundary_Dam>","InferentialChain":["city","which","belongs","boundary","dam","the","palce","soccer","bowl","","76"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Seattle>","EntityName":"Seattle"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q4240","Parse":{"TopicEntityName":"Jack Your Body ","TopicEntityMid":"<http://dbpedia.org/resource/Jack_Your_Body>","InferentialChain":["home","town","the","musician","of","jack","body"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Chicago>","EntityName":"Chicago"}]}}

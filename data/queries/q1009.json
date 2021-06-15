@@ -1,0 +1,1 @@
+{"QuestionId":"q1009","Parse":{"TopicEntityName":"Science fiction ","TopicEntityMid":"<http://dbpedia.org/resource/Science_fiction>","InferentialChain":["items","belong","science","fiction","genre"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"4618","EntityName":""}]}}

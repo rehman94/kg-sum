@@ -1,0 +1,1 @@
+{"QuestionId":"q1231","Parse":{"TopicEntityName":"Orient News ","TopicEntityMid":"<http://dbpedia.org/resource/Orient_News>","InferentialChain":["recorded","the","kaptaan","is","the","headquarters","of","the","orient","news"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Dubai>","EntityName":"Dubai"}]}}

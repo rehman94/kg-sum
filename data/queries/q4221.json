@@ -1,0 +1,1 @@
+{"QuestionId":"q4221","Parse":{"TopicEntityName":"San Francisco Giants ","TopicEntityMid":"<http://dbpedia.org/resource/San_Francisco_Giants>","InferentialChain":["players","san","francisco","giants"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"69","EntityName":""}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q4231","Parse":{"TopicEntityName":"Tim Burton ","TopicEntityMid":"<http://dbpedia.org/resource/Tim_Burton>","InferentialChain":["tim","birton","s","movie","screenplay","daniel","waters"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Batman_Returns>","EntityName":"Batman Returns"}]}}

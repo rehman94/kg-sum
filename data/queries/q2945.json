@@ -1,0 +1,1 @@
+{"QuestionId":"q2945","Parse":{"TopicEntityName":"Baikal Mountains ","TopicEntityMid":"<http://dbpedia.org/resource/Baikal_Mountains>","InferentialChain":["river","roots","baikal","mountains"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Lena_River>","EntityName":"Lena River"}]}}

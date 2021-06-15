@@ -1,0 +1,1 @@
+{"QuestionId":"q3029","Parse":{"TopicEntityName":"Brian Horwitz ","TopicEntityMid":"<http://dbpedia.org/resource/Brian_Horwitz>","InferentialChain":["team","butch","metzger","brian","horwitz","debuted"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/San_Francisco_Giants>","EntityName":"San Francisco Giants"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q1795","Parse":{"TopicEntityName":"Oakland Athletics ","TopicEntityMid":"<http://dbpedia.org/resource/Oakland_Athletics>","InferentialChain":["football","teams","city","oakland","athletics","tenants"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Oakland_Raiders>","EntityName":"Oakland Raiders"}]}}

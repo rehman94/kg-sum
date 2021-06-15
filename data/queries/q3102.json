@@ -1,0 +1,1 @@
+{"QuestionId":"q3102","Parse":{"TopicEntityName":"Dan Otero ","TopicEntityMid":"<http://dbpedia.org/resource/Dan_Otero>","InferentialChain":["common","debut","team","the","butch","metzger","dan","otero"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/San_Francisco_Giants>","EntityName":"San Francisco Giants"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q1896","Parse":{"TopicEntityName":"Linda Hogan ","TopicEntityMid":"<http://dbpedia.org/resource/Linda_Hogan>","InferentialChain":["ethnicity","linda","hogan"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Chickasaw>","EntityName":"Chickasaw"}]}}

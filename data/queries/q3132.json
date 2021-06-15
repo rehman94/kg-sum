@@ -1,0 +1,1 @@
+{"QuestionId":"q3132","Parse":{"TopicEntityName":"Watkins Glen  New York ","TopicEntityMid":"<http://dbpedia.org/resource/Watkins_Glen,_New_York>","InferentialChain":["enumerate","teams","the","gps","held","watkins","glen","","ny"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"31","EntityName":""}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q1661","Parse":{"TopicEntityName":"Kurt Rambis ","TopicEntityMid":"<http://dbpedia.org/resource/Kurt_Rambis>","InferentialChain":["basketball","team","s","coach","kurt","rambis"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/New_York_Knicks>","EntityName":"New York Knicks"}]}}

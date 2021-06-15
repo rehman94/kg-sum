@@ -1,0 +1,1 @@
+{"QuestionId":"q4721","Parse":{"TopicEntityName":"WTUL ","TopicEntityMid":"<http://dbpedia.org/resource/WTUL>","InferentialChain":["work","institue","andrew","schally","belongs","wtul"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Tulane_University>","EntityName":"Tulane University"}]}}

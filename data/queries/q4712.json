@@ -1,0 +1,1 @@
+{"QuestionId":"q4712","Parse":{"TopicEntityName":"Toronto ","TopicEntityMid":"<http://dbpedia.org/resource/Toronto>","InferentialChain":["count","tenants","the","stadiums","owned","toronto"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"35","EntityName":""}]}}

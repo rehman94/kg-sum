@@ -1,0 +1,1 @@
+{"QuestionId":"q411","Parse":{"TopicEntityName":"Awash River ","TopicEntityMid":"<http://dbpedia.org/resource/Awash_River>","InferentialChain":["country","dam","awash","river"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Ethiopia>","EntityName":"Ethiopia"}]}}

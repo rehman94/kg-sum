@@ -1,0 +1,1 @@
+{"QuestionId":"q195","Parse":{"TopicEntityName":"Charles Pinckney  governor  ","TopicEntityMid":"<http://dbpedia.org/resource/Charles_Pinckney_(governor)>","InferentialChain":["appointed","successor","charles","pinckney"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/James_Madison>","EntityName":"James Madison"}]}}

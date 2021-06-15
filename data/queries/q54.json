@@ -1,0 +1,1 @@
+{"QuestionId":"q54","Parse":{"TopicEntityName":"Society Islands ","TopicEntityMid":"<http://dbpedia.org/resource/Society_Islands>","InferentialChain":["island","archipelago","society","islands","the","largest","city","named","faaa"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Tahiti>","EntityName":"Tahiti"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q1054","Parse":{"TopicEntityName":"Toronto Argonauts ","TopicEntityMid":"<http://dbpedia.org/resource/Toronto_Argonauts>","InferentialChain":["people","play","toronto","argonauts"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"348","EntityName":""}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q4211","Parse":{"TopicEntityName":"Microsoft Azure ","TopicEntityMid":"<http://dbpedia.org/resource/Microsoft_Azure>","InferentialChain":["count","number","services","of","the","companies","the","microsoft","azure","service"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"9","EntityName":""}]}}

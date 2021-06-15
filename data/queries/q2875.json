@@ -1,0 +1,1 @@
+{"QuestionId":"q2875","Parse":{"TopicEntityName":"Toronto Phantoms ","TopicEntityMid":"<http://dbpedia.org/resource/Toronto_Phantoms>","InferentialChain":["count","number","tenants","of","the","tenant","toronto","phantoms"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"15","EntityName":""}]}}

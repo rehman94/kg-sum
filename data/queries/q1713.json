@@ -1,0 +1,1 @@
+{"QuestionId":"q1713","Parse":{"TopicEntityName":"Loretta Ucelli ","TopicEntityMid":"<http://dbpedia.org/resource/Loretta_Ucelli>","InferentialChain":["president","loretta","ucelli","work","democratic","party"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Bill_Clinton>","EntityName":"Bill Clinton"}]}}

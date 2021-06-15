@@ -1,0 +1,1 @@
+{"QuestionId":"q4244","Parse":{"TopicEntityName":"Lung cancer ","TopicEntityMid":"<http://dbpedia.org/resource/Lung_cancer>","InferentialChain":["awards","died","lung","cancer"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"9","EntityName":""}]}}

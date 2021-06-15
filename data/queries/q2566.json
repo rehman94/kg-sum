@@ -1,0 +1,1 @@
+{"QuestionId":"q2566","Parse":{"TopicEntityName":"Steve Buyer ","TopicEntityMid":"<http://dbpedia.org/resource/Steve_Buyer>","InferentialChain":["battle","khalid","bin","sultan","conflict","of","steve","buyer"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Gulf_War>","EntityName":"Gulf War"}]}}

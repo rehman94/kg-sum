@@ -1,0 +1,1 @@
+{"QuestionId":"q2559","Parse":{"TopicEntityName":"The Sandman  Vertigo  ","TopicEntityMid":"<http://dbpedia.org/resource/The_Sandman_(Vertigo)>","InferentialChain":["writer","the","sandman","","vertigo"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Neil_Gaiman>","EntityName":"Neil Gaiman"}]}}

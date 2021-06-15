@@ -1,0 +1,1 @@
+{"QuestionId":"q4631","Parse":{"TopicEntityName":"Kamla Beniwal ","TopicEntityMid":"<http://dbpedia.org/resource/Kamla_Beniwal>","InferentialChain":["party","siddharta","shankar","ray","kamla","beniwal"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Indian_National_Congress>","EntityName":"Indian National Congress"}]}}

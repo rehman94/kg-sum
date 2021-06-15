@@ -1,0 +1,1 @@
+{"QuestionId":"q1936","Parse":{"TopicEntityName":"Federal Bureau of Investigation ","TopicEntityMid":"<http://dbpedia.org/resource/Federal_Bureau_of_Investigation>","InferentialChain":["people","work","fbi"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"71","EntityName":""}]}}

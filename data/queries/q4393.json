@@ -1,0 +1,1 @@
+{"QuestionId":"q4393","Parse":{"TopicEntityName":"Microsoft Visual Studio ","TopicEntityMid":"<http://dbpedia.org/resource/Microsoft_Visual_Studio>","InferentialChain":["company","founded","created","visual","studio"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Microsoft>","EntityName":"Microsoft"}]}}

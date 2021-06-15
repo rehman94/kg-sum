@@ -1,0 +1,1 @@
+{"QuestionId":"q2434","Parse":{"TopicEntityName":"Georg Meissner ","TopicEntityMid":"<http://dbpedia.org/resource/Georg_Meissner>","InferentialChain":["scientist","s","academic","advisor","georg","meissner","is","invention","anthrax"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Robert_Koch>","EntityName":"Robert Koch"}]}}

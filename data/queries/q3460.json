@@ -1,0 +1,1 @@
+{"QuestionId":"q3460","Parse":{"TopicEntityName":"Orange  Virginia ","TopicEntityMid":"<http://dbpedia.org/resource/Orange,_Virginia>","InferentialChain":["politicians","buried","place","orange","virginia"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/James_Madison>","EntityName":"James Madison"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q1055","Parse":{"TopicEntityName":"John Kotelawala ","TopicEntityMid":"<http://dbpedia.org/resource/John_Kotelawala>","InferentialChain":["allegiance","john","kotelawala"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Sri_Lanka>","EntityName":"Sri Lanka"}]}}

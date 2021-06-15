@@ -1,0 +1,1 @@
+{"QuestionId":"q4773","Parse":{"TopicEntityName":"Ragout fin ","TopicEntityMid":"<http://dbpedia.org/resource/Ragout_fin>","InferentialChain":["ingedients","required","make","ragout","fin"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"11","EntityName":""}]}}

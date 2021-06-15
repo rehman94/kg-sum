@@ -1,0 +1,1 @@
+{"QuestionId":"q4109","Parse":{"TopicEntityName":"Elliott Bay ","TopicEntityMid":"<http://dbpedia.org/resource/Elliott_Bay>","InferentialChain":["settlement","elliot","bay","belong","to"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Seattle>","EntityName":"Seattle"}]}}

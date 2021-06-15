@@ -1,0 +1,1 @@
+{"QuestionId":"q1610","Parse":{"TopicEntityName":"John B  Waldo ","TopicEntityMid":"<http://dbpedia.org/resource/John_B._Waldo>","InferentialChain":["successor","john","waldo"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Oregon>","EntityName":"Oregon"}]}}

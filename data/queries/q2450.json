@@ -1,0 +1,1 @@
+{"QuestionId":"q2450","Parse":{"TopicEntityName":"Electronics manufacturing services ","TopicEntityMid":"<http://dbpedia.org/resource/Electronics_manufacturing_services>","InferentialChain":["give","count","made","company","offers","electronical","manufacturing"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"46","EntityName":""}]}}

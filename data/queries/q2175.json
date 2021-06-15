@@ -1,0 +1,1 @@
+{"QuestionId":"q2175","Parse":{"TopicEntityName":"Toronto Marlies ","TopicEntityMid":"<http://dbpedia.org/resource/Toronto_Marlies>","InferentialChain":["find","total","number","tenants","of","the","stadium","tenants","toronto","marlies"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"11","EntityName":""}]}}

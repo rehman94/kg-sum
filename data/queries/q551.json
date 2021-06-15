@@ -1,0 +1,1 @@
+{"QuestionId":"q551","Parse":{"TopicEntityName":"Sodagreen ","TopicEntityMid":"<http://dbpedia.org/resource/Sodagreen>","InferentialChain":["boarder","country","korean","peninsula","state","of","sodagreen"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/China>","EntityName":"China"}]}}

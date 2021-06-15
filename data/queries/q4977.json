@@ -1,0 +1,1 @@
+{"QuestionId":"q4977","Parse":{"TopicEntityName":"Goethe Prize ","TopicEntityMid":"<http://dbpedia.org/resource/Goethe_Prize>","InferentialChain":["count","total","awards","won","the","writer","won","goethe","prize"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"63","EntityName":""}]}}

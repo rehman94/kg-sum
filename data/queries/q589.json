@@ -1,0 +1,1 @@
+{"QuestionId":"q589","Parse":{"TopicEntityName":"Tom Perriello ","TopicEntityMid":"<http://dbpedia.org/resource/Tom_Perriello>","InferentialChain":["region","tom","perriello"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Virginia>","EntityName":"Virginia"}]}}

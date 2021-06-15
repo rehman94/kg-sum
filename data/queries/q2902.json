@@ -1,0 +1,1 @@
+{"QuestionId":"q2902","Parse":{"TopicEntityName":"Barry Voight ","TopicEntityMid":"<http://dbpedia.org/resource/Barry_Voight>","InferentialChain":["famous","relative","barry","voight"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Angelina_Jolie>","EntityName":"Angelina Jolie"}]}}

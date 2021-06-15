@@ -1,0 +1,1 @@
+{"QuestionId":"q2275","Parse":{"TopicEntityName":"Guggenheim Partners ","TopicEntityMid":"<http://dbpedia.org/resource/Guggenheim_Partners>","InferentialChain":["baseball","teams","belongs","guggenheim","partners"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Los_Angeles_Dodgers>","EntityName":"Los Angeles Dodgers"}]}}

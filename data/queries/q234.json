@@ -1,0 +1,1 @@
+{"QuestionId":"q234","Parse":{"TopicEntityName":"Thomas Meehan  writer  ","TopicEntityMid":"<http://dbpedia.org/resource/Thomas_Meehan_(writer)>","InferentialChain":["label","released","movie","written","thomas","meehan"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Sony>","EntityName":"Sony"}]}}

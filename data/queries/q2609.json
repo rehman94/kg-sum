@@ -1,0 +1,1 @@
+{"QuestionId":"q2609","Parse":{"TopicEntityName":"XNU ","TopicEntityMid":"<http://dbpedia.org/resource/XNU>","InferentialChain":["organization","developed","iphone","os","the","xnu"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Apple_Inc.>","EntityName":"Apple Inc."}]}}

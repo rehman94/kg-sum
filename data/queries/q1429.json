@@ -1,0 +1,1 @@
+{"QuestionId":"q1429","Parse":{"TopicEntityName":"Kevin Jonas ","TopicEntityMid":"<http://dbpedia.org/resource/Kevin_Jonas>","InferentialChain":["group","joe","jonas","kevin","jonas","previously","involved"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Jonas_Brothers>","EntityName":"Jonas Brothers"}]}}

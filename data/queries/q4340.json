@@ -1,0 +1,1 @@
+{"QuestionId":"q4340","Parse":{"TopicEntityName":"George M  Chilcott ","TopicEntityMid":"<http://dbpedia.org/resource/George_M._Chilcott>","InferentialChain":["state","eorge","m","","chilcott","belong"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Colorado>","EntityName":"Colorado"}]}}

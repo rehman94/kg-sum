@@ -1,0 +1,1 @@
+{"QuestionId":"q2796","Parse":{"TopicEntityName":"History of Trier ","TopicEntityMid":"<http://dbpedia.org/resource/History_of_Trier>","InferentialChain":["ancient","country","capital","nicomedia","history","trier"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Roman_Empire>","EntityName":"Roman Empire"}]}}

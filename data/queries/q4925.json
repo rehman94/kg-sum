@@ -1,0 +1,1 @@
+{"QuestionId":"q4925","Parse":{"TopicEntityName":"Miao people ","TopicEntityMid":"<http://dbpedia.org/resource/Miao_people>","InferentialChain":["idelogy","palang","dharma","party","the","faith","of","miao","people"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Buddhism>","EntityName":"Buddhism"}]}}

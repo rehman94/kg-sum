@@ -1,0 +1,1 @@
+{"QuestionId":"q4270","Parse":{"TopicEntityName":"Double Diamond  album  ","TopicEntityMid":"<http://dbpedia.org/resource/Double_Diamond_(album)>","InferentialChain":["label","double","diamond","","album"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Brain>","EntityName":"Brain"}]}}

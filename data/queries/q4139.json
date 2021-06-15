@@ -1,0 +1,1 @@
+{"QuestionId":"q4139","Parse":{"TopicEntityName":"Biscayne Bay ","TopicEntityMid":"<http://dbpedia.org/resource/Biscayne_Bay>","InferentialChain":["city","be","part","american","mediterranean","sea","biscayne","bay"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Miami>","EntityName":"Miami"}]}}

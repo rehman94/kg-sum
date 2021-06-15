@@ -1,0 +1,20 @@
+{
+	"QuestionId": "WebQTest-4",
+	"RawQuestion": "In what city is the Heineken brewery?",
+	"ProcessedQuestion": "In what city is the Heineken brewery?",
+	"Parse": {
+		
+		"PotentialTopicEntityMention": "city, Heineken brewery",
+		"TopicEntityName": "Heineken brewery",  
+		"TopicEntityMid": "<http://dbpedia.org/resource/Heineken_International>",
+		"InferentialChain": ["Heineken.manufacturer.locationCity"],
+		"Constraints": [],
+		"Time": null,
+		"Order": null,
+		"Answers": [{
+			"AnswerType": "Entity",
+			"AnswerArgument": "m.0k3p",
+			"EntityName": "Amsterdam"
+		}]
+	}
+}

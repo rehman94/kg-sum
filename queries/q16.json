@@ -1,0 +1,19 @@
+  { "QuestionId": "WebQTrn-7",
+      "Parse": 
+        {
+          "TopicEntityName": "Washington Redskins",
+          "TopicEntityMid": "m.084l5",
+          "InferentialChain": [
+            "sports.sports_team.location"
+          ],
+          "Constraints": [],
+          "Answers": [
+            {
+              "AnswerType": "Entity",
+              "AnswerArgument": "m.0rh6k",
+              "EntityName": "Washington, D.C."
+            }
+          ]
+        }
+      
+    }

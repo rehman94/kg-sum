@@ -1,0 +1,1 @@
+{"QuestionId":"q4414","Parse":{"TopicEntityName":"Gamini Seneviratne ","TopicEntityMid":"<http://dbpedia.org/resource/Gamini_Seneviratne>","InferentialChain":["religion","gamini","seneviratne","follow"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Buddhism>","EntityName":"Buddhism"}]}}

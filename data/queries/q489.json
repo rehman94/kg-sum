@@ -1,0 +1,1 @@
+{"QuestionId":"q489","Parse":{"TopicEntityName":"Southwest African lion ","TopicEntityMid":"<http://dbpedia.org/resource/Southwest_African_lion>","InferentialChain":["species","southwest","african","lion"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Lion>","EntityName":"Lion"}]}}

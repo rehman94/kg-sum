@@ -1,0 +1,1 @@
+{"QuestionId":"q3167","Parse":{"TopicEntityName":"A Nice Pair ","TopicEntityMid":"<http://dbpedia.org/resource/A_Nice_Pair>","InferentialChain":["producer","the","album","","nice","pair","released"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Pink_Floyd>","EntityName":"Pink Floyd"}]}}

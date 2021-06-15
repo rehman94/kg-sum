@@ -1,0 +1,1 @@
+{"QuestionId":"q4472","Parse":{"TopicEntityName":"Sony ","TopicEntityMid":"<http://dbpedia.org/resource/Sony>","InferentialChain":["gaming","console","s","central","processing","unit","microprocessor","built","sony"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/PlayStation_3>","EntityName":"PlayStation 3"}]}}

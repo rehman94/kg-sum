@@ -1,0 +1,1 @@
+{"QuestionId":"q1915","Parse":{"TopicEntityName":"NCAA Division I Football Bowl Subdivision ","TopicEntityMid":"<http://dbpedia.org/resource/NCAA_Division_I_Football_Bowl_Subdivision>","InferentialChain":["universities","participate","ncaa","division","football","bowl","subdivision"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"26","EntityName":""}]}}

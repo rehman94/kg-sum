@@ -1,0 +1,1 @@
+{"QuestionId":"q4224","Parse":{"TopicEntityName":"Lars Bak  computer programmer  ","TopicEntityMid":"<http://dbpedia.org/resource/Lars_Bak_(computer_programmer)>","InferentialChain":["company","developed","language","designed","lars","bak"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Google>","EntityName":"Google"}]}}

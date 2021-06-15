@@ -1,0 +1,1 @@
+{"QuestionId":"q2442","Parse":{"TopicEntityName":"Christopher S  Stewart ","TopicEntityMid":"<http://dbpedia.org/resource/Christopher_S._Stewart>","InferentialChain":["workplace","christopher","s","","stewart"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/The_Wall_Street_Journal>","EntityName":"The Wall Street Journal"}]}}

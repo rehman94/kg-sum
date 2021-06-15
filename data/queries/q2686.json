@@ -1,0 +1,1 @@
+{"QuestionId":"q2686","Parse":{"TopicEntityName":"Hominidae ","TopicEntityMid":"<http://dbpedia.org/resource/Hominidae>","InferentialChain":["family","mammals","exists","family","hominidae"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"178","EntityName":""}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q3781","Parse":{"TopicEntityName":"Rama I ","TopicEntityMid":"<http://dbpedia.org/resource/Rama_I>","InferentialChain":["administrative","region","leader","sukhumbhand","paribatra","founded","rama"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Bangkok>","EntityName":"Bangkok"}]}}

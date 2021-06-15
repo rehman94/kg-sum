@@ -1,0 +1,1 @@
+{"QuestionId":"q1226","Parse":{"TopicEntityName":"CTV Television Network ","TopicEntityMid":"<http://dbpedia.org/resource/CTV_Television_Network>","InferentialChain":["count","number","judges","ve","ctv","network","shows"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"21","EntityName":""}]}}

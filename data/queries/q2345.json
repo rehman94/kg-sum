@@ -1,0 +1,1 @@
+{"QuestionId":"q2345","Parse":{"TopicEntityName":"I Pray on Christmas ","TopicEntityMid":"<http://dbpedia.org/resource/I_Pray_on_Christmas>","InferentialChain":["label","producers","pray","christmas","sign"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Sony>","EntityName":"Sony"}]}}

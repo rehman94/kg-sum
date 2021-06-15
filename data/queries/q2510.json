@@ -1,0 +1,1 @@
+{"QuestionId":"q2510","Parse":{"TopicEntityName":"South Carolina ","TopicEntityMid":"<http://dbpedia.org/resource/South_Carolina>","InferentialChain":["count","area","the","radio","stations","serves","south","carolina"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"16","EntityName":""}]}}

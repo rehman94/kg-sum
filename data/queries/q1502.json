@@ -1,0 +1,1 @@
+{"QuestionId":"q1502","Parse":{"TopicEntityName":"Christopher Franke ","TopicEntityMid":"<http://dbpedia.org/resource/Christopher_Franke>","InferentialChain":["televesion","show","artist","named","christopher","franke"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Babylon_5>","EntityName":"Babylon 5"}]}}

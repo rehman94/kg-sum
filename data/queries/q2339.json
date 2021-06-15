@@ -1,0 +1,1 @@
+{"QuestionId":"q2339","Parse":{"TopicEntityName":"Burro Flats Painted Cave ","TopicEntityMid":"<http://dbpedia.org/resource/Burro_Flats_Painted_Cave>","InferentialChain":["governing","body","burro","flats","painted","cave"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Boeing>","EntityName":"Boeing"}]}}

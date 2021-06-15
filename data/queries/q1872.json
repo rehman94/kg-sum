@@ -1,0 +1,1 @@
+{"QuestionId":"q1872","Parse":{"TopicEntityName":"Toronto ","TopicEntityMid":"<http://dbpedia.org/resource/Toronto>","InferentialChain":["places","find","companies","founded","in","toronto"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"2","EntityName":""}]}}

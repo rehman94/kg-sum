@@ -1,0 +1,1 @@
+{"QuestionId":"q1953","Parse":{"TopicEntityName":"Laszlo Bellak ","TopicEntityMid":"<http://dbpedia.org/resource/Laszlo_Bellak>","InferentialChain":["list","american","mediterranean","sea","city","the","place","death","of","laszlo","bellak"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Miami>","EntityName":"Miami"}]}}

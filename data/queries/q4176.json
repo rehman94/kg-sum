@@ -1,0 +1,1 @@
+{"QuestionId":"q4176","Parse":{"TopicEntityName":"Sune Agerschou ","TopicEntityMid":"<http://dbpedia.org/resource/Sune_Agerschou>","InferentialChain":["nationality","sune","agerschou"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Denmark>","EntityName":"Denmark"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q1251","Parse":{"TopicEntityName":"BBC ","TopicEntityMid":"<http://dbpedia.org/resource/BBC>","InferentialChain":["products","company","parent","bbc"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Doctor_Who>","EntityName":"Doctor Who"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q176","Parse":{"TopicEntityName":"San Marcos River ","TopicEntityMid":"<http://dbpedia.org/resource/San_Marcos_River>","InferentialChain":["largest","city","the","country","the","san","marcos","river","originates"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/New_York_City>","EntityName":"New York City"}]}}

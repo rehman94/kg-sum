@@ -1,0 +1,1 @@
+{"QuestionId":"q400","Parse":{"TopicEntityName":"Khmer Issarak ","TopicEntityMid":"<http://dbpedia.org/resource/Khmer_Issarak>","InferentialChain":["prime","minister","worked","the","khmer","issarak","religion"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Buddhism>","EntityName":"Buddhism"}]}}

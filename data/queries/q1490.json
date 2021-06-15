@@ -1,0 +1,1 @@
+{"QuestionId":"q1490","Parse":{"TopicEntityName":"King County  Washington ","TopicEntityMid":"<http://dbpedia.org/resource/King_County,_Washington>","InferentialChain":["county","seat","king","county","","washington"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Seattle>","EntityName":"Seattle"}]}}

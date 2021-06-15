@@ -1,0 +1,20 @@
+{
+	"QuestionId": "WebQTest-8",
+	"RawQuestion": "What did Bruce Carver die from?",
+	"ProcessedQuestion": "What did Bruce Carver die from?",
+	"Parse": {
+		
+		"PotentialTopicEntityMention": "Bruce Carver, die",
+		"TopicEntityName": "Bruce Carver",  
+		"TopicEntityMid": "<http://dbpedia.org/resource/Autism>",
+		"InferentialChain": ["Bruce_Carver.deathCause"],
+		"Constraints": [],
+		"Time": null,
+		"Order": null,
+		"Answers": [{
+			"AnswerType": "Entity",
+			"AnswerArgument": "m.0qcr0",
+			"EntityName": "Cancer"
+		}]
+	}
+}

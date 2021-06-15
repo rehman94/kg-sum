@@ -1,0 +1,1 @@
+{"QuestionId":"q299","Parse":{"TopicEntityName":"Motor vehicle ","TopicEntityMid":"<http://dbpedia.org/resource/Motor_vehicle>","InferentialChain":["maintainers","bridges","carry","motor","vehicles"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"87","EntityName":""}]}}

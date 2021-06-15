@@ -1,0 +1,1 @@
+{"QuestionId":"q4287","Parse":{"TopicEntityName":"Where Everybody Knows Your Name ","TopicEntityMid":"<http://dbpedia.org/resource/Where_Everybody_Knows_Your_Name>","InferentialChain":["show","opens","gary","portnoy"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Cheers>","EntityName":"Cheers"}]}}

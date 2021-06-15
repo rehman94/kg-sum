@@ -1,0 +1,1 @@
+{"QuestionId":"q2628","Parse":{"TopicEntityName":"Saint Petersburg ","TopicEntityMid":"<http://dbpedia.org/resource/Saint_Petersburg>","InferentialChain":["things","people","died","st","","petersburg"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"81","EntityName":""}]}}

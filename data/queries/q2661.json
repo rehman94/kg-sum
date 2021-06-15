@@ -1,0 +1,1 @@
+{"QuestionId":"q2661","Parse":{"TopicEntityName":"Rock a Doodle ","TopicEntityMid":"<http://dbpedia.org/resource/Rock-a-Doodle>","InferentialChain":["artist","closely","bare","necessities","rock","doodle"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Phil_Harris>","EntityName":"Phil Harris"}]}}

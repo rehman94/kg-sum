@@ -1,0 +1,1 @@
+{"QuestionId":"q2396","Parse":{"TopicEntityName":"Moscow Kazan high speed railway ","TopicEntityMid":"<http://dbpedia.org/resource/Moscow-Kazan_high-speed_railway>","InferentialChain":["moscow","kazan","high","speed","railway","starts","station"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Moscow>","EntityName":"Moscow"}]}}

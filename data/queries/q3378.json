@@ -1,0 +1,1 @@
+{"QuestionId":"q3378","Parse":{"TopicEntityName":"Chester Bennington ","TopicEntityMid":"<http://dbpedia.org/resource/Chester_Bennington>","InferentialChain":["band","joe","hahn","chester","bennington"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Linkin_Park>","EntityName":"Linkin Park"}]}}

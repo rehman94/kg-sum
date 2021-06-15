@@ -1,0 +1,1 @@
+{"QuestionId":"q3008","Parse":{"TopicEntityName":"North Sea ","TopicEntityMid":"<http://dbpedia.org/resource/North_Sea>","InferentialChain":["river","s","source","place","gloucestershire","mouth","north","sea"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/River_Thames>","EntityName":"River Thames"}]}}

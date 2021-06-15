@@ -1,0 +1,1 @@
+{"QuestionId":"q1681","Parse":{"TopicEntityName":"Texas ","TopicEntityMid":"<http://dbpedia.org/resource/Texas>","InferentialChain":["corporations","founded","texas"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"64","EntityName":""}]}}

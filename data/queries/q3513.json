@@ -1,0 +1,1 @@
+{"QuestionId":"q3513","Parse":{"TopicEntityName":"Dolores del R o ","TopicEntityMid":"<http://dbpedia.org/resource/Dolores_del_Río>","InferentialChain":["movies","directed","spouse","dolores","del","ro"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"0","EntityName":""}]}}

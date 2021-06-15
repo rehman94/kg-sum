@@ -1,0 +1,1 @@
+{"QuestionId":"q4696","Parse":{"TopicEntityName":"Mikhail Pashnin ","TopicEntityMid":"<http://dbpedia.org/resource/Mikhail_Pashnin>","InferentialChain":["prospect","team","mikhail","pashnin"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/New_York_Rangers>","EntityName":"New York Rangers"}]}}

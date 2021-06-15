@@ -1,0 +1,1 @@
+{"QuestionId":"q3545","Parse":{"TopicEntityName":"Ferrero SpA ","TopicEntityMid":"<http://dbpedia.org/resource/Ferrero_SpA>","InferentialChain":["beverage","launched","ferrero","spa"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Nutella>","EntityName":"Nutella"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q2702","Parse":{"TopicEntityName":"Teperberg 1870 ","TopicEntityMid":"<http://dbpedia.org/resource/Teperberg_1870>","InferentialChain":["country","carmel","winery","the","teperberg","1870","winery"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Israel>","EntityName":"Israel"}]}}

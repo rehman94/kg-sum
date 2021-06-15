@@ -1,0 +1,1 @@
+{"QuestionId":"q3982","Parse":{"TopicEntityName":"Greater Antilles ","TopicEntityMid":"<http://dbpedia.org/resource/Greater_Antilles>","InferentialChain":["islands","greater","antilles","archipelago"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Puerto_Rico>","EntityName":"Puerto Rico"}]}}

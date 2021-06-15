@@ -1,0 +1,1 @@
+{"QuestionId":"q91","Parse":{"TopicEntityName":"Berlin ","TopicEntityMid":"<http://dbpedia.org/resource/Berlin>","InferentialChain":["party","leaders","parties","are","headquartered","berlin"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"31","EntityName":""}]}}

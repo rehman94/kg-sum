@@ -1,0 +1,1 @@
+{"QuestionId":"q1239","Parse":{"TopicEntityName":"Boeing Field ","TopicEntityMid":"<http://dbpedia.org/resource/Boeing_Field>","InferentialChain":["county","seats","the","region","operates","the","boeing","field"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Seattle>","EntityName":"Seattle"}]}}

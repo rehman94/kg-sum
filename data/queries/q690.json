@@ -1,0 +1,1 @@
+{"QuestionId":"q690","Parse":{"TopicEntityName":"White Plum Asanga ","TopicEntityMid":"<http://dbpedia.org/resource/White_Plum_Asanga>","InferentialChain":["state","white","plum","asangas"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/North_America>","EntityName":"North America"}]}}

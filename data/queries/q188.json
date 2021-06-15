@@ -1,0 +1,1 @@
+{"QuestionId":"q188","Parse":{"TopicEntityName":"Mediterranean Sea ","TopicEntityMid":"<http://dbpedia.org/resource/Mediterranean_Sea>","InferentialChain":["count","number","cities","the","mediterranean","sea"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"13","EntityName":""}]}}

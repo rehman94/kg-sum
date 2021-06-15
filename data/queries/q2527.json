@@ -1,0 +1,1 @@
+{"QuestionId":"q2527","Parse":{"TopicEntityName":"William Garne ","TopicEntityMid":"<http://dbpedia.org/resource/William_Garne>","InferentialChain":["sport","lagos","preparatory","school","practices","","willian","garne","play"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Cricket>","EntityName":"Cricket"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q4001","Parse":{"TopicEntityName":"Lucifer s Hammer ","TopicEntityMid":"<http://dbpedia.org/resource/Lucifer's_Hammer>","InferentialChain":["publisher","lucifer","s","hammer"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Playboy>","EntityName":"Playboy"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q165","Parse":{"TopicEntityName":"Paramount Television ","TopicEntityMid":"<http://dbpedia.org/resource/Paramount_Television>","InferentialChain":["tv","show","composer","judy","hart","angelo","company","paramount","television"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Cheers>","EntityName":"Cheers"}]}}

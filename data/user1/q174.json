@@ -1,0 +1,1 @@
+{"QuestionId":"q174","Parse":{"TopicEntityName":"EverBank Field ","TopicEntityMid":"<http://dbpedia.org/resource/EverBank_Field>","InferentialChain":["tenant","bank","field","has","player","named","dan","shamash"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Jacksonville_Jaguars>","EntityName":"Jacksonville Jaguars"}]}}

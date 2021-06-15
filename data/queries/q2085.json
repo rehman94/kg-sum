@@ -1,0 +1,1 @@
+{"QuestionId":"q2085","Parse":{"TopicEntityName":"Jordan Cronenweth ","TopicEntityMid":"<http://dbpedia.org/resource/Jordan_Cronenweth>","InferentialChain":["movie","vangelis","gave","the","music","jordan","the","cinematographer"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Blade_Runner>","EntityName":"Blade Runner"}]}}

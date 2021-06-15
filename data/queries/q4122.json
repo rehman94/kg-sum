@@ -1,0 +1,1 @@
+{"QuestionId":"q4122","Parse":{"TopicEntityName":"Minbari ","TopicEntityMid":"<http://dbpedia.org/resource/Minbari>","InferentialChain":["series","find","minbari","species","","characters"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Babylon_5>","EntityName":"Babylon 5"}]}}

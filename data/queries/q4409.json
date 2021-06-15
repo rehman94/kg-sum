@@ -1,0 +1,1 @@
+{"QuestionId":"q4409","Parse":{"TopicEntityName":"Claiborne Pell ","TopicEntityMid":"<http://dbpedia.org/resource/Claiborne_Pell>","InferentialChain":["common","profession","dewitt","clinton","claiborne","pell"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/United_States_Senate>","EntityName":"United States Senate"}]}}

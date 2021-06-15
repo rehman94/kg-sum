@@ -1,0 +1,1 @@
+{"QuestionId":"q1271","Parse":{"TopicEntityName":"New York ","TopicEntityMid":"<http://dbpedia.org/resource/New_York>","InferentialChain":["sitcoms","theme","music","composed","yorker"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"31","EntityName":""}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q293","Parse":{"TopicEntityName":"Jowai ","TopicEntityMid":"<http://dbpedia.org/resource/Jowai>","InferentialChain":["political","party","governed","baraily","mp","jowai"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Indian_National_Congress>","EntityName":"Indian National Congress"}]}}

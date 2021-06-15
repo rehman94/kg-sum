@@ -1,0 +1,1 @@
+{"QuestionId":"q3155","Parse":{"TopicEntityName":"Colonel  United States  ","TopicEntityMid":"<http://dbpedia.org/resource/Colonel_(United_States)>","InferentialChain":["count","colonels"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"388","EntityName":""}]}}

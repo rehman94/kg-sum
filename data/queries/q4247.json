@@ -1,0 +1,1 @@
+{"QuestionId":"q4247","Parse":{"TopicEntityName":"Kris Kristofferson ","TopicEntityMid":"<http://dbpedia.org/resource/Kris_Kristofferson>","InferentialChain":["collaborated","johnny","cash","kris","kristofferson"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Willie_Nelson>","EntityName":"Willie Nelson"}]}}

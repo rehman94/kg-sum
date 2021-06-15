@@ -1,0 +1,1 @@
+{"QuestionId":"q1743","Parse":{"TopicEntityName":"Liger ","TopicEntityMid":"<http://dbpedia.org/resource/Liger>","InferentialChain":["panthera","leo","fossils","liger","belong","species"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Lion>","EntityName":"Lion"}]}}

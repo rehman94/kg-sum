@@ -1,0 +1,1 @@
+{"QuestionId":"q2705","Parse":{"TopicEntityName":"Southend on Sea ","TopicEntityMid":"<http://dbpedia.org/resource/Southend-on-Sea>","InferentialChain":["river","southend","sea","mountain"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/River_Thames>","EntityName":"River Thames"}]}}

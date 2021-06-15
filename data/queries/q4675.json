@@ -1,0 +1,1 @@
+{"QuestionId":"q4675","Parse":{"TopicEntityName":"2013 Central American Games ","TopicEntityMid":"<http://dbpedia.org/resource/2013_Central_American_Games>","InferentialChain":["built","stadiums","rented","the","central","american","games","2013"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/China>","EntityName":"China"}]}}

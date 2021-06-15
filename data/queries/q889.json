@@ -1,0 +1,1 @@
+{"QuestionId":"q889","Parse":{"TopicEntityName":"Random House ","TopicEntityMid":"<http://dbpedia.org/resource/Random_House>","InferentialChain":["subjects","random","house","publishers","published","books"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"103","EntityName":""}]}}

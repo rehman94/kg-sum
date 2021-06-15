@@ -1,0 +1,1 @@
+{"QuestionId":"q2431","Parse":{"TopicEntityName":"Quest Software ","TopicEntityMid":"<http://dbpedia.org/resource/Quest_Software>","InferentialChain":["successor","quest","software"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Dell>","EntityName":"Dell"}]}}

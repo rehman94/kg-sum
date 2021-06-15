@@ -1,0 +1,1 @@
+{"QuestionId":"q4253","Parse":{"TopicEntityName":"Dorothea Sharp ","TopicEntityMid":"<http://dbpedia.org/resource/Dorothea_Sharp>","InferentialChain":["artist","charing","cross","bridge","influenced","dorothea","sharp","career"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Claude_Monet>","EntityName":"Claude Monet"}]}}

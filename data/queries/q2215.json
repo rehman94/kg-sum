@@ -1,0 +1,1 @@
+{"QuestionId":"q2215","Parse":{"TopicEntityName":"PyChess ","TopicEntityMid":"<http://dbpedia.org/resource/PyChess>","InferentialChain":["purpose","the","maharashtra","chess","association","is","genere","of","pychess"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Chess>","EntityName":"Chess"}]}}

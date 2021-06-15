@@ -1,0 +1,1 @@
+{"QuestionId":"q104","Parse":{"TopicEntityName":"Myntdu River ","TopicEntityMid":"<http://dbpedia.org/resource/Myntdu_River>","InferentialChain":["leader","the","town","the","myntdu","river","originates"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Indian_National_Congress>","EntityName":"Indian National Congress"}]}}

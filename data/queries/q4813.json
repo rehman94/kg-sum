@@ -1,0 +1,1 @@
+{"QuestionId":"q4813","Parse":{"TopicEntityName":"Charles Plosser ","TopicEntityMid":"<http://dbpedia.org/resource/Charles_Plosser>","InferentialChain":["alma","mater","alvin","bell","charles","plosser"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Vanderbilt_University>","EntityName":"Vanderbilt University"}]}}

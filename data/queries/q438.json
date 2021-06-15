@@ -1,0 +1,1 @@
+{"QuestionId":"q438","Parse":{"TopicEntityName":"Bob MacMillan ","TopicEntityMid":"<http://dbpedia.org/resource/Bob_MacMillan>","InferentialChain":["draft","team","bob","macmillan","prospect","team","of","mikhail","pashnin"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/New_York_Rangers>","EntityName":"New York Rangers"}]}}

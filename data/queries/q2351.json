@@ -1,0 +1,1 @@
+{"QuestionId":"q2351","Parse":{"TopicEntityName":"Doctor Who  Evacuation Earth ","TopicEntityMid":"<http://dbpedia.org/resource/Doctor_Who:_Evacuation_Earth>","InferentialChain":["series","doctor","","evacuation","earth"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Doctor_Who>","EntityName":"Doctor Who"}]}}

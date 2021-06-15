@@ -1,0 +1,1 @@
+{"QuestionId":"q1100","Parse":{"TopicEntityName":"Asus ","TopicEntityMid":"<http://dbpedia.org/resource/Asus>","InferentialChain":["appliance","build","jointly","sony","asus"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/PlayStation_3>","EntityName":"PlayStation 3"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q3017","Parse":{"TopicEntityName":"Boston ","TopicEntityMid":"<http://dbpedia.org/resource/Boston>","InferentialChain":["owns","bridge","boston"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Massachusetts>","EntityName":"Massachusetts"}]}}

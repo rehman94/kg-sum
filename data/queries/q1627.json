@@ -1,0 +1,1 @@
+{"QuestionId":"q1627","Parse":{"TopicEntityName":"Sukhumbhand Paribatra ","TopicEntityMid":"<http://dbpedia.org/resource/Sukhumbhand_Paribatra>","InferentialChain":["region","sukhumbhand","paribatra","","leader"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Bangkok>","EntityName":"Bangkok"}]}}

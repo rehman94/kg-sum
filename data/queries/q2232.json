@@ -1,0 +1,1 @@
+{"QuestionId":"q2232","Parse":{"TopicEntityName":"Charles LeMaire ","TopicEntityMid":"<http://dbpedia.org/resource/Charles_LeMaire>","InferentialChain":["awards","ingmar","bergman","charles","lemaire"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Academy_Awards>","EntityName":"Academy Awards"}]}}

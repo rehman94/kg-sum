@@ -1,0 +1,1 @@
+{"QuestionId":"q4996","Parse":{"TopicEntityName":"TNT  TV channel  ","TopicEntityMid":"<http://dbpedia.org/resource/TNT_(TV_channel)>","InferentialChain":["show","formed","j","","michael","stroczynski","network","tnt"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Babylon_5>","EntityName":"Babylon 5"}]}}

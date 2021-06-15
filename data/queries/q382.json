@@ -1,0 +1,1 @@
+{"QuestionId":"q382","Parse":{"TopicEntityName":"Janata Party ","TopicEntityMid":"<http://dbpedia.org/resource/Janata_Party>","InferentialChain":["give","distinct","number","party","of","the","people","of","the","party","janata","party"],"Constraints":[],"Answers":[{"AnswerType":"Numeric","AnswerArgument":"54","EntityName":""}]}}

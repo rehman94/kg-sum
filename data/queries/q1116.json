@@ -1,0 +1,1 @@
+{"QuestionId":"q1116","Parse":{"TopicEntityName":"1989 Portuguese Grand Prix ","TopicEntityMid":"<http://dbpedia.org/resource/1989_Portuguese_Grand_Prix>","InferentialChain":["driver","pole","finish","1989","portuguese","grand","prix"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Ayrton_Senna>","EntityName":"Ayrton Senna"}]}}

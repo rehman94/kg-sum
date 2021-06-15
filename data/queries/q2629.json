@@ -1,0 +1,1 @@
+{"QuestionId":"q2629","Parse":{"TopicEntityName":"Ed Podolak ","TopicEntityMid":"<http://dbpedia.org/resource/Ed_Podolak>","InferentialChain":["ed","podolak","high","school"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Atlantic_Ocean>","EntityName":"Atlantic Ocean"}]}}

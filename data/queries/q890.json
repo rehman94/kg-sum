@@ -1,0 +1,1 @@
+{"QuestionId":"q890","Parse":{"TopicEntityName":"Georgina Theodora Wood ","TopicEntityMid":"<http://dbpedia.org/resource/Georgina_Theodora_Wood>","InferentialChain":["common","nationality","funny","face","comedian","of","georgina","theodora","wood"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Ghana>","EntityName":"Ghana"}]}}
