@@ -1,0 +1,1 @@
+{"QuestionId":"q58","Parse":{"TopicEntityName":"Sam Carrick ","TopicEntityMid":"<http://dbpedia.org/resource/Sam_Carrick>","InferentialChain":["tenants","master","card","center","draft","team","of","sam","carrrick"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Toronto_Maple_Leafs>","EntityName":"Toronto Maple Leafs"}]}}

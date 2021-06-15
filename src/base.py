@@ -250,7 +250,7 @@ class KnowledgeGraph(object):
     def topics(self):
         raise NotImplementedError
 
-    def topic_mids(self):
+    def topic_mids(self,user):
         raise NotImplementedError
 
     def entity_names(self):
@@ -300,7 +300,7 @@ class Freebase(KnowledgeGraph):
     def topics(self):
         return [fname.split('.')[0] for fname in os.listdir(self.topic_dir_)]
 
-    def topic_mids(self):
+    def topic_mids(self,user):
         return [fname[:-5] for fname in os.listdir(self.mid_dir_)]
 
     def entity_names(self):
@@ -359,7 +359,7 @@ class YAGO(KnowledgeGraph):
     def mid_dir(self):
         return self.mid_dir_
 
-    def topic_mids(self):
+    def topic_mids(self,user):
         return [fname[:-5] for fname in os.listdir(self.mid_dir_)]
 
     def entity_names(self):
@@ -402,6 +402,8 @@ class DBPedia(KnowledgeGraph):
         self.rdf_gz_ = os.path.join(DBPEDIA_DATA_DIR, rdf_gz)
         self.query_dir_ = os.path.join(DBPEDIA_DATA_DIR, query_dir)
         self.mid_dir_ = os.path.join(DBPEDIA_DATA_DIR, mid_dir)
+        self.mid_dir_user0 = os.path.join(DBPEDIA_DATA_DIR, 'user0-mid/')
+        self.mid_dir_user1 = os.path.join(DBPEDIA_DATA_DIR, 'user1-mid/')
         self.topic_mid_dir = os.path.join(DBPEDIA_DATA_DIR, 'by_topic/')
         print()
 
@@ -414,8 +416,11 @@ class DBPedia(KnowledgeGraph):
     def mid_dir(self):
         return self.mid_dir_
 
-    def topic_mids(self):
-        return [fname[:-5] for fname in os.listdir(self.mid_dir_)]
+    def topic_mids(self,user):
+        if user == 0:
+            return [fname[:-5] for fname in os.listdir(self.mid_dir_user0)]
+        else:
+            return [fname[:-5] for fname in os.listdir(self.mid_dir_user1)]
 
     def entity_names(self):
         return {entity: entity for entity in self.entities()}

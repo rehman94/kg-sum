@@ -27,6 +27,7 @@ METHODS = {
 }
 
 
+
 def answer_queries_in_log(user, KG, K, query_log, summary_methods, test_size=0.5):
     """
     :param KG: KnowledgeGraph
@@ -84,9 +85,9 @@ def parse_args():
 
     parser.add_argument('--kg', choices=list(KG_MAPPING.keys()), default='DBPedia',
                         help='KG to summarize')
-    parser.add_argument('--n-queries', type=positive_int, default=811,
+    parser.add_argument('--n-queries', type=positive_int, default=100,
                         help='Number of queries to simulate per user. Default is 200.')
-    parser.add_argument('--n-topic-mids', type=positive_int, default=400,
+    parser.add_argument('--n-topic-mids', type=positive_int, default=50,
                         help='Number of topic mids of interest per user. Default is 50.')
     parser.add_argument('--n-topics', type=positive_int, default=6,
                         help='Number of topics to simulate per user log. '
@@ -132,6 +133,7 @@ def main():
     for user in range(args.n_users):
         logging.info('---Simulating user {}---'.format(user))
 
+        myuser = user
         if args.kg == 'Freebase':
             topics = random.sample(KG.topics(), k=args.n_topics)
 
@@ -139,7 +141,7 @@ def main():
                 KG, topics, args.n_mids_per_topic, args.n_queries,
                 shuffle=args.shuffle, random_query_prob=args.random_query_prob)
         else:
-            topic_mids = random.sample(KG.topic_mids(), k=args.n_topic_mids)
+            topic_mids = random.sample(KG.topic_mids(myuser), k=args.n_topic_mids)
 
             query_log = query_log_by_mids(
                 KG, topic_mids, args.n_queries,

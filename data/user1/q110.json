@@ -1,0 +1,1 @@
+{"QuestionId":"q110","Parse":{"TopicEntityName":"David Scherman ","TopicEntityMid":"<http://dbpedia.org/resource/David_Scherman>","InferentialChain":["david","scherman","trained"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Dartmouth_College>","EntityName":"Dartmouth College"}]}}

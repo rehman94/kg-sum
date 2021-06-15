@@ -1,0 +1,1 @@
+{"QuestionId":"q82","Parse":{"TopicEntityName":"Trinity House ","TopicEntityMid":"<http://dbpedia.org/resource/Trinity_House>","InferentialChain":["members","boards","of","freedom","of","the","city","trinity","house"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Samuel_Pepys>","EntityName":"Samuel Pepys"}]}}

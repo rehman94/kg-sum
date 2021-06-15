@@ -1,0 +1,1 @@
+{"QuestionId":"q85","Parse":{"TopicEntityName":"Lee Leffingwell ","TopicEntityMid":"<http://dbpedia.org/resource/Lee_Leffingwell>","InferentialChain":["war","roh","tae","woo","lee","leffingwell","fight"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Vietnam_War>","EntityName":"Vietnam War"}]}}

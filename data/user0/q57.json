@@ -1,0 +1,1 @@
+{"QuestionId":"q57","Parse":{"TopicEntityName":"Sherlock  software  ","TopicEntityMid":"<http://dbpedia.org/resource/Sherlock_(software)>","InferentialChain":["company","involved","development","sherlock","arthur","levinson","work"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Apple_Inc.>","EntityName":"Apple Inc."}]}}

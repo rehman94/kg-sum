@@ -1,0 +1,1 @@
+{"QuestionId":"q134","Parse":{"TopicEntityName":"Charles Ayres ","TopicEntityMid":"<http://dbpedia.org/resource/Charles_Ayres>","InferentialChain":["alma","mater","the","angela","trusty","charles","ayres"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Dartmouth_College>","EntityName":"Dartmouth College"}]}}

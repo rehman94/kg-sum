@@ -1,0 +1,1 @@
+{"QuestionId":"q50","Parse":{"TopicEntityName":"Urbain Le Verrier ","TopicEntityMid":"<http://dbpedia.org/resource/Urbain_Le_Verrier>","InferentialChain":["planet","discovered","johann","gottfired","urbain","le","verrier"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Neptune>","EntityName":"Neptune"}]}}

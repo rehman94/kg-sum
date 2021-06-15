@@ -1,0 +1,1 @@
+{"QuestionId":"q1","Parse":{"TopicEntityName":"Winston Churchill ","TopicEntityMid":"<http://dbpedia.org/resource/Winston_Churchill>","InferentialChain":["winston","churchill","prime","minister","selwyn","lloyd"],"Constraints":[],"Answers":[{"AnswerType":"boolean","AnswerArgument":"true","EntityName":""}]}}

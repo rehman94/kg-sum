@@ -1,0 +1,1 @@
+{"QuestionId":"q191","Parse":{"TopicEntityName":"Acer nigrum ","TopicEntityMid":"<http://dbpedia.org/resource/Acer_nigrum>","InferentialChain":["acer","nigrum","making"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Maple_syrup>","EntityName":"Maple syrup"}]}}

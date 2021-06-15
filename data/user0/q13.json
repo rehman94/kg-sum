@@ -1,0 +1,1 @@
+{"QuestionId":"q13","Parse":{"TopicEntityName":"Nader Guirat ","TopicEntityMid":"<http://dbpedia.org/resource/Nader_Guirat>","InferentialChain":["hometown","nader","guirat","","josef","johansson","born"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Tunisia>","EntityName":"Tunisia"}]}}

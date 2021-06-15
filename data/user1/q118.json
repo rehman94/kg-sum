@@ -1,0 +1,1 @@
+{"QuestionId":"q118","Parse":{"TopicEntityName":"Danish straits ","TopicEntityMid":"<http://dbpedia.org/resource/Danish_straits>","InferentialChain":["sea","helsinki","the","shore","city","outflow","danish","straits"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Baltic_Sea>","EntityName":"Baltic Sea"}]}}

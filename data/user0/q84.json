@@ -1,0 +1,1 @@
+{"QuestionId":"q84","Parse":{"TopicEntityName":"Salahuddin Rabbani ","TopicEntityMid":"<http://dbpedia.org/resource/Salahuddin_Rabbani>","InferentialChain":["title","zaman","shah","durrani","nationality","of","salahuddin"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Afghanistan>","EntityName":"Afghanistan"}]}}

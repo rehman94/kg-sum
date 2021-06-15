@@ -1,0 +1,1 @@
+{"QuestionId":"q18","Parse":{"TopicEntityName":"Outlook on the web ","TopicEntityMid":"<http://dbpedia.org/resource/Outlook_on_the_web>","InferentialChain":["share","holder","outlook","content","license","of","the","msx","basics"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Microsoft>","EntityName":"Microsoft"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId":"q71","Parse":{"TopicEntityName":"Robert Witherspoon ","TopicEntityMid":"<http://dbpedia.org/resource/Robert_Witherspoon>","InferentialChain":["appointed","governor","robert","witherspoon","worked"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/James_Madison>","EntityName":"James Madison"}]}}

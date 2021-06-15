@@ -1,0 +1,1 @@
+{"QuestionId":"q76","Parse":{"TopicEntityName":"Edmund John ","TopicEntityMid":"<http://dbpedia.org/resource/Edmund_John>","InferentialChain":["country","citizenship","saima","chowdhury","edmund","john"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/United_Kingdom>","EntityName":"United Kingdom"}]}}

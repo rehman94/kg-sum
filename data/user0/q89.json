@@ -1,0 +1,1 @@
+{"QuestionId":"q89","Parse":{"TopicEntityName":"Giorgos Kaminis ","TopicEntityMid":"<http://dbpedia.org/resource/Giorgos_Kaminis>","InferentialChain":["city","mayor","is","giorgos","kaminis"],"Constraints":[],"Answers":[{"AnswerType":"Entity","AnswerArgument":"<http://dbpedia.org/resource/Athens>","EntityName":"Athens"}]}}
