@@ -23,12 +23,13 @@ Summarization is done over [DBPedia](https://www.dbpedia.org/) Knowldge Graph. D
 
 ### Summarizing Knowldge Graph
 - Clone or download the project in desired directory
-- In lines 13-15 of ``base.py``, change the path of DBPedia dataset according to your local data directories.
+- In lines 16-18 of ``base.py``, change the path of DBPedia dataset according to your local data directories.
 - In addition to this, you may need to change according to your directory structure and file naming conventions:
-    - ``query_dir`` The subdirectory where generated queries are saved. The queries should be in WebQSP Format. If the queries are not in WebQSP format, you may checkout to ``branch`` in order to convert the queries in desired format.
+    - The subdirectory where queries are saved for the user(i.e. ``user0``, ``user1``, and ``user2`` for QALD8, QALD9, and LcQuAD respectively), The queries should be in WebQSP Format. If the queries are not in WebQSP format, you may change to ``script`` folder in order to convert the queries in desired format.
 - To generate the summary, run this command in the base directory <br>
-    ``python3 main.py --kg DBPedia --n-queries 200 ``
-- Summaries are generated in the ``out`` directory of the Project
+    ``python3 main.py``
+- Incase you want to change code behaviour, you can edit arguments of ``parse_args`` method in ``main.py`` class. 
+- Summaries are generated in the directory ``out0``,``out1``,and ``out2`` of the Project, according to user.
 
 ### Running Question Answering System
 - These generated summaries along with DBPedia DataSets are then used by QA system(i.e. TeBaQA)
