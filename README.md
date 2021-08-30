@@ -7,19 +7,6 @@
 - scipy
 - pandas
 - JAVA 11 or above (For TeBaQA)
-- ElasticSearch 6.6.1
-
-## Data
-
-# Question Answering system using GLIMPSE framework
-
-## Requirements
-
-- Python 3.4 or above (For Knowldge Graph Summarization)
-- numpy
-- scipy
-- pandas
-- JAVA 11 or above (For TeBaQA)
 - ElasticSearch 6.6.1 (For TeBaQA)
 
 ## Data
